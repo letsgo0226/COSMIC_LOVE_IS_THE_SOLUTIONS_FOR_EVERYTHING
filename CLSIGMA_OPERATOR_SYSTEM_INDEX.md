@@ -24,15 +24,25 @@ sh clsigma.sh list
 
 | Command | Target script | Purpose |
 | --- | --- | --- |
-| `peace` | `CLSIGMA_PEACE_COMMUNICATION_OPERATOR_ONE_LINER.sh` | Nonviolent peace communication certificate |
+| `hs-zero` | `CLSIGMA_HS_ZERO_FINAL_SEAL_ONE_LINER.sh` | final H(s)=0 no-SHA lossless iSH seal |
+| `peace` | `CLSIGMA_PEACE_COMMUNICATION_OPERATOR_ONE_LINER.sh` | nonviolent peace communication certificate |
 | `stdin-zeta` | `CLSIGMA_STDIN_BASE64_ZETA_LANGUAGE_ONE_LINER.sh` | stdin/base64 zeta language |
 | `account` | `CLSIGMA_ACCOUNT_REPOS_EQUALITY_LANGUAGE_ONE_LINER.sh` | GitHub account repository equality language |
+| `allrepos-godel` | `CLSIGMA_ALL_REPOS_SINGLE_GODEL_ONE_LINER.sh` | derive a finite account snapshot G_all |
+| `solve-s` | `CLSIGMA_SOLVE_S_FROM_G_ALL_ONE_LINER.sh` | solve s from Solution(s)=G_all |
 | `possible-worlds` | `CLSIGMA_POSSIBLE_WORLDS_ZETA_GODEL_ONE_LINER.sh` | possible-world zeta/Godel certificate |
 | `zero-entropy` | `CLSIGMA_ZERO_ENTROPY_GODEL_SPECTRUM_ONE_LINER.sh` | engineering information-zero Godel spectrum |
 | `zlib-tree` | `CLSIGMA_ZLIB_B64_TRUE_TREE_G25_CERT_ONE_LINER.sh` | raw bytes -> zlib -> base64 -> True-Tree G25 certificate |
 | `tree-g25` | `COSMIC_LOVE_TRUE_TREE_G25_GODEL_ONE_LINER.sh` | basic True-Tree G25 Godel encoder |
 
 ## Examples
+
+Final H(s)=0 seal:
+
+```sh
+sh clsigma.sh hs-zero sample letsgo0226
+sh clsigma.sh hs-zero identity letsgo0226 256 > CLSIGMA_HS_ZERO_FINAL_SEAL.clcert.json
+```
 
 Peace operator:
 
@@ -74,15 +84,19 @@ Z_i = 1/2 + i*ln(G_i)
 H_info = 0 iff the encoded finite object is uniquely recoverable
 ```
 
-The True-Tree G25 recurrence is:
+The final-seal ordered True-Tree G25 recurrence is:
 
 ```text
-E_0 = 1
-E_{k+1} = 6E_k + d_k
+n_0 = 1
 
-d_k = 2 if bit_k = 1
-d_k = 5 if bit_k = 0
+if bit_k = 1:
+  n_{k+1} = 2*n_k + 2
+
+if bit_k = 0:
+  n_{k+1} = 2*n_k + 5
 ```
+
+This ordered recurrence preserves bit position. A plain commutative product over factors 2 and 5 would not be lossless because it would erase order.
 
 ## Boundary
 
