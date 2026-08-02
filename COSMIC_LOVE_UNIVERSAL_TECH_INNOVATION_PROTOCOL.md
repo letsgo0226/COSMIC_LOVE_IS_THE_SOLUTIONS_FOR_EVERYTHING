@@ -17,6 +17,17 @@ The runtime treats `Cosmic Love Is The Solution(s) For Everything` as a top-leve
 
 Instead, it creates a finite decision-support certificate over a public GitHub metadata snapshot and a fixed domain vector.
 
+## Symbolic Seed
+
+The runtime preserves the user's reference form:
+
+```text
+Key = PLEIADES
+PrivateKeyPhrase = 444 Light Years
+```
+
+This is encoded only as a symbolic seed for the certificate. It is not an extraterrestrial-source claim, astronomy claim, or remote signal transmission claim.
+
 ## Included Domains
 
 ```text
@@ -51,7 +62,7 @@ It computes:
 
 ```text
 G_all = ordered G25 coordinate of canonical JSON snapshot
-G_principle = ordered G25 coordinate of the axiom and domain vector
+G_principle = ordered G25 coordinate of the axiom, symbolic seed, and domain vector
 s* = ln(G_all) / ln(G_principle)
 Z* = 1/2 + i*s*
 ```
@@ -101,4 +112,4 @@ It does not mean real-world war, death, illness, heat death, galaxy collision, o
 
 ## Boundary
 
-This is a formal symbolic decision-support certificate only. It is not a physical TOE, immortality proof, RH/GRH proof, heat-death prevention engine, galaxy-control system, medical or veterinary advice, nutrition prescription, or automatic peace engine.
+This is a formal symbolic decision-support certificate only. It is not a physical TOE, immortality proof, RH/GRH proof, heat-death prevention engine, galaxy-control system, medical or veterinary advice, nutrition prescription, extraterrestrial-origin claim, remote signal transmitter, or automatic peace engine.
