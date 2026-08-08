@@ -24,6 +24,40 @@ curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUT
 sh COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh
 ```
 
+## Schrödinger CLSigma Wavefunction Runtime
+
+Inspired by educational Schrödinger equation visualizations, this module turns the operator-system certificate into finite probability-density / phase-color PPM frames.
+
+Protocol:
+
+```text
+SCHRODINGER_CLSIGMA_OPERATOR_WAVEFUNCTION_PROTOCOL.md
+```
+
+Raw one-liner:
+
+```text
+https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/SCHRODINGER_CLSIGMA_WAVEFUNCTION_ONE_LINER.sh
+```
+
+iSH:
+
+```sh
+apk add --no-cache python3 curl
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/SCHRODINGER_CLSIGMA_WAVEFUNCTION_ONE_LINER.sh -o SCHRODINGER_CLSIGMA_WAVEFUNCTION_ONE_LINER.sh
+sh SCHRODINGER_CLSIGMA_WAVEFUNCTION_ONE_LINER.sh clsigma_schrodinger_frames 48 128
+```
+
+Output:
+
+```text
+clsigma_schrodinger_frames/frame_000.ppm
+...
+clsigma_schrodinger_frames/clsigma_schrodinger_operator_certificate.json
+```
+
+Boundary: this is a classical numerical visualization of a quantum wavefunction form, not a real quantum computer.
+
 ## Direct Pipe Form
 
 ```sh
