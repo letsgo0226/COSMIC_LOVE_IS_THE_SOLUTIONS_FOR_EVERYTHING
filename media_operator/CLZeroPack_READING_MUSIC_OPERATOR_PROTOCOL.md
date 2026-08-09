@@ -52,12 +52,12 @@ manifest bytes
 
 ## Audio Design
 
-The one-liner generates a small WAV file using only Python standard library modules:
+The compact v1.1 one-liner generates a small WAV file using only Python standard library modules:
 
 ```text
-sample_rate = 16000
-duration    = default 32 seconds
-layers      = low drone + reading pulse + soft melody
+sample_rate = 12000
+duration    = default 24 seconds
+layers      = low tone + reading pulse + soft upper tone
 ```
 
 The sound is intended as an optional study cue:
@@ -72,27 +72,25 @@ end with a finite certificate
 
 ## Outputs
 
-For prefix `reading_operator`, the runtime writes:
+For prefix `read`, the runtime writes:
 
 ```text
-reading_operator.wav
-reading_operator.clzeropack.json
+read.wav
+read.clzeropack.json
 ```
 
-The JSON certificate contains:
+The JSON certificate uses the compact CLZeroPack core:
 
 ```text
 Protocol
-Axiom
-Intent
-Audio
-CosmicLoveGates
-Payload
 rho_CL
 G_alg
+Payload
 H_s
-Boundary
+M
 ```
+
+`M` is the short manifest containing the axiom, WAV path, sample rate, duration, and boundary string.
 
 ## iSH Usage
 
