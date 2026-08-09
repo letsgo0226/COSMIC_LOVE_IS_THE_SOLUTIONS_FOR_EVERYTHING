@@ -122,6 +122,7 @@ It must not solve the conflict by cutting or truncating source code.
 ```text
 CLZeroPack/Tiny/1.0
 CLZeroPack/Standard/1.0
+CLZeroPack/CoordinateRuntime/1.0
 CLZeroPack/QA-RH-Style/1.0
 CLZeroPack/ProofArtifact/1.0
 CLZeroPack/FOLProof/1.0
@@ -132,6 +133,9 @@ CLZeroPack/RH-Proof-Reduction/1.0
 Use `CLZeroPack/Tiny/1.0` when iSH paste or command-buffer limits are strict.
 Tiny omits automatic dependency installation and keeps only the canonical
 lossless envelope fields.
+
+Use `CLZeroPack/CoordinateRuntime/1.0` when a short zero-spectrum coordinate
+must locate and decode a payload at runtime.
 
 ## Boundary
 
