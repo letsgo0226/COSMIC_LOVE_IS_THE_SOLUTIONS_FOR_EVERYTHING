@@ -62,6 +62,7 @@ coordinate for CLZeroPack certificates.
 | Field | Meaning |
 |---|---|
 | `H_s` | lossless payload roundtrip |
+| `H_iSH` | official one-liner satisfies iSH line and byte limits |
 | `H_complete` | profile-required fields exist |
 | `H_FOL` | first-order predicate logic structure closes |
 | `H_NL` | natural-language explanations exist |
@@ -69,6 +70,52 @@ coordinate for CLZeroPack certificates.
 
 Only `H_s` belongs to every CLZeroPack envelope. Other residuals are
 profile-specific.
+
+## iSH Length Constraint
+
+Official CLZeroPack one-liner profiles must be lossless first and iSH-bounded
+second.
+
+A one-liner is CLZeroPack-iSH compliant only if:
+
+```text
+1. it is one physical shell line
+2. its source bytes fit an accepted iSH tier
+3. it performs an H_s lossless roundtrip check
+4. it writes text output with UTF-8 explicitly
+5. it avoids SHA/hashlib unless a digest profile is explicitly declared
+6. it never truncates source code to fit the terminal
+```
+
+The standard iSH tiers are:
+
+| Tier | Source Bytes | Meaning |
+|---|---:|---|
+| `A` | `<= 1500` | best for direct iSH paste/store/run |
+| `B` | `<= 3500` | acceptable official iSH one-liner |
+| `C` | `<= 8000` | usable, but loader/stdin mode is recommended |
+| `LoaderRequired` | `> 8000` | not a standard direct iSH one-liner |
+
+The official iSH residual is:
+
+```text
+H_iSH = 0 iff
+  one_physical_line
+  and source_bytes <= 8000
+  and H_s-capable by design
+```
+
+If losslessness and shortness conflict, CLZeroPack must preserve losslessness
+by switching to one of:
+
+```text
+stdin payload mode
+file input mode
+GitHub raw fetch mode
+zlib/base64 loader mode
+```
+
+It must not solve the conflict by cutting or truncating source code.
 
 ## Standard Profiles
 
