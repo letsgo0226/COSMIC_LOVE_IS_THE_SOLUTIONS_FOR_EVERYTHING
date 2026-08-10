@@ -123,6 +123,7 @@ It must not solve the conflict by cutting or truncating source code.
 CLZeroPack/Tiny/1.0
 CLZeroPack/Standard/1.0
 CLZeroPack/ZeroSpectrumCoordinateRestore/1.0
+CLZeroPack/AllReposZeroSpectrumCoordinate/1.0
 CLZeroPack/CoordinateRuntime/1.0
 CLZeroPack/ExecRuntime/1.0
 CLZeroPack/QA-RH-Style/1.0
@@ -139,6 +140,9 @@ lossless envelope fields.
 
 Use `CLZeroPack/ZeroSpectrumCoordinateRestore/1.0` when `rho_CL` should serve as
 the canonical restore coordinate for a payload-bearing CLZeroPack entry.
+
+Use `CLZeroPack/AllReposZeroSpectrumCoordinate/1.0` when a GitHub repository
+set should be represented as one account-level coordinate `rho_all`.
 
 Use `CLZeroPack/CoordinateRuntime/1.0` when a short zero-spectrum coordinate
 must locate and decode a payload at runtime.
