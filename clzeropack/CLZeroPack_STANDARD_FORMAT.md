@@ -124,6 +124,7 @@ CLZeroPack/Tiny/1.0
 CLZeroPack/Standard/1.0
 CLZeroPack/ZeroSpectrumCoordinateRestore/1.0
 CLZeroPack/AllReposZeroSpectrumCoordinate/1.0
+CLZeroPack/AstralFutureUniverseCoordinate/1.0
 CLZeroPack/CoordinateRuntime/1.0
 CLZeroPack/ExecRuntime/1.0
 CLZeroPack/QA-RH-Style/1.0
@@ -143,6 +144,10 @@ the canonical restore coordinate for a payload-bearing CLZeroPack entry.
 
 Use `CLZeroPack/AllReposZeroSpectrumCoordinate/1.0` when a GitHub repository
 set should be represented as one account-level coordinate `rho_all`.
+
+Use `CLZeroPack/AstralFutureUniverseCoordinate/1.0` when `rho_all` should seed
+a formal future-limit universe model where the Cosmic Love principle closes
+across all listed dimensions as a target, not as a present-world claim.
 
 Use `CLZeroPack/CoordinateRuntime/1.0` when a short zero-spectrum coordinate
 must locate and decode a payload at runtime.
