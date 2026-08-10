@@ -126,6 +126,7 @@ CLZeroPack/CoordinateRuntime/1.0
 CLZeroPack/ExecRuntime/1.0
 CLZeroPack/QA-RH-Style/1.0
 CLZeroPack/ProofArtifact/1.0
+CLZeroPack/ProofGenerator/1.0
 CLZeroPack/FOLProof/1.0
 CLZeroPack/FOLNLProof/1.0
 CLZeroPack/RH-Proof-Reduction/1.0
@@ -140,6 +141,10 @@ must locate and decode a payload at runtime.
 
 Use `CLZeroPack/ExecRuntime/1.0` only when the restored payload should be
 executed immediately. It is intentionally separate from `CoordinateRuntime`.
+
+Use `CLZeroPack/ProofGenerator/1.0` when a theorem label should be expanded into
+a reproducible FOL/NL proof artifact with explicit open mathematical
+obligations.
 
 ## Boundary
 
