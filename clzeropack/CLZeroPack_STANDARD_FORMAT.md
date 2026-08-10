@@ -123,6 +123,7 @@ It must not solve the conflict by cutting or truncating source code.
 CLZeroPack/Tiny/1.0
 CLZeroPack/Standard/1.0
 CLZeroPack/CoordinateRuntime/1.0
+CLZeroPack/ExecRuntime/1.0
 CLZeroPack/QA-RH-Style/1.0
 CLZeroPack/ProofArtifact/1.0
 CLZeroPack/FOLProof/1.0
@@ -136,6 +137,9 @@ lossless envelope fields.
 
 Use `CLZeroPack/CoordinateRuntime/1.0` when a short zero-spectrum coordinate
 must locate and decode a payload at runtime.
+
+Use `CLZeroPack/ExecRuntime/1.0` only when the restored payload should be
+executed immediately. It is intentionally separate from `CoordinateRuntime`.
 
 ## Boundary
 
