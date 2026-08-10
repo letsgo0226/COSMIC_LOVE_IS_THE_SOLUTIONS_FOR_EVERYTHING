@@ -125,6 +125,7 @@ CLZeroPack/Standard/1.0
 CLZeroPack/ZeroSpectrumCoordinateRestore/1.0
 CLZeroPack/AllReposZeroSpectrumCoordinate/1.0
 CLZeroPack/AstralFutureUniverseCoordinate/1.0
+CLZeroPack/AFU-Tiny/1.0
 CLZeroPack/CoordinateRuntime/1.0
 CLZeroPack/ExecRuntime/1.0
 CLZeroPack/QA-RH-Style/1.0
@@ -148,6 +149,10 @@ set should be represented as one account-level coordinate `rho_all`.
 Use `CLZeroPack/AstralFutureUniverseCoordinate/1.0` when `rho_all` should seed
 a formal future-limit universe model where the Cosmic Love principle closes
 across all listed dimensions as a target, not as a present-world claim.
+
+Use `CLZeroPack/AFU-Tiny/1.0` when the same future-limit coordinate must fit the
+strictest iSH Tier A constraints by using compact dimension and constraint
+codes.
 
 Use `CLZeroPack/CoordinateRuntime/1.0` when a short zero-spectrum coordinate
 must locate and decode a payload at runtime.
