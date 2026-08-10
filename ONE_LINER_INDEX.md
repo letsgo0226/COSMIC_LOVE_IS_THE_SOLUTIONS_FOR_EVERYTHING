@@ -73,8 +73,41 @@ For local payload checks, prefer a No-SHA stdin carrier pattern:
 printf abc | python3 -c 'import sys,json,base64,zlib;b=sys.stdin.buffer.read();z=zlib.compress(b,9);B=base64.b64encode(z).decode();print(json.dumps({"carrier":"stdin->zlib->base64","roundtrip":zlib.decompress(base64.b64decode(B))==b,"H_s":0 if zlib.decompress(base64.b64decode(B))==b else 1}))'
 ```
 
+## CLZeroPack Core iSH Runtime
+
+This runtime is the short reversible CLZeroPack carrier for iSH. It excludes SHA-style digest functions and emits compact JSON fields.
+
+Protocol:
+
+```text
+CLZEROPACK_CORE_PROTOCOL.md
+```
+
+Raw script:
+
+```text
+https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/CLZEROPACK_CORE_ISH.sh
+```
+
+iSH pack/unpack:
+
+```sh
+apk add --no-cache python3 curl
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/CLZEROPACK_CORE_ISH.sh -o CLZEROPACK_CORE_ISH.sh
+sh CLZEROPACK_CORE_ISH.sh pack input.py input.clzp.json
+sh CLZEROPACK_CORE_ISH.sh unpack input.clzp.json restored.py
+```
+
+Stdin pack:
+
+```sh
+printf abc | sh CLZEROPACK_CORE_ISH.sh pack - abc.clzp.json
+```
+
+Boundary: `H=0` means only that the finite local roundtrip check closed.
+
 ## Notes
 
 - Raw URLs are more stable for AI tools than rendered GitHub pages.
 - Long one-liners may be split into a raw `.sh` plus compressed payload for iSH length limits.
-- No-SHA variants should state their exact encoding rule, such as G25 bit-fold encoding.
+- No-SHA variants should state their exact encoding rule, such as G25 bit-fold encoding or compact weighted compressed-byte coordinates.
