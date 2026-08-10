@@ -75,7 +75,7 @@ printf abc | python3 -c 'import sys,json,base64,zlib;b=sys.stdin.buffer.read();z
 
 ## CLZeroPack Core iSH Runtime
 
-This runtime is the short reversible CLZeroPack carrier for iSH. It excludes SHA-style digest functions and emits compact JSON fields.
+This runtime is the short reversible CLZeroPack carrier for iSH. The script is one physical shell line, excludes SHA-style digest functions, and emits compact JSON fields.
 
 Protocol:
 
@@ -83,7 +83,7 @@ Protocol:
 CLZEROPACK_CORE_PROTOCOL.md
 ```
 
-Raw script:
+Raw one-liner:
 
 ```text
 https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/CLZEROPACK_CORE_ISH.sh
