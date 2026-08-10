@@ -91,6 +91,9 @@ If the registry is a single CLZeroPack envelope, `*` selects it:
 sh CLZeroPack_COORDINATE_RUNTIME_ONE_LINER.sh item.clzeropack.json '*' output.bin
 ```
 
+Running the script without arguments prints a compact JSON usage object instead
+of raising a Python traceback.
+
 ## Boundary
 
 The runtime writes decoded bytes and a `.runtime.json` certificate. It does not
