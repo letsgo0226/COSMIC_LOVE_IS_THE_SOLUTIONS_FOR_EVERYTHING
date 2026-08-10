@@ -1,11 +1,11 @@
 # CLZeroPack Core iSH Protocol
 
-`CLZeroPack-Core` is the short, No-SHA carrier form of CLZeroPack for iSH and terminal use. The runtime file is one physical shell line and defaults to an extreme-speed zlib level for iSH.
+`CLZeroPack-Core` is the short, No-SHA carrier form of CLZeroPack for iSH and terminal use. The runtime file is one physical shell line and supports an extreme-speed coordinate mode for iSH.
 
 ## Rule
 
 ```text
-raw bytes -> zlib(level=CLZ_L, default 1) -> base64 -> G_alg -> rho_CL
+raw bytes -> zlib(level=CLZ_L, default 1) -> base64 -> G_alg(CLZ_G) -> rho_CL
 ```
 
 The core format excludes SHA-style digest functions. It is intended as a reversible terminal carrier, not as an archival integrity certificate.
@@ -17,7 +17,8 @@ The core format excludes SHA-style digest functions. It is intended as a reversi
 | `P` | Protocol name |
 | `A` | Axiom tag, usually `CL` |
 | `Z` | Encoding rule, such as `zlib6+b64` or `zlib9+b64` |
-| `G` | No-SHA weighted compressed-byte coordinate |
+| `GM` | Coordinate mode: `a`, `w`, or `0` |
+| `G` | No-SHA compressed-byte coordinate |
 | `r` | Formal critical-line coordinate |
 | `n` | Raw byte length |
 | `zn` | Compressed byte length |
@@ -28,11 +29,13 @@ The core format excludes SHA-style digest functions. It is intended as a reversi
 ## Coordinate
 
 ```text
-G = sum((i + 1) * byte_i for byte_i in zlib_payload) mod 1000000007
+CLZ_G=a: G = adler32(zlib_payload) mod 1000000007
+CLZ_G=w: G = sum((i + 1) * byte_i for byte_i in zlib_payload) mod 1000000007
+CLZ_G=0: G = 0
 rho_CL = 1/2 + i*log(1 + G)
 ```
 
-This is a compact deterministic coordinate. It is not a cryptographic hash.
+These are compact deterministic coordinates. They are not cryptographic hashes.
 
 ## Speed Mode
 
@@ -52,6 +55,19 @@ The default still performs a pack-side roundtrip check. For the fastest possible
 
 ```sh
 CLZ_C=0 sh CLZEROPACK_CORE_ISH.sh pack input.py input.turbo.clzp.json
+```
+
+The runtime defaults to `CLZ_G=a`, an Adler-32 No-SHA coordinate implemented in C through Python's `zlib` module. Use `CLZ_G=w` for the original weighted coordinate, or `CLZ_G=0` to skip coordinate work:
+
+```sh
+CLZ_G=w sh CLZEROPACK_CORE_ISH.sh pack input.py input.weighted.clzp.json
+CLZ_G=0 sh CLZEROPACK_CORE_ISH.sh pack input.py input.g0.clzp.json
+```
+
+Maximum-speed practical mode:
+
+```sh
+CLZ_C=0 CLZ_G=0 sh CLZEROPACK_CORE_ISH.sh pack input.py input.maxspeed.clzp.json
 ```
 
 ## iSH Runtime
