@@ -75,7 +75,7 @@ printf abc | python3 -c 'import sys,json,base64,zlib;b=sys.stdin.buffer.read();z
 
 ## CLZeroPack Core iSH Runtime
 
-This runtime is the short reversible CLZeroPack carrier for iSH. The script is one physical shell line, excludes SHA-style digest functions, emits compact JSON fields, and defaults to `CLZ_L=6` for faster iSH operation.
+This runtime is the short reversible CLZeroPack carrier for iSH. The script is one physical shell line, excludes SHA-style digest functions, emits compact JSON fields, and defaults to `CLZ_L=1` for extreme-speed iSH operation.
 
 Protocol:
 
@@ -102,6 +102,18 @@ Maximum compression mode:
 
 ```sh
 CLZ_L=9 sh CLZEROPACK_CORE_ISH.sh pack input.py input.max.clzp.json
+```
+
+Turbo mode, skipping the pack-side roundtrip check and recording `C=0`:
+
+```sh
+CLZ_C=0 sh CLZEROPACK_CORE_ISH.sh pack input.py input.turbo.clzp.json
+```
+
+Store mode, avoiding compression but usually producing much larger payloads:
+
+```sh
+CLZ_L=0 sh CLZEROPACK_CORE_ISH.sh pack input.py input.store.clzp.json
 ```
 
 Stdin pack:
