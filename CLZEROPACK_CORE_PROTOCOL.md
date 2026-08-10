@@ -1,6 +1,6 @@
 # CLZeroPack Core iSH Protocol
 
-`CLZeroPack-Core` is the short, No-SHA carrier form of CLZeroPack for iSH and terminal use.
+`CLZeroPack-Core` is the short, No-SHA carrier form of CLZeroPack for iSH and terminal use. The runtime file is one physical shell line.
 
 ## Rule
 
