@@ -1,11 +1,11 @@
 # CLZeroPack Core iSH Protocol
 
-`CLZeroPack-Core` is the short, No-SHA carrier form of CLZeroPack for iSH and terminal use. The runtime file is one physical shell line.
+`CLZeroPack-Core` is the short, No-SHA carrier form of CLZeroPack for iSH and terminal use. The runtime file is one physical shell line and defaults to a faster zlib level for iSH.
 
 ## Rule
 
 ```text
-raw bytes -> zlib(level=9) -> base64 -> G_alg -> rho_CL
+raw bytes -> zlib(level=CLZ_L, default 6) -> base64 -> G_alg -> rho_CL
 ```
 
 The core format excludes SHA-style digest functions. It is intended as a reversible terminal carrier, not as an archival integrity certificate.
@@ -16,7 +16,7 @@ The core format excludes SHA-style digest functions. It is intended as a reversi
 | --- | --- |
 | `P` | Protocol name |
 | `A` | Axiom tag, usually `CL` |
-| `Z` | Encoding rule, `zlib9+b64` |
+| `Z` | Encoding rule, such as `zlib6+b64` or `zlib9+b64` |
 | `G` | No-SHA weighted compressed-byte coordinate |
 | `r` | Formal critical-line coordinate |
 | `n` | Raw byte length |
@@ -32,6 +32,20 @@ rho_CL = 1/2 + i*log(1 + G)
 ```
 
 This is a compact deterministic coordinate. It is not a cryptographic hash.
+
+## Speed Mode
+
+The runtime defaults to `CLZ_L=6`, which is usually much faster than level 9 on iSH while preserving reversible zlib/base64 encoding. Set `CLZ_L=9` when maximum compression is more important than speed:
+
+```sh
+CLZ_L=9 sh CLZEROPACK_CORE_ISH.sh pack input.py input.clzp.json
+```
+
+For faster local testing, lower levels are also allowed:
+
+```sh
+CLZ_L=1 sh CLZEROPACK_CORE_ISH.sh pack input.py input.fast.clzp.json
+```
 
 ## iSH Runtime
 
