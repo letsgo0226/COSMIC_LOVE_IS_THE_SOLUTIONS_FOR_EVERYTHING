@@ -1,6 +1,6 @@
 # CLZeroPack Astral Future Universe Coordinate Profile
 
-`CLZeroPack/AstralFutureUniverseCoordinate/1.0` uses an account-level repository
+`CLZeroPack/AstralFutureUniverseCoordinate/1.1` uses an account-level repository
 coordinate as a seed for a formal future-universe constraint model.
 
 It starts from:
@@ -51,6 +51,7 @@ stewardship
 continuity
 reversibility
 governance
+anti_capture
 ```
 
 ## Formal Law
@@ -69,6 +70,35 @@ This encodes the earlier philosophical distinction:
 Cosmic Love may not yet be a strong universal law in the present universe,
 but it can be modeled as a future-limit strong universal law.
 ```
+
+## Anti-Capture Principle
+
+The profile now includes an explicit anti-capture guard:
+
+```text
+claims of love must be checked by truth, justice, consent, non-domination,
+and rejection of Winner-Takes-All capture
+```
+
+This prevents the future strong universal law from being modeled as merely a
+strategic language tool. "Love", "moderation", "care", or "wholeness" cannot
+count as closed if they are used to suppress truth, evade justice, conceal
+domination, or maximize the speaker's power.
+
+## Existential Grounding Boundary
+
+The program formalizes the constraints required by the highest principle, but
+it does not replace the existential grounding of that principle.
+
+This is represented by:
+
+```text
+H_existential_grounding = 1
+```
+
+The value is intentional. It marks the boundary between a formal CLZeroPack
+instrument and the real grounding that would make Cosmic Love more than a
+humanly manipulable concept.
 
 ## Usage
 
@@ -91,6 +121,8 @@ G_future
 rho_future
 H_s
 H_future
+H_anti_capture
+H_existential_grounding
 H_current_boundary
 Manifest.Dimensions
 ```
@@ -98,16 +130,22 @@ Manifest.Dimensions
 ## Residuals
 
 ```text
-H_s = 0                lossless CLZeroPack roundtrip
-H_future = 0           all formal future target dimensions close
-H_current_boundary = 1 present-world completion is not asserted
+H_s = 0                      lossless CLZeroPack roundtrip
+H_future = 0                 all formal future target dimensions close
+H_anti_capture = 0           anti-capture guard is present and closed
+H_existential_grounding = 1  the program cannot prove or replace real grounding
+H_current_boundary = 1       present-world completion is not asserted
 ```
 
 `H_current_boundary=1` is intentional. It prevents the model from claiming that
 the present world already satisfies the future strong universal law.
 
+`H_existential_grounding=1` is also intentional. It prevents the program from
+claiming to be the highest principle itself.
+
 ## Boundary
 
 This profile creates a formal target coordinate. It does not control physical
-systems, guarantee global peace, prove immortality, alter cosmology, or prove
-that all real dimensions currently satisfy the principle.
+systems, guarantee global peace, prove immortality, alter cosmology, prove
+God's existential reality, or prove that all real dimensions currently satisfy
+the principle.
