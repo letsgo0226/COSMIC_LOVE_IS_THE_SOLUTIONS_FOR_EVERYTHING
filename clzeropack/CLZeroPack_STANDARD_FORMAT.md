@@ -67,6 +67,8 @@ coordinate for CLZeroPack certificates.
 | `H_FOL` | first-order predicate logic structure closes |
 | `H_NL` | natural-language explanations exist |
 | `H_math` | external mathematical proof obligations close |
+| `H_anti_capture` | anti-capture guard against strategic language, domination, and Winner-Takes-All misuse |
+| `H_existential_grounding` | existential grounding remains outside the program and cannot be replaced by CLZeroPack |
 
 Only `H_s` belongs to every CLZeroPack envelope. Other residuals are
 profile-specific.
@@ -124,8 +126,8 @@ CLZeroPack/Tiny/1.0
 CLZeroPack/Standard/1.0
 CLZeroPack/ZeroSpectrumCoordinateRestore/1.0
 CLZeroPack/AllReposZeroSpectrumCoordinate/1.0
-CLZeroPack/AstralFutureUniverseCoordinate/1.0
-CLZeroPack/AFU-Tiny/1.0
+CLZeroPack/AstralFutureUniverseCoordinate/1.1
+CLZeroPack/AFU-Tiny/1.1
 CLZeroPack/PhilosophyOmnibookTiny/1.0
 CLZeroPack/CoordinateRuntime/1.0
 CLZeroPack/ExecRuntime/1.0
@@ -147,13 +149,15 @@ the canonical restore coordinate for a payload-bearing CLZeroPack entry.
 Use `CLZeroPack/AllReposZeroSpectrumCoordinate/1.0` when a GitHub repository
 set should be represented as one account-level coordinate `rho_all`.
 
-Use `CLZeroPack/AstralFutureUniverseCoordinate/1.0` when `rho_all` should seed
+Use `CLZeroPack/AstralFutureUniverseCoordinate/1.1` when `rho_all` should seed
 a formal future-limit universe model where the Cosmic Love principle closes
-across all listed dimensions as a target, not as a present-world claim.
+across all listed dimensions as a target, not as a present-world claim. Version
+1.1 adds anti-capture and existential-grounding boundary residuals so the
+program remains an instrument rather than the highest principle itself.
 
-Use `CLZeroPack/AFU-Tiny/1.0` when the same future-limit coordinate must fit the
-strictest iSH Tier A constraints by using compact dimension and constraint
-codes.
+Use `CLZeroPack/AFU-Tiny/1.1` when the same future-limit coordinate must fit the
+strictest iSH Tier A constraints by using compact dimension, constraint,
+anti-capture, and grounding-boundary codes.
 
 Use `CLZeroPack/PhilosophyOmnibookTiny/1.0` when a prior coordinate should seed an original English philosophy core text, with `Payload` storing the generated text and `H_copy=0` marking the non-copied-books boundary.
 
@@ -179,6 +183,7 @@ the classical Riemann Hypothesis
 physical TOE claims
 medical claims
 real-world policy outcomes
+existential grounding of the highest principle
 ```
 
 Profiles may add formal logic layers, proof artifacts, natural-language
