@@ -63,12 +63,15 @@ coordinate for CLZeroPack certificates.
 |---|---|
 | `H_s` | lossless payload roundtrip |
 | `H_iSH` | official one-liner satisfies iSH line and byte limits |
+| `H_state` | formal profile state is packaged and replayable |
+| `H_network` | configured live endpoint probes succeeded |
 | `H_complete` | profile-required fields exist |
 | `H_FOL` | first-order predicate logic structure closes |
 | `H_NL` | natural-language explanations exist |
 | `H_math` | external mathematical proof obligations close |
 | `H_anti_capture` | anti-capture guard against strategic language, domination, and Winner-Takes-All misuse |
 | `H_existential_grounding` | existential grounding remains outside the program and cannot be replaced by CLZeroPack |
+| `H_RH_boundary` | Riemann critical-line mapping is formal and does not prove RH |
 
 Only `H_s` belongs to every CLZeroPack envelope. Other residuals are
 profile-specific.
@@ -128,6 +131,7 @@ CLZeroPack/ZeroSpectrumCoordinateRestore/1.0
 CLZeroPack/AllReposZeroSpectrumCoordinate/1.0
 CLZeroPack/AstralFutureUniverseCoordinate/1.1
 CLZeroPack/AFU-Tiny/1.1
+CLZeroPack/InternetMorphogenesisField/1.0
 CLZeroPack/PhilosophyOmnibookTiny/1.0
 CLZeroPack/CoordinateRuntime/1.0
 CLZeroPack/ExecRuntime/1.0
@@ -159,6 +163,12 @@ Use `CLZeroPack/AFU-Tiny/1.1` when the same future-limit coordinate must fit the
 strictest iSH Tier A constraints by using compact dimension, constraint,
 anti-capture, and grounding-boundary codes.
 
+Use `CLZeroPack/InternetMorphogenesisField/1.0` when `rho_all` should seed a
+live network observation manifest whose endpoint probes are mapped to `G_net`
+and `rho_net` as a formal zero-spectrum coordinate of the observable internet
+field. This profile separates `H_s=0` from `H_network`, and marks the Riemann
+mapping as formal rather than a proof of RH.
+
 Use `CLZeroPack/PhilosophyOmnibookTiny/1.0` when a prior coordinate should seed an original English philosophy core text, with `Payload` storing the generated text and `H_copy=0` marking the non-copied-books boundary.
 
 Use `CLZeroPack/CoordinateRuntime/1.0` when a short zero-spectrum coordinate
@@ -184,6 +194,7 @@ physical TOE claims
 medical claims
 real-world policy outcomes
 existential grounding of the highest principle
+control or completion of the live internet field
 ```
 
 Profiles may add formal logic layers, proof artifacts, natural-language
