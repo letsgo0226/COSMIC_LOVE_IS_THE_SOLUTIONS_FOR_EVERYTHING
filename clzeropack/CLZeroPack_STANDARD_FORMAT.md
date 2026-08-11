@@ -65,6 +65,7 @@ coordinate for CLZeroPack certificates.
 | `H_iSH` | official one-liner satisfies iSH line and byte limits |
 | `H_state` | formal profile state is packaged and replayable |
 | `H_network` | configured live endpoint probes succeeded |
+| `H_code_boundary` | visible GitHub repository code trees were read without truncation/error |
 | `H_complete` | profile-required fields exist |
 | `H_FOL` | first-order predicate logic structure closes |
 | `H_NL` | natural-language explanations exist |
@@ -129,9 +130,10 @@ CLZeroPack/Tiny/1.0
 CLZeroPack/Standard/1.0
 CLZeroPack/ZeroSpectrumCoordinateRestore/1.0
 CLZeroPack/AllReposZeroSpectrumCoordinate/1.0
+CLZeroPack/AllReposCodeZeroSpectrumCoordinate/1.0
 CLZeroPack/AstralFutureUniverseCoordinate/1.1
 CLZeroPack/AFU-Tiny/1.1
-CLZeroPack/InternetMorphogenesisField/1.0
+CLZeroPack/InternetMorphogenesisField/1.1
 CLZeroPack/PhilosophyOmnibookTiny/1.0
 CLZeroPack/CoordinateRuntime/1.0
 CLZeroPack/ExecRuntime/1.0
@@ -153,6 +155,11 @@ the canonical restore coordinate for a payload-bearing CLZeroPack entry.
 Use `CLZeroPack/AllReposZeroSpectrumCoordinate/1.0` when a GitHub repository
 set should be represented as one account-level coordinate `rho_all`.
 
+Use `CLZeroPack/AllReposCodeZeroSpectrumCoordinate/1.0` when the visible
+program contents of a GitHub account should be represented as one account-level
+code coordinate `rho_code_all`, based on public/default-branch Git tree blob
+identities, paths, and sizes.
+
 Use `CLZeroPack/AstralFutureUniverseCoordinate/1.1` when `rho_all` should seed
 a formal future-limit universe model where the Cosmic Love principle closes
 across all listed dimensions as a target, not as a present-world claim. Version
@@ -163,11 +170,12 @@ Use `CLZeroPack/AFU-Tiny/1.1` when the same future-limit coordinate must fit the
 strictest iSH Tier A constraints by using compact dimension, constraint,
 anti-capture, and grounding-boundary codes.
 
-Use `CLZeroPack/InternetMorphogenesisField/1.0` when `rho_all` should seed a
-live network observation manifest whose endpoint probes are mapped to `G_net`
-and `rho_net` as a formal zero-spectrum coordinate of the observable internet
-field. This profile separates `H_s=0` from `H_network`, and marks the Riemann
-mapping as formal rather than a proof of RH.
+Use `CLZeroPack/InternetMorphogenesisField/1.1` when `rho_all` and optional
+`rho_code_all` should seed a live network observation manifest whose endpoint
+probes are mapped to `G_net` and `rho_net` as a formal zero-spectrum coordinate
+of the observable internet field. This profile separates `H_s=0` from
+`H_network` and `H_code_boundary`, and marks the Riemann mapping as formal
+rather than a proof of RH.
 
 Use `CLZeroPack/PhilosophyOmnibookTiny/1.0` when a prior coordinate should seed an original English philosophy core text, with `Payload` storing the generated text and `H_copy=0` marking the non-copied-books boundary.
 
