@@ -73,8 +73,71 @@ For local payload checks, prefer a No-SHA stdin carrier pattern:
 printf abc | python3 -c 'import sys,json,base64,zlib;b=sys.stdin.buffer.read();z=zlib.compress(b,9);B=base64.b64encode(z).decode();print(json.dumps({"carrier":"stdin->zlib->base64","roundtrip":zlib.decompress(base64.b64decode(B))==b,"H_s":0 if zlib.decompress(base64.b64decode(B))==b else 1}))'
 ```
 
+## CLZeroPack Core iSH Runtime
+
+This runtime is the short reversible CLZeroPack carrier for iSH. The script is one physical shell line, excludes SHA-style digest functions, emits compact JSON fields, defaults to `CLZ_L=1`, and uses `CLZ_G=a` for a fast Adler-32 No-SHA coordinate.
+
+Protocol:
+
+```text
+CLZEROPACK_CORE_PROTOCOL.md
+```
+
+Raw one-liner:
+
+```text
+https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/CLZEROPACK_CORE_ISH.sh
+```
+
+iSH pack/unpack:
+
+```sh
+apk add --no-cache python3 curl
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/CLZEROPACK_CORE_ISH.sh -o CLZEROPACK_CORE_ISH.sh
+sh CLZEROPACK_CORE_ISH.sh pack input.py input.clzp.json
+sh CLZEROPACK_CORE_ISH.sh unpack input.clzp.json restored.py
+```
+
+Maximum compression mode:
+
+```sh
+CLZ_L=9 sh CLZEROPACK_CORE_ISH.sh pack input.py input.max.clzp.json
+```
+
+Turbo mode, skipping the pack-side roundtrip check and recording `C=0`:
+
+```sh
+CLZ_C=0 sh CLZEROPACK_CORE_ISH.sh pack input.py input.turbo.clzp.json
+```
+
+Maximum-speed mode, also skipping coordinate work with `CLZ_G=0`:
+
+```sh
+CLZ_C=0 CLZ_G=0 sh CLZEROPACK_CORE_ISH.sh pack input.py input.maxspeed.clzp.json
+```
+
+Original weighted coordinate mode:
+
+```sh
+CLZ_G=w sh CLZEROPACK_CORE_ISH.sh pack input.py input.weighted.clzp.json
+```
+
+Store mode, avoiding compression but usually producing much larger payloads:
+
+```sh
+CLZ_L=0 sh CLZEROPACK_CORE_ISH.sh pack input.py input.store.clzp.json
+```
+
+Stdin pack:
+
+```sh
+printf abc | sh CLZEROPACK_CORE_ISH.sh pack - abc.clzp.json
+```
+
+Boundary: `H=0` means only that the finite local roundtrip check closed.
+
 ## Notes
 
 - Raw URLs are more stable for AI tools than rendered GitHub pages.
 - Long one-liners may be split into a raw `.sh` plus compressed payload for iSH length limits.
-- No-SHA variants should state their exact encoding rule, such as G25 bit-fold encoding.
+- No-SHA variants should state their exact encoding rule, such as G25 bit-fold encoding or compact weighted compressed-byte coordinates.
