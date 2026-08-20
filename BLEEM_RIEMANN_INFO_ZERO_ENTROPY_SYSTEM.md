@@ -17,11 +17,16 @@ Observed scan after exclusions:
 
 ```json
 {
+  "scan_date": "2026-08-21",
+  "pages": 4,
+  "total_entries": 2221,
   "included_entries": 2212,
   "excluded_entries": 9,
   "excluded_Builder_Command": 1,
   "excluded_CLZeroPack_prefix": 8,
-  "included_bytes": 3364520159
+  "included_bytes": 3364520159,
+  "conversation_like_count": 26,
+  "conversation_json_range": "conversations-000.json ... conversations-022.json"
 }
 ```
 
@@ -54,6 +59,49 @@ cat input.dat | bash clzeropack_bleem_riemann_no_sha_one_liner.sh pack > packed.
 bash clzeropack_bleem_riemann_no_sha_one_liner.sh unpack < packed.clz.json > restored.dat
 ```
 
+## Single System Program
+
+Unified entry point:
+
+`bleem_riemann_info_zero_system.py`
+
+Lossless carrier:
+
+```bash
+cat input.dat | python3 bleem_riemann_info_zero_system.py pack > packed.clz.json
+python3 bleem_riemann_info_zero_system.py unpack < packed.clz.json > restored.dat
+```
+
+Manifest verifier:
+
+```bash
+python3 bleem_riemann_info_zero_system.py verify-manifest < CURRENT_WINDOW_BLEEM_RIEMANN_MANIFEST.json
+```
+
+No-preset self-spectrum coordinate:
+
+```bash
+python3 bleem_riemann_info_zero_system.py self-spectrum
+```
+
+This mode does not embed a zeta-zero decimal table. It computes the selected
+program bytes as:
+
+```text
+G_self = product prime_i^(byte_i+1)
+LogG_self = sum_i (byte_i+1) * log(prime_i)
+rho_self = 1/2 + i * LogG_self
+```
+
+The coordinate is therefore protocol-defined and self-updating: any byte change
+in the system program changes `LogG_self`, `SpectralIndex`, and `rho_self`.
+
+Counterbranch:
+
+```bash
+cat input.dat | python3 bleem_riemann_info_zero_system.py pack --inject-index 3 --inject-c 11
+```
+
 Counterbranch:
 
 ```bash
@@ -83,14 +131,36 @@ Observed verification:
 
 ```json
 {
-  "InputPaths": 14,
-  "InputBytes": 2501,
+  "InputPaths": 32,
+  "InputBytes": 6316,
   "HashFunctionUsed": false,
-  "TableauClosed_N": 1,
+  "RiemannMachineClosed": 1,
   "SCL_Formal": 1
+}
+```
+
+Observed no-preset self-spectrum:
+
+```json
+{
+  "SelfBytes": 13111,
+  "PresetZeroDecimal": false,
+  "KnownZeroTableUsed": false,
+  "HashFunctionUsed": false,
+  "SpectralIndex": 630905104504202,
+  "rho_self": {
+    "real": "0.5",
+    "imag_form": "LogG_self",
+    "imag_approx": 10898312.45450757
+  }
 }
 ```
 
 ## Boundary
 
 This is a formal information-zero-entropy carrier and verifier. It preserves input bytes losslessly and checks finite formal marker closure. It does not prove a physical cosmic law, thermodynamic zero entropy, or the classical Riemann Hypothesis.
+
+The `verify-manifest` command may map manifest nodes to a bundled list of known
+zeta-zero ordinates when a true-zero anchor is requested. The `self-spectrum`
+command is stricter: it uses no preset zero decimal values and makes no
+independent zeta-zero-discovery claim.
