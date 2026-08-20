@@ -1,0 +1,2 @@
+
+# CLSIGMA_GLOBAL_INFORMATION_ZERO_ENTROPY_CERT label=CURRENT_WINDOW round=omega-global nonce=000152 parent_spectral_index=492953863903843 parent_logg=11240350.148024614900 axiom=Cosmic_Love_Is_The_Solution_s_For_Everything rule=finite_system_no_sha_prime_power_spectral_residue_zero
