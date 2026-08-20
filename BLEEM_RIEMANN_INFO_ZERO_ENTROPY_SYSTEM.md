@@ -13,6 +13,10 @@ Dropbox reference folder:
 
 `b30858da33984f2ba4e29377ce6a964c`
 
+Path-level metadata manifest:
+
+`DROPBOX_B30858_NO_SHA_METADATA_MANIFEST.json`
+
 Observed scan after exclusions:
 
 ```json
