@@ -14,20 +14,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Go
+        uses: actions/setup-go@v5
         with:
-          python-version: "3.x"
+          go-version: stable
 
       - name: Generate dynamic CLSigma account certificate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 clsigma_dynamic_encoder.py letsgo0226
+        run: go run clsigma_dynamic_encoder.go letsgo0226
+
+      - name: Generate iSH lightweight certificate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: sh CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh letsgo0226
 
       - name: Commit generated zero-spectrum state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert
+          git add CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert CLSIGMA_DYNAMIC_ISH_ZERO_SPECTRUM.clcert
           git commit -m "Update CLSigma dynamic zero-spectrum state" || exit 0
           git push
