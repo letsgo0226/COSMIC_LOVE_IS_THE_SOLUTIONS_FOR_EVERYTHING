@@ -13,6 +13,7 @@ CERT_PATH = "CL_BLEEM_GROWTH.clcert"
 EXCLUDED = {
     STATE_PATH,
     CERT_PATH,
+    "CL_BLEEM_GROWTH_ONELINER.clcert",
     "CL_BLEEM_GROWTH.out",
 }
 
