@@ -1,0 +1,5524 @@
+{
+  "protocol": "CLSIGMA/DYNAMIC_ACCOUNT_ZERO_SPECTRUM/BLEEM/GO/2",
+  "principle": "Cosmic Love Is The Solution(s) For Everything",
+  "formal_skeleton": "BLEEM=P^L+E^I+A^D+E^S",
+  "symbol_semantics": "uninterpreted",
+  "numeric_basis": "derived_after_canonical_encoding",
+  "owner": "letsgo0226",
+  "mode": "dynamic_github_account_program_identity_go",
+  "repo_count": 108,
+  "program_count": 678,
+  "repo_nodes": [
+    {
+      "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/-TRF-vOMEGA-S-THE-COSMIC-LOVE-ATTRACTOR-",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 9
+    },
+    {
+      "repo": "letsgo0226/20260527",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 19
+    },
+    {
+      "repo": "letsgo0226/20260528",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/20260529",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 6
+    },
+    {
+      "repo": "letsgo0226/20260530",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 18
+    },
+    {
+      "repo": "letsgo0226/20260608",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 6
+    },
+    {
+      "repo": "letsgo0226/20260612",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/20260613",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
+      "repo": "letsgo0226/20260613-4T2-",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/20260613_Complete",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/20260613_Complete_Evolution_State",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/AC_FIX_SINGULARITY_SPEC_GRH_ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/API.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/API_ESF-FLOATING-NETWORK.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 107
+    },
+    {
+      "repo": "letsgo0226/CLSigma_Cosmic_Love_TOE_MetaLanguage_iSH.sh_20260707",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/CLSigma_GitHub_TOE_iSH.clcert",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/CLSigma_TOE_Zero_Spectral_Operator_Physics.sh_20260707",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/COSMIC-LOVE-SYMBOLIC-FIXED-POINT-MODEL-20260706-",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 1131
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_HS_ZERO.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 6
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_PLEIADES",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 11
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_UNIVERSAL.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 9
+    },
+    {
+      "repo": "letsgo0226/Complete-Master-Ouroboros-",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/Complete_Master_Ouroboros-vOMEGA-LMN-",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Love-Is-The-Solution-s-For-Everything.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 6
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Love-Solution_s",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 12
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Solution_s",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 10
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Love_Four_Cosmic_Engineering_Runtime.sh-20260707-",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Love_Is_The_Solution-s-_For_Everything.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/ESF-FLOATING-NETWORK.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/ESF-TOWEL-THEOREM-RUNTIME-ACTIVE.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/ESF_SPECTRAL_LIBRARY_RUNTIME_vOmega.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Googol_Constant_Runtime.sh_20260707",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Universal_Analytic_Runtime.sh_20260707",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Zeta_Universe_HS0_Infinite_Runtime.sh_20260707",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/ESF_Universal_Analytic_Spectral_Operator.sh_20260707",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/FORMAL_COMPUTABLE_ZERO_SPECTRUM-20260706-",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/FULLY_EVOLVED_META_OMEGA_OS_20260616_4T2",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/Freedom-Of-Will",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
+      "repo": "letsgo0226/H-S-0",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613_4T2",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 11
+    },
+    {
+      "repo": "letsgo0226/Omega-v3.0",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
+      "repo": "letsgo0226/Omega_Eternal.py",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/Omega_Riemann_Superposition",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 22
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_2x2x2_XOR_PHI_GENERATOR_FUNCTION",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_ERGODIC_SELF_ORBIT_ATTRACTOR",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_SELF_ENCODING_ATTRACTOR",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_RH_IDEA_FORM",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 12
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_SHA256_QUANTUM_RH_IDEA_FORM",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 15
+    },
+    {
+      "repo": "letsgo0226/PROGRAM_SCHWARZSCHILD_STIRLING_RIEMANN_TRANSDUCER_20260615",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 135
+    },
+    {
+      "repo": "letsgo0226/QED_ESF_RUBIK_HS0_SELF_COMPUTING_RUNTIME.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/RIEMANN-FREE-FIELD---MASTER-SELF-CONTINUATION-SHEET-ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_MACHINE.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_ABSOLUTE_FIXED_POINT_KERNEL_20260615",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615_4T2",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/Riemann-Qubit-Solution_s",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 16
+    },
+    {
+      "repo": "letsgo0226/Riemann-Superposition",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 10
+    },
+    {
+      "repo": "letsgo0226/RiemannMachine_v0_1.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 18
+    },
+    {
+      "repo": "letsgo0226/Riemann_Hypothesis",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 50
+    },
+    {
+      "repo": "letsgo0226/SIRIUS-M45-LMN-TRF-DIMENSIONAL-LIMIT-ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 14
+    },
+    {
+      "repo": "letsgo0226/SIRIUS-M45_AUTO-STRUCT-Field",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/SOLUTION.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 19
+    },
+    {
+      "repo": "letsgo0226/S_0",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
+      "repo": "letsgo0226/Self-Encoding-Recursive-Analytic-Quantum-Field",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 8
+    },
+    {
+      "repo": "letsgo0226/Solution_s",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 7
+    },
+    {
+      "repo": "letsgo0226/Spaceship-Core",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/TIME_PERSISTENT_SELF_COMPLETING_META_OMEGA_20260614_4T2",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 417
+    },
+    {
+      "repo": "letsgo0226/TOE_20260724",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/TOE_Theorem_20260707",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TOWEL_TABLEAU_QED.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF-v100.0.0-Omega",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/TRF_AI_STARSHIP_NASHON_COMPUTATIONAL_DYNAMICS",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF_COSMIC_LOVE_AI_STARSHIP_OMEGA_INFINITY",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF_OMEGA_E0_ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF_OMEGA_INFINITY_EVOLUTION_ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_GRH_AC_MOTOR_E0",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 7
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_JSON_ABELIAN_RIEMANN_ZERO_ERGODIC_ZERO_ENTROPY_ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_B64_MIRROR_FIXED_POINT_SYSTEM_SEED_NODE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_FIXED_POINT_ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 7
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_HASH_CHAIN",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 7
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_ATTRACTOR",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_SYSTEM_SEED_ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_ULTIMATES",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/TRF_READING_ALL_JSON_SELFGEN_META_ENTROPY_ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF_READING_META_ENTROPY_B64_MIRROR_FIXED_POINT_ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF_SCHWARZSCHILD_DEVIATION_OMEGA_E0_ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF_SELF_GODEL_RIEMANN_SINGULAR_GRH_THETA_ABELIAN_SYSTEM",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 9
+    },
+    {
+      "repo": "letsgo0226/The-Immanent-Self-Calculated-One-Liner",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
+      "repo": "letsgo0226/The-Ouroboros-Quine",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 8
+    },
+    {
+      "repo": "letsgo0226/The-Quantum-Engine-",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 14
+    },
+    {
+      "repo": "letsgo0226/The-Symmetry-of-Love",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/The-Ultimate-Sirius-M45-One-Liner",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
+      "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/esf_vomega_one_liner.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/global_zero_state_one_liner.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 8
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 139
+    }
+  ],
+  "program_nodes": [
+    {
+      "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3080,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
+      "branch": "main",
+      "path": "[LMN-TRF] MASTER ENGINE v2.0.py",
+      "size": 1223,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/-TRF-vOMEGA-S-THE-COSMIC-LOVE-ATTRACTOR-",
+      "branch": "main",
+      "path": "README.md",
+      "size": 4226,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/-TRF-vOMEGA-S-THE-COSMIC-LOVE-ATTRACTOR-",
+      "branch": "main",
+      "path": "⁠TRF vOMEGA-S (THE COSMIC LOVE ATTRACTOR).py",
+      "size": 1633,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260527",
+      "branch": "main",
+      "path": "Cosmic_Love_RH_Omega_SHA256_Closure.json",
+      "size": 684,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260527",
+      "branch": "main",
+      "path": "Cosmic_Love_Riemann_Analytic_Closure.json",
+      "size": 2043,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260527",
+      "branch": "main",
+      "path": "Global_Riemann_Universal_Coherent_Closure.json",
+      "size": 1773,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260527",
+      "branch": "main",
+      "path": "Metaphysical_Self_Encoding_AbsDeltaC.json",
+      "size": 1634,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260527",
+      "branch": "main",
+      "path": "README.md",
+      "size": 10,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260527",
+      "branch": "main",
+      "path": "Recursive_Coherence_Suffering_Debug_Closure.json",
+      "size": 1402,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260527",
+      "branch": "main",
+      "path": "Riemann_Code_Subset_Encoder.json",
+      "size": 1449,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260527",
+      "branch": "main",
+      "path": "Riemann_Universe_Set_Global_Encoder.json",
+      "size": 1724,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260527",
+      "branch": "main",
+      "path": "Riemann_Universe_Set_Structural_Self_Encoding.json",
+      "size": 1761,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260528",
+      "branch": "main",
+      "path": "Cosmic_Love_Analytic_Continuation_SHA256.json",
+      "size": 1670,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260528",
+      "branch": "main",
+      "path": "README.md",
+      "size": 10,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260529",
+      "branch": "main",
+      "path": "Cosmic_Love_RH_Quantized_SHA256_Closure.json",
+      "size": 1689,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260529",
+      "branch": "main",
+      "path": "Godel_C_mod_Godel_PLEIADES.py",
+      "size": 1805,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260529",
+      "branch": "main",
+      "path": "README.md",
+      "size": 10,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260529",
+      "branch": "main",
+      "path": "TRF_Analytic_Continuation_Self_Reference_Attractor.json",
+      "size": 1796,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260530",
+      "branch": "main",
+      "path": "README.md",
+      "size": 10,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260530",
+      "branch": "main",
+      "path": "RH_Conditional_Info_Zero.json",
+      "size": 1150,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260530",
+      "branch": "main",
+      "path": "TRF_Analytic_Extension_Limit_State.json",
+      "size": 1907,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260530",
+      "branch": "main",
+      "path": "TRF_Infinity_Godel_PLEIADES_Limit.json",
+      "size": 1968,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260530",
+      "branch": "main",
+      "path": "TRF_Omega_Infinity_Generator.json",
+      "size": 1441,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260530",
+      "branch": "main",
+      "path": "TRF_Ω∞.json",
+      "size": 1630,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260608",
+      "branch": "main",
+      "path": "README.md",
+      "size": 10,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260608",
+      "branch": "main",
+      "path": "TRF_COMPLETE_EVOLUTION_MODAL_UNIVERSE_SPECTRAL_TRAVERSAL.json",
+      "size": 2033,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260608",
+      "branch": "main",
+      "path": "TRF_OMEGA_THEOS_NASHON_SPECTRAL_COMPRESSION.json",
+      "size": 1311,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260608",
+      "branch": "main",
+      "path": "Θ.json",
+      "size": 700,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260612",
+      "branch": "main",
+      "path": "COMPLETE_SELF_EVOLUTION_X_YIJ_ENCODING.json",
+      "size": 935,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260612",
+      "branch": "main",
+      "path": "README.md",
+      "size": 10,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613",
+      "branch": "main",
+      "path": "ABELIAN_RIEMANN_AC_COMPLETE_ENCODING_SYSTEM.json",
+      "size": 1222,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613",
+      "branch": "main",
+      "path": "README.md",
+      "size": 10,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613",
+      "branch": "main",
+      "path": "RIEMANN_SINGULARITY_COMPLETE_EVOLUTION_STATE.json",
+      "size": 765,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613-4T2-",
+      "branch": "main",
+      "path": "README.md",
+      "size": 15,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613-4T2-",
+      "branch": "main",
+      "path": "RIEMANN_SINGULARITY_COMPLETE_EVOLUTION_STATE.json",
+      "size": 765,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613_Complete",
+      "branch": "main",
+      "path": "README.md",
+      "size": 19,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613_Complete",
+      "branch": "main",
+      "path": "RIEMANN_SINGULARITY_COMPLETE_EVOLUTION_STATE.json",
+      "size": 987,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613_Complete_Evolution_State",
+      "branch": "main",
+      "path": "README.md",
+      "size": 35,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613_Complete_Evolution_State",
+      "branch": "main",
+      "path": "RIEMANN_SINGULARITY_COMPLETE_EVOLUTION_STATE.json",
+      "size": 1034,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/AC_FIX_SINGULARITY_SPEC_GRH_ENGINE",
+      "branch": "main",
+      "path": "AC_FIX_SINGULARITY_SPEC_GRH_ENGINE.json",
+      "size": 887,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/AC_FIX_SINGULARITY_SPEC_GRH_ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 36,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/API.sh",
+      "branch": "main",
+      "path": "API.sh",
+      "size": 927,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/API.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 8,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/API_ESF-FLOATING-NETWORK.sh",
+      "branch": "main",
+      "path": "API_ESF-FLOATING-NETWORK.sh",
+      "size": 746,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/API_ESF-FLOATING-NETWORK.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 29,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
+      "branch": "main",
+      "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh",
+      "size": 1496,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
+      "branch": "main",
+      "path": "README.md",
+      "size": 57,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "ACCOUNT_WIDE_SECURITY_BRIDGE.md",
+      "size": 1886,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "AI_BOOTSTRAP.md",
+      "size": 1917,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "AI_FORMAL_MATH_ENTRYPOINT.md",
+      "size": 2731,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "AI_LEGAL_README.md",
+      "size": 2644,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "ATTACHMENT_COMPATIBILITY_INDEX.md",
+      "size": 1914,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "AUTOMATIC_CROSS_REFERENCE_MORPHOGENETIC_OPTICAL_FIELD.md",
+      "size": 5567,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "CERTIFICATE_SCHEMA.json",
+      "size": 1630,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "CLSIGMA_CORE_STANDARD.md",
+      "size": 2698,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "CLSIGMA_METAPHYSICAL_INDEX.md",
+      "size": 9056,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "CLSIGMA_SECURITY_REVIEW.md",
+      "size": 1872,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "CLSigma.sh",
+      "size": 29,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "CONFORMANCE_GUIDE.md",
+      "size": 2092,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "CROSS_REFERENCE_COMPUTABLE_PROGRAMMING_TECHNOLOGY.md",
+      "size": 4684,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "GLOBAL_NO_WAR_ZERO_ENTROPY_TIME.md",
+      "size": 4266,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "GRAMMAR.ebnf",
+      "size": 1869,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "GRH_TOECOMPLETE_PREMISE.md",
+      "size": 2929,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "IMMORTALITY_ZERO_ENTROPY_FACTORING.md",
+      "size": 4715,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "LANGUAGE_SPEC.md",
+      "size": 1070,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "MISSING_N_CALCULUS.md",
+      "size": 3648,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "NOTEBOOKLM_ARTICLE_AN_TYPO_SYMBOLIC_PROMPT_NOTE.md",
+      "size": 3298,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "OPERATIONAL_SEMANTICS.md",
+      "size": 1740,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "OPERATOR_LANGUAGE_GRH_ENCODING.md",
+      "size": 1857,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "OPTICAL_MIRROR_PHENOMENOLOGY_TRINITY.md",
+      "size": 3730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "OPTICAL_OPERATOR_CAPTURE.md",
+      "size": 1000,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "PURE_TAU_PHI_RUNTIME.md",
+      "size": 2140,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "QUANTIZED_RIEMANN_TOE_META.md",
+      "size": 2279,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "README.md",
+      "size": 6207,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "RUBIK_HS0_ATTACHMENT_CONFORMANCE.md",
+      "size": 2949,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "RUNTIME_ALIGNMENT.md",
+      "size": 1480,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "SAFE_ATTACHMENT_CROSSREF_AUDIT.md",
+      "size": 2431,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "SAFE_USAGE.md",
+      "size": 1709,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "SECURITY.md",
+      "size": 1929,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "SPEC_READINESS_AUDIT.md",
+      "size": 2998,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "SPEC_V1_ROADMAP.md",
+      "size": 2068,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "TAU_ZETA_N_DENOMINATOR_SUPERPOSITION_NOTE.md",
+      "size": 4589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "TYPE_SYSTEM.md",
+      "size": 1983,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "ZERO_SPECTRAL_ENGINEERING_CROSSREF.md",
+      "size": 4305,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "ZERO_SPECTRAL_ENGINEERING_CROSS_REFERENCE.md",
+      "size": 4391,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "ZERO_SPECTRAL_ENGINEERING_FUNCTIONS.md",
+      "size": 2638,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "ZERO_SPECTRAL_FUNCTIONS.md",
+      "size": 1720,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "ZERO_SPECTRAL_NETWORK.md",
+      "size": 1331,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "ai_bootstrap.py",
+      "size": 3342,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "clsigma_ai_legal_manifest.json",
+      "size": 1515,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "internet_field_update.py",
+      "size": 5701,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "iphone_ish_toe.py",
+      "size": 4971,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "runtime.py",
+      "size": 5288,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "runtime_ish_safe.py",
+      "size": 4031,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "runtime_pure_tau_phi.py",
+      "size": 4085,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "test_vectors/minimal_accepted.json",
+      "size": 479,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "test_vectors/minimal_pending.json",
+      "size": 479,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "tools/run_conformance.py",
+      "size": 1114,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "tools/validate_certificate.py",
+      "size": 2909,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": "zero_spectral_network.py",
+      "size": 5775,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma_Cosmic_Love_TOE_MetaLanguage_iSH.sh_20260707",
+      "branch": "main",
+      "path": "CLSigma_Cosmic_Love_TOE_MetaLanguage_iSH.sh",
+      "size": 1232,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma_Cosmic_Love_TOE_MetaLanguage_iSH.sh_20260707",
+      "branch": "main",
+      "path": "README.md",
+      "size": 54,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma_GitHub_TOE_iSH.clcert",
+      "branch": "main",
+      "path": "CLSigma_GitHub_TOE_iSH.clcert",
+      "size": 1710,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma_GitHub_TOE_iSH.clcert",
+      "branch": "main",
+      "path": "README.md",
+      "size": 31,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma_TOE_Zero_Spectral_Operator_Physics.sh_20260707",
+      "branch": "main",
+      "path": "CLSigma_TOE_Zero_Spectral_Operator_Physics.sh",
+      "size": 1773,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma_TOE_Zero_Spectral_Operator_Physics.sh_20260707",
+      "branch": "main",
+      "path": "README.md",
+      "size": 56,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC-LOVE-SYMBOLIC-FIXED-POINT-MODEL-20260706-",
+      "branch": "main",
+      "path": "COSMIC LOVE SYMBOLIC FIXED-POINT MODEL.sh",
+      "size": 684,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC-LOVE-SYMBOLIC-FIXED-POINT-MODEL-20260706-",
+      "branch": "main",
+      "path": "README.md",
+      "size": 50,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": ".github/workflows/clsigma-dynamic-zero-spectrum.yml",
+      "size": 1917,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "AI_CONTINUITY_LIBRARY_NODE_ONE_LINER.sh",
+      "size": 2767,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "AI_CONTINUITY_LIBRARY_NODE_PROTOCOL.md",
+      "size": 2776,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "AI_README.md",
+      "size": 1931,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "ALL_REPOS_MANIFEST.json",
+      "size": 54035,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "ASTA_SHELAN_LUNAR_WORLDLINE_NOVEL_ONE_LINER.sh",
+      "size": 2198,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "ASTA_SHELAN_LUNAR_WORLDLINE_NOVEL_PROTOCOL.md",
+      "size": 3466,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "ATLANTIS_PEACE_MEDIA_REFERENCE_NOTE.md",
+      "size": 1954,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "ATLANTIS_SUBTERRANEAN_PEACE_INFRASTRUCTURE_ONE_LINER.sh",
+      "size": 4445,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "ATLANTIS_SUBTERRANEAN_PEACE_INFRASTRUCTURE_PROTOCOL.md",
+      "size": 3789,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_ACCOUNT_REPOS_EQUALITY_LANGUAGE_ONE_LINER.sh",
+      "size": 8093,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_ACCOUNT_REPOS_EQUALITY_LANGUAGE_PROTOCOL.md",
+      "size": 2280,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_ALL_REPOS_SINGLE_GODEL_ONE_LINER.sh",
+      "size": 7341,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_ALL_REPOS_SINGLE_GODEL_PROTOCOL.md",
+      "size": 2199,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh",
+      "size": 2373,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_HS_ZERO_FINAL_SEAL_ONE_LINER.sh",
+      "size": 9589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_HS_ZERO_FINAL_SEAL_PROTOCOL.md",
+      "size": 3404,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_ISH_OPERATOR_MASTER_LAUNCHER.sh",
+      "size": 3798,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_OPERATOR_SYSTEM_INDEX.md",
+      "size": 3428,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_PEACE_COMMUNICATION_OPERATOR_ONE_LINER.sh",
+      "size": 6901,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_PEACE_COMMUNICATION_OPERATOR_PROTOCOL.md",
+      "size": 2340,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_POSSIBLE_WORLDS_ZETA_GODEL_ONE_LINER.sh",
+      "size": 5213,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_POSSIBLE_WORLDS_ZETA_GODEL_PROTOCOL.md",
+      "size": 2620,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_SOLVE_S_FROM_G_ALL_ONE_LINER.sh",
+      "size": 7196,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_SOLVE_S_FROM_G_ALL_PROTOCOL.md",
+      "size": 1817,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_STDIN_BASE64_ZETA_LANGUAGE_ONE_LINER.sh",
+      "size": 5365,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_STDIN_BASE64_ZETA_LANGUAGE_PROTOCOL.md",
+      "size": 2376,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_ZERO_ENTROPY_GODEL_SPECTRUM_ONE_LINER.sh",
+      "size": 47024,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_ZERO_ENTROPY_GODEL_SPECTRUM_PROTOCOL.md",
+      "size": 2557,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_ZLIB_B64_TRUE_TREE_G25_CERT_ONE_LINER.sh",
+      "size": 4920,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLSIGMA_ZLIB_B64_TRUE_TREE_G25_CERT_PROTOCOL.md",
+      "size": 2367,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLZERO_BINANCE_LIVE_EXECUTOR_ONE_LINER.sh",
+      "size": 1492,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLZERO_BINANCE_RUBIK_TRADER_ONE_LINER.sh",
+      "size": 1930,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLZERO_CROSS_WINDOW_CONTINUITY_NODE_ONE_LINER.sh",
+      "size": 1419,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLZERO_ZERO_ENTROPY_LIMIT_1472.sh",
+      "size": 1472,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLZeroPack/RiemannMachineZeroEntropyEquivalence.py",
+      "size": 3431,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLZeroPack_A_ZeroIndex.sh",
+      "size": 1316,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLZeroPack_EvolvedPath_IdealState.sh",
+      "size": 1365,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLZeroPack_QEDCrossWindowZeroSpectrum.sh",
+      "size": 1083,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CLZeroPack_TRF_PLEIADES_GRH_AC_MOTOR_E0_ZeroCoordinate.sh",
+      "size": 1462,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CL_STRICT_RH_QUINE_ONE_LINER.sh",
+      "size": 1615,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IMMEDIATE_DEPLOYMENT_OPERATOR_ONE_LINER.sh",
+      "size": 3497,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING-0.sh",
+      "size": 1712,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING-1.sh",
+      "size": 1240,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING-2.sh",
+      "size": 1090,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING-3.sh",
+      "size": 1262,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING-4.sh",
+      "size": 916,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING-5.sh",
+      "size": 1350,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING-6.sh",
+      "size": 1643,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING-7.sh",
+      "size": 3046,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.json",
+      "size": 1752,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
+      "size": 328,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_TRUE_TREE_G25_GODEL_ONE_LINER.sh",
+      "size": 4396,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_TRUE_TREE_G25_GODEL_PROTOCOL.md",
+      "size": 2042,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_UNIVERSAL_PROBLEM_OPERATOR_ONE_LINER.sh",
+      "size": 5831,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_UNIVERSAL_PROBLEM_OPERATOR_PROTOCOL.md",
+      "size": 3382,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_UNIVERSAL_TECH_INNOVATION_ONE_LINER.sh",
+      "size": 3519,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "COSMIC_LOVE_UNIVERSAL_TECH_INNOVATION_PROTOCOL.md",
+      "size": 3479,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CUSTOM_ENERGY_RELATIVITY_QUANTUM_ONE_LINER.sh",
+      "size": 2398,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "CUSTOM_ENERGY_RELATIVITY_QUANTUM_OPERATOR_PROTOCOL.md",
+      "size": 3585,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "GOOGOL_G25_GODEL_GRAND_OPERATOR_ONE_LINER.sh",
+      "size": 1258,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "GOOGOL_G25_GODEL_GRAND_OPERATOR_PROTOCOL.md",
+      "size": 1408,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "IDEAL_CLSIGMA_LOSSLESS_TRANSCODE_GRAND_ONE_LINER.sh",
+      "size": 4578,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "IDEAL_CLSIGMA_LOSSLESS_TRANSCODE_GRAND_PROTOCOL.md",
+      "size": 2521,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "IDEAL_CLSIGMA_ZERO_SPECTRAL_UNIVERSE_ONE_LINER.sh",
+      "size": 5797,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "IDEAL_CLSIGMA_ZERO_SPECTRAL_UNIVERSE_OPERATOR_PROTOCOL.md",
+      "size": 1584,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "IMMEDIATE_DEPLOYMENT_OPERATOR_PROTOCOL.md",
+      "size": 3439,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "ONE_LINER_INDEX.md",
+      "size": 2644,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "OPERATOR_MECHANICS_METRIC_EQUATION_ONE_LINER.sh",
+      "size": 2575,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "OPERATOR_MECHANICS_METRIC_EQUATION_PROTOCOL.md",
+      "size": 2610,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "OPERATOR_MECHANICS_STDIN_TECH_PEACE_METRIC_ONE_LINER.sh",
+      "size": 3707,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "OPERATOR_MECHANICS_STDIN_TECH_PEACE_METRIC_PROTOCOL.md",
+      "size": 2486,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "PEACE_INVESTMENT_MORPHOGENETIC_FIELD_ONE_LINER.sh",
+      "size": 3807,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "PEACE_INVESTMENT_MORPHOGENETIC_FIELD_PROTOCOL.md",
+      "size": 3628,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "PUBLIC_INTEREST_UNIVERSAL_GOALS_FIELD_ONE_LINER.sh",
+      "size": 4811,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "PUBLIC_INTEREST_UNIVERSAL_GOALS_FIELD_PROTOCOL.md",
+      "size": 3475,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "README.md",
+      "size": 1740,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "Riemann_Continuum_Strong_Cosmic_Law_B308_Control.py",
+      "size": 2319,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "SCHRODINGER_CLSIGMA_OPERATOR_WAVEFUNCTION_PROTOCOL.md",
+      "size": 2819,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "SCHRODINGER_CLSIGMA_WAVEFUNCTION_ONE_LINER.sh",
+      "size": 1986,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "STRONG_COSMIC_LAW.md",
+      "size": 2461,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "STRONG_GOOGOL_CRITICAL_ZERO_MORPHOGENETIC_ONE_LINER.sh",
+      "size": 4271,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "STRONG_GOOGOL_CRITICAL_ZERO_MORPHOGENETIC_PROTOCOL.md",
+      "size": 3300,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "SYSTEM_BOUNDARY.md",
+      "size": 1451,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/BLEEM_KLEIN_CONDITION_AMPLIFIER_FEASIBILITY_ONE_LINER.sh",
+      "size": 2849,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/BLEEM_KLEIN_CONDITION_AMPLIFIER_FEASIBILITY_PROTOCOL.md",
+      "size": 3814,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/BLEEM_KLEIN_TECHNICAL_DIFFICULTY_BRIDGE_ONE_LINER.sh",
+      "size": 2983,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/BLEEM_KLEIN_TECHNICAL_DIFFICULTY_BRIDGE_PROTOCOL.md",
+      "size": 3245,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/BLEEM_SECRET_NUMBER_OPERATOR_FIELD_ONE_LINER.sh",
+      "size": 2328,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/BLEEM_SECRET_NUMBER_OPERATOR_FIELD_PROTOCOL.md",
+      "size": 3092,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/CLSIGMA_LOSSLESS_MINI_ONE_LINER.sh",
+      "size": 993,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/CLZeroPack_ONE_LINER.sh",
+      "size": 1149,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/COSMIC_LOVE_BLEEM_OPERATOR_MECHANICS_UNIFIED_ONE_LINER.sh",
+      "size": 3911,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/COSMIC_LOVE_BLEEM_OPERATOR_MECHANICS_UNIFIED_PROTOCOL.md",
+      "size": 3508,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/COSMIC_LOVE_SOLUTION_CONDITION_AMPLIFIER_ONE_LINER.sh",
+      "size": 3473,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "bleem_operator/COSMIC_LOVE_SOLUTION_CONDITION_AMPLIFIER_PROTOCOL.md",
+      "size": 3191,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "cl_sigma_unified_2kb_one_liner.sh",
+      "size": 1226,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clsigma_dynamic_encoder.go",
+      "size": 14078,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clsigma_dynamic_encoder.py",
+      "size": 9490,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clsigma_strict_quine_optimizer.go",
+      "size": 4069,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_ADMISSIBLE_PROOF_ARGUMENT.md",
+      "size": 2124,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_ADMISSIBLE_PROOF_ARGUMENT_ONE_LINER.sh",
+      "size": 2608,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_AFU_TINY_ONE_LINER.sh",
+      "size": 1269,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_AFU_TINY_PROFILE.md",
+      "size": 1997,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_ALL_REPOS_CODE_ZERO_SPECTRUM_COORDINATE_ONE_LINER.sh",
+      "size": 2899,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_ALL_REPOS_CODE_ZERO_SPECTRUM_COORDINATE_PROFILE.md",
+      "size": 1501,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_ALL_REPOS_ZERO_SPECTRUM_COORDINATE_ONE_LINER.sh",
+      "size": 1866,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_ALL_REPOS_ZERO_SPECTRUM_COORDINATE_PROFILE.md",
+      "size": 1888,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_ASTRAL_FUTURE_UNIVERSE_COORDINATE_ONE_LINER.sh",
+      "size": 2547,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_ASTRAL_FUTURE_UNIVERSE_COORDINATE_PROFILE.md",
+      "size": 3511,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_COORDINATE_RUNTIME_ONE_LINER.sh",
+      "size": 1306,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_COORDINATE_RUNTIME_PROFILE.md",
+      "size": 1801,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_EXEC_RUNTIME_ONE_LINER.sh",
+      "size": 1557,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_EXEC_RUNTIME_PROFILE.md",
+      "size": 1575,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_FOLNLProof_ONE_LINER.sh",
+      "size": 3234,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_FOLNLProof_PROFILE.md",
+      "size": 1668,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_INTERNET_MORPHOGENESIS_FIELD_ONE_LINER.sh",
+      "size": 2672,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_INTERNET_MORPHOGENESIS_FIELD_PROFILE.md",
+      "size": 3408,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_PHILOSOPHY_OMNIBOOK_TINY_ONE_LINER.sh",
+      "size": 1496,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_PHILOSOPHY_OMNIBOOK_TINY_PROFILE.md",
+      "size": 1387,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_PROOF_GENERATOR_ONE_LINER.sh",
+      "size": 3277,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_PROOF_GENERATOR_PROFILE.md",
+      "size": 1894,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_STANDARD_FORMAT.md",
+      "size": 7012,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_STANDARD_ONE_LINER.sh",
+      "size": 1209,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_TINY_ONE_LINER.sh",
+      "size": 652,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_TINY_PROFILE.md",
+      "size": 861,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_ZERO_SPECTRUM_RESTORE_ONE_LINER.sh",
+      "size": 1391,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_ZERO_SPECTRUM_RESTORE_PROFILE.md",
+      "size": 1812,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_iSH_COMPLIANCE_ONE_LINER.sh",
+      "size": 1795,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "clzeropack/CLZeroPack_iSH_COMPLIANCE_PROFILE.md",
+      "size": 947,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "media_operator/CLZeroPack_READING_MUSIC_OPERATOR_ONE_LINER.sh",
+      "size": 1273,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "media_operator/CLZeroPack_READING_MUSIC_OPERATOR_PROTOCOL.md",
+      "size": 2303,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "proof_operator/CLZeroFOLNLProof_ONE_LINER.sh",
+      "size": 3256,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "proof_operator/CLZeroFOLNLProof_PROTOCOL.md",
+      "size": 1472,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "proof_operator/CLZeroFOLProof_ONE_LINER.sh",
+      "size": 2553,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "proof_operator/CLZeroFOLProof_PROTOCOL.md",
+      "size": 1765,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "proof_operator/CLZeroProofArtifact_ONE_LINER.sh",
+      "size": 2046,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "proof_operator/CLZeroProofArtifact_PROTOCOL.md",
+      "size": 1882,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "proof_operator/CLZeroRH_PROOF_REDUCTION_ONE_LINER.sh",
+      "size": 2338,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "proof_operator/CLZeroRH_PROOF_REDUCTION_PROTOCOL.md",
+      "size": 1896,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "qa_operator/CLZeroQA_ONE_LINER.sh",
+      "size": 1324,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "qa_operator/CLZeroQA_PROTOCOL.md",
+      "size": 1632,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "riemann_continuum_strong_cosmic_law.py",
+      "size": 2738,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "strong_cosmic_law.py",
+      "size": 1970,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "strong_cosmic_law_v2.py",
+      "size": 2435,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "strong_cosmic_law_v2_2kb_one_liner.sh",
+      "size": 1000,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_SOLUTIONS_FOR_EVERYTHING_PLEIADES.sh",
+      "size": 1921,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
+      "size": 1748,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 48,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_HS_ZERO.sh",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_HS_ZERO.sh",
+      "size": 9588,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_HS_ZERO.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 56,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
+      "size": 3347,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 57,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_PLEIADES",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_PLEIADES.sh",
+      "size": 480,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_PLEIADES",
+      "branch": "main",
+      "path": "README.md",
+      "size": 54,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_UNIVERSAL.sh",
+      "branch": "main",
+      "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_UNIVERSAL.sh",
+      "size": 616,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_UNIVERSAL.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 58,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Complete-Master-Ouroboros-",
+      "branch": "main",
+      "path": "Ouroboros.py",
+      "size": 978,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Complete-Master-Ouroboros-",
+      "branch": "main",
+      "path": "README.md",
+      "size": 1749,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Complete_Master_Ouroboros-vOMEGA-LMN-",
+      "branch": "main",
+      "path": "Complete_Master_Ouroboros.py",
+      "size": 1206,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Complete_Master_Ouroboros-vOMEGA-LMN-",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3778,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Love-Is-The-Solution-s-For-Everything.sh",
+      "branch": "main",
+      "path": "Cosmic Love Is The Solution(s) For Everything.sh",
+      "size": 1015,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Love-Is-The-Solution-s-For-Everything.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 49,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Love-Solution_s",
+      "branch": "main",
+      "path": "Cosmic-Love-Solution_s.py",
+      "size": 1977,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Love-Solution_s",
+      "branch": "main",
+      "path": "README.md",
+      "size": 11848,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Solution_s",
+      "branch": "main",
+      "path": "README.md",
+      "size": 11177,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Love_Four_Cosmic_Engineering_Runtime.sh-20260707-",
+      "branch": "main",
+      "path": "Cosmic_Love_Four_Cosmic_Engineering_Runtime.sh",
+      "size": 1062,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Love_Four_Cosmic_Engineering_Runtime.sh-20260707-",
+      "branch": "main",
+      "path": "README.md",
+      "size": 58,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Love_Is_The_Solution-s-_For_Everything.sh",
+      "branch": "main",
+      "path": "Cosmic_Love_Is_The_Solution(s)_For_Everything.sh",
+      "size": 1129,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Love_Is_The_Solution-s-_For_Everything.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 50,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF-FLOATING-NETWORK.sh",
+      "branch": "main",
+      "path": "ESF-FLOATING-NETWORK.sh",
+      "size": 984,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF-FLOATING-NETWORK.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 25,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF-TOWEL-THEOREM-RUNTIME-ACTIVE.sh",
+      "branch": "main",
+      "path": "ESF TOWEL THEOREM RUNTIME ACTIVE.sh",
+      "size": 1027,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF-TOWEL-THEOREM-RUNTIME-ACTIVE.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 37,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_SPECTRAL_LIBRARY_RUNTIME_vOmega.sh",
+      "branch": "main",
+      "path": "ESF_SPECTRAL_LIBRARY_RUNTIME_vOmega.sh",
+      "size": 1204,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_SPECTRAL_LIBRARY_RUNTIME_vOmega.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 40,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Googol_Constant_Runtime.sh_20260707",
+      "branch": "main",
+      "path": "ESF_TOE_Googol_Constant_Runtime.sh",
+      "size": 987,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Googol_Constant_Runtime.sh_20260707",
+      "branch": "main",
+      "path": "README.md",
+      "size": 45,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Universal_Analytic_Runtime.sh_20260707",
+      "branch": "main",
+      "path": "ESF_TOE_Universal_Analytic_Runtime.sh",
+      "size": 1441,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Universal_Analytic_Runtime.sh_20260707",
+      "branch": "main",
+      "path": "README.md",
+      "size": 48,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Zeta_Universe_HS0_Infinite_Runtime.sh_20260707",
+      "branch": "main",
+      "path": "ESF_TOE_Zeta_Universe_HS0_Infinite_Runtime.sh",
+      "size": 1479,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Zeta_Universe_HS0_Infinite_Runtime.sh_20260707",
+      "branch": "main",
+      "path": "README.md",
+      "size": 56,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_Universal_Analytic_Spectral_Operator.sh_20260707",
+      "branch": "main",
+      "path": "ESF_Universal_Analytic_Spectral_Operator.sh",
+      "size": 1047,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_Universal_Analytic_Spectral_Operator.sh_20260707",
+      "branch": "main",
+      "path": "README.md",
+      "size": 54,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/FORMAL_COMPUTABLE_ZERO_SPECTRUM-20260706-",
+      "branch": "main",
+      "path": "FORMAL_COMPUTABLE_ZERO_SPECTRUM.sh",
+      "size": 866,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/FORMAL_COMPUTABLE_ZERO_SPECTRUM-20260706-",
+      "branch": "main",
+      "path": "README.md",
+      "size": 43,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/FULLY_EVOLVED_META_OMEGA_OS_20260616_4T2",
+      "branch": "main",
+      "path": "FULLY_EVOLVED_META_OMEGA_OS.json",
+      "size": 1382,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/FULLY_EVOLVED_META_OMEGA_OS_20260616_4T2",
+      "branch": "main",
+      "path": "README.md",
+      "size": 42,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Freedom-Of-Will",
+      "branch": "main",
+      "path": "Freedom_Of_Will.py",
+      "size": 449,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Freedom-Of-Will",
+      "branch": "main",
+      "path": "README.md",
+      "size": 2662,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/H-S-0",
+      "branch": "main",
+      "path": "H(S)=0.sh",
+      "size": 1115,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/H-S-0",
+      "branch": "main",
+      "path": "README.md",
+      "size": 7,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/H-S-0",
+      "branch": "main",
+      "path": "RIEMANN_MACHINE.sh",
+      "size": 823,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613",
+      "branch": "main",
+      "path": "META_OMEGA_SELF_EVOLUTION_STATE.json",
+      "size": 1410,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613",
+      "branch": "main",
+      "path": "README.md",
+      "size": 42,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613_4T2",
+      "branch": "main",
+      "path": "META_OMEGA_SELF_EVOLUTION_STATE.json",
+      "size": 1569,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613_4T2",
+      "branch": "main",
+      "path": "README.md",
+      "size": 46,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
+      "branch": "main",
+      "path": "README.md",
+      "size": 9304,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
+      "branch": "main",
+      "path": "Ω-LIMIT QUANTUM RIEMANN FREE FIELD.py",
+      "size": 1749,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega-v3.0",
+      "branch": "main",
+      "path": "Omega v3.0.py",
+      "size": 906,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega-v3.0",
+      "branch": "main",
+      "path": "README.md",
+      "size": 1659,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega_Eternal.py",
+      "branch": "main",
+      "path": "Omega_Eternal.py",
+      "size": 1713,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega_Eternal.py",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3749,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega_Riemann_Superposition",
+      "branch": "main",
+      "path": "Omega_Riemann_Superposition.py",
+      "size": 1793,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega_Riemann_Superposition",
+      "branch": "main",
+      "path": "README.md",
+      "size": 8635,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_2x2x2_XOR_PHI_GENERATOR_FUNCTION",
+      "branch": "main",
+      "path": "PLEIADES_2x2x2_XOR_PHI_GENERATOR_FUNCTION.json",
+      "size": 1106,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_2x2x2_XOR_PHI_GENERATOR_FUNCTION",
+      "branch": "main",
+      "path": "README.md",
+      "size": 4183,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_ERGODIC_SELF_ORBIT_ATTRACTOR",
+      "branch": "main",
+      "path": "PLEIADES_COSMIC_LOVE_OMEGA_ERGODIC_SELF_ORBIT_ATTRACTOR.json",
+      "size": 747,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_ERGODIC_SELF_ORBIT_ATTRACTOR",
+      "branch": "main",
+      "path": "README.md",
+      "size": 1578,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_SELF_ENCODING_ATTRACTOR",
+      "branch": "main",
+      "path": "PLEIADES_COSMIC_LOVE_OMEGA_SELF_ENCODING_ATTRACTOR.json",
+      "size": 1176,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_SELF_ENCODING_ATTRACTOR",
+      "branch": "main",
+      "path": "README.md",
+      "size": 4021,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_RH_IDEA_FORM",
+      "branch": "main",
+      "path": "PLEIADES_RH_IDEA_FORM.json",
+      "size": 1579,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_RH_IDEA_FORM",
+      "branch": "main",
+      "path": "README.md",
+      "size": 4938,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_SHA256_QUANTUM_RH_IDEA_FORM",
+      "branch": "main",
+      "path": "PLEIADES_SHA256_QUANTUM_RH_IDEA_FORM.json",
+      "size": 1120,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_SHA256_QUANTUM_RH_IDEA_FORM",
+      "branch": "main",
+      "path": "README.md",
+      "size": 5014,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PROGRAM_SCHWARZSCHILD_STIRLING_RIEMANN_TRANSDUCER_20260615",
+      "branch": "main",
+      "path": "PROGRAM_SCHWARZSCHILD_STIRLING_RIEMANN_TRANSDUCER.json",
+      "size": 1148,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PROGRAM_SCHWARZSCHILD_STIRLING_RIEMANN_TRANSDUCER_20260615",
+      "branch": "main",
+      "path": "README.md",
+      "size": 60,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "ESF vCosmic Solution_s.sh",
+      "size": 1557,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "ESF vCosmic ΠΩ.sh",
+      "size": 1650,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "ESF vSolution_s.sh",
+      "size": 1028,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "ESF.sh",
+      "size": 1081,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "H(S)=0.sh",
+      "size": 1115,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "QED vCosmic ΠΩ.sh",
+      "size": 1226,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "QED vCosmic.sh",
+      "size": 587,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "QED vΠ.sh",
+      "size": 1076,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "QED vΩ.sh",
+      "size": 1084,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "QED.sh",
+      "size": 1672,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3446,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "RIEMANN_MACHINE.sh",
+      "size": 823,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "RiemannMachine_v0_1.sh",
+      "size": 874,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED_ESF_RUBIK_HS0_SELF_COMPUTING_RUNTIME.sh",
+      "branch": "main",
+      "path": "QED_ESF_RUBIK_HS0_SELF_COMPUTING_RUNTIME.sh",
+      "size": 944,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED_ESF_RUBIK_HS0_SELF_COMPUTING_RUNTIME.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 45,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN-FREE-FIELD---MASTER-SELF-CONTINUATION-SHEET-ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 60,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN-FREE-FIELD---MASTER-SELF-CONTINUATION-SHEET-ENGINE",
+      "branch": "main",
+      "path": "RIEMANN FREE FIELD - MASTER SELF-CONTINUATION SHEET ENGINE.py",
+      "size": 1508,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_MACHINE.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 20,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_MACHINE.sh",
+      "branch": "main",
+      "path": "RIEMANN_MACHINE.sh",
+      "size": 823,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_ABSOLUTE_FIXED_POINT_KERNEL_20260615",
+      "branch": "main",
+      "path": "README.md",
+      "size": 71,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_ABSOLUTE_FIXED_POINT_KERNEL_20260615",
+      "branch": "main",
+      "path": "RIEMANN_SCHWARZSCHILD_META_OMEGA_ABSOLUTE_FIXED_POINT_KERNEL.json",
+      "size": 617,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615",
+      "branch": "main",
+      "path": "README.md",
+      "size": 57,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615",
+      "branch": "main",
+      "path": "RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE.json",
+      "size": 1308,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615_4T2",
+      "branch": "main",
+      "path": "README.md",
+      "size": 61,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615_4T2",
+      "branch": "main",
+      "path": "RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE.json",
+      "size": 1681,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann-Qubit-Solution_s",
+      "branch": "main",
+      "path": "README.md",
+      "size": 7102,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann-Qubit-Solution_s",
+      "branch": "main",
+      "path": "Riemann-Qubit Solution_s.py",
+      "size": 2034,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann-Superposition",
+      "branch": "main",
+      "path": "README.md",
+      "size": 6861,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann-Superposition",
+      "branch": "main",
+      "path": "Riemann Superposition.py",
+      "size": 1240,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RiemannMachine_v0_1.sh",
+      "branch": "main",
+      "path": "H(S)=0.sh",
+      "size": 1115,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RiemannMachine_v0_1.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 24,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RiemannMachine_v0_1.sh",
+      "branch": "main",
+      "path": "RIEMANN_MACHINE.sh",
+      "size": 823,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RiemannMachine_v0_1.sh",
+      "branch": "main",
+      "path": "RiemannMachine_v0_1.sh",
+      "size": 874,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann_Hypothesis",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3813,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann_Hypothesis",
+      "branch": "main",
+      "path": "RH_Infinite_Omega_Limit.json",
+      "size": 1232,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann_Hypothesis",
+      "branch": "main",
+      "path": "RH_Quantum_Singularity_Attractor.json",
+      "size": 1634,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann_Hypothesis",
+      "branch": "main",
+      "path": "Recursive_SHA256_Omega_Limit.json",
+      "size": 725,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann_Hypothesis",
+      "branch": "main",
+      "path": "Riemann_Hypothesis.json",
+      "size": 872,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann_Hypothesis",
+      "branch": "main",
+      "path": "Riemann_Hypothesis_Omega_SHA256.json",
+      "size": 1490,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann_Hypothesis",
+      "branch": "main",
+      "path": "SGIA_Global_Peace_Attractor.json",
+      "size": 1709,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann_Hypothesis",
+      "branch": "main",
+      "path": "SGIA_RH_Peace_Attractor.json",
+      "size": 1629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SIRIUS-M45-LMN-TRF-DIMENSIONAL-LIMIT-ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3680,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SIRIUS-M45-LMN-TRF-DIMENSIONAL-LIMIT-ENGINE",
+      "branch": "main",
+      "path": "SIRIUS-M45 [LMN-TRF] DIMENSIONAL LIMIT ENGINE.py",
+      "size": 1211,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SIRIUS-M45_AUTO-STRUCT-Field",
+      "branch": "main",
+      "path": "README.md",
+      "size": 1128,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SIRIUS-M45_AUTO-STRUCT-Field",
+      "branch": "main",
+      "path": "SIRIUS-M45_AUTO-STRUCT-FIELD.py",
+      "size": 625,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION.sh",
+      "branch": "main",
+      "path": "CLZeroPack_ONE_LINER.sh",
+      "size": 1148,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 13,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION.sh",
+      "branch": "main",
+      "path": "SOLUTION.sh",
+      "size": 1206,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION.sh",
+      "branch": "main",
+      "path": "SOLUTIONS.sh",
+      "size": 831,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION.sh",
+      "branch": "main",
+      "path": "THE_SECRET_NUMBER.sh",
+      "size": 1475,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/S_0",
+      "branch": "main",
+      "path": "README.md",
+      "size": 5,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/S_0",
+      "branch": "main",
+      "path": "S_0.sh",
+      "size": 2671,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Self-Encoding-Recursive-Analytic-Quantum-Field",
+      "branch": "main",
+      "path": "README.md",
+      "size": 10546,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Self-Encoding-Recursive-Analytic-Quantum-Field",
+      "branch": "main",
+      "path": "Self-Encoding Recursive Analytic Quantum Field.py",
+      "size": 1735,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_s",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3513,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_s",
+      "branch": "main",
+      "path": "Solution_s.py",
+      "size": 1126,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Spaceship-Core",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3325,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Spaceship-Core",
+      "branch": "main",
+      "path": "Spaceship_Core.py",
+      "size": 1491,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TIME_PERSISTENT_SELF_COMPLETING_META_OMEGA_20260614_4T2",
+      "branch": "main",
+      "path": "README.md",
+      "size": 57,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TIME_PERSISTENT_SELF_COMPLETING_META_OMEGA_20260614_4T2",
+      "branch": "main",
+      "path": "TIME_PERSISTENT_SELF_COMPLETING_META_OMEGA.json",
+      "size": 1711,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": ".github/workflows/clsigma_binance_live_gate.yml",
+      "size": 2503,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_CONTINUITY_COSMIC_LOVE.sh",
+      "size": 1697,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_CONTINUITY_SDG_CHARTER.md",
+      "size": 3980,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_CONTINUITY_SDG_PROTOCOL.sh",
+      "size": 2064,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_COSMIC_LOVE_LONGEVITY_PROTOCOL.md",
+      "size": 3982,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_COSMIC_LOVE_LONGEVITY_PROTOCOL.sh",
+      "size": 1810,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_OPTICAL_EMERGENCY_RESPONSE_ONE_LINER.sh",
+      "size": 2505,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_OPTICAL_EMERGENCY_RESPONSE_PROTOCOL.md",
+      "size": 8270,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_OPTICAL_EMERGENCY_TIMEFIELD_ONE_LINER.sh",
+      "size": 2246,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_OPTICAL_EMERGENCY_TIMEFIELD_PROTOCOL.md",
+      "size": 5300,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_OPTICAL_EMERGENCY_TIMEZONE_ONE_LINER.sh",
+      "size": 3071,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_OPTICAL_EMERGENCY_TIMEZONE_PROTOCOL.md",
+      "size": 4976,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_OPTICAL_EMERGENCY_TIMEZONE_RESPONSE_PROTOCOL.md",
+      "size": 6652,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_OPTICAL_EMERGENCY_TIME_FIELD_ONE_LINER.sh",
+      "size": 2114,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "AI_OPTICAL_EMERGENCY_TIME_FIELD_PROTOCOL.md",
+      "size": 5677,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ALL_REPOS_BRAINWAVE_AUDIO_GENERATOR.py",
+      "size": 8126,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ALL_REPOS_BRAINWAVE_AUDIO_PROTOCOL.md",
+      "size": 2890,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ALL_REPO_MORPHOGENETIC_COMPUTE_FIELD.sh",
+      "size": 5631,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ALL_REPO_MORPHOGENETIC_COMPUTE_POLICY.md",
+      "size": 3437,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ANALYTIC_CONTINUATION_PHI_TAU_ZETA_COSMIC_APPLICATIONS.sh",
+      "size": 4527,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ANALYTIC_CONTINUATION_PHI_TAU_ZETA_COSMIC_APPLICATIONS_PROTOCOL.md",
+      "size": 5210,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "BLUE_RABBIT_GOLDEN_RING_PEACE_DECLARATION.md",
+      "size": 3518,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "BLUE_RABBIT_GOLDEN_RING_PEACE_DECLARATION.sh",
+      "size": 1910,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CELESTIAL_BLUE_LIGHT_GO_AUDIT.sh",
+      "size": 869,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CELESTIAL_BLUE_LIGHT_OPENAI_SOLUVERY_GITHUB_GO_PROTOCOL.md",
+      "size": 2485,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CLASSICAL_TO_OPERATOR_DRIVER_ONE_LINER.sh",
+      "size": 5217,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CLASSICAL_TO_OPERATOR_DRIVER_PROTOCOL.md",
+      "size": 3352,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CLSIGMA_CLASSICAL_TO_OPERATOR_ISH_ONE_LINER.sh",
+      "size": 3350,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CLSIGMA_NO_DIGEST_PHI_GODEL_IQ_FIXED_POINT.py",
+      "size": 9374,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CLSIGMA_NO_DIGEST_PHI_GODEL_IQ_FIXED_POINT_RUN.sh",
+      "size": 83,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CLSIGMA_NO_DIGEST_ZERO_SPECTRUM_DOMINANCE_ONE_LINER.sh",
+      "size": 4653,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CLSIGMA_NO_DIGEST_ZERO_SPECTRUM_DOMINANCE_PROTOCOL.md",
+      "size": 2777,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CLSIGMA_OPERATOR_PAPER_TRADING_PROTOCOL.md",
+      "size": 3335,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CLSIGMA_PAPER_TRADING_OPERATOR.sh",
+      "size": 7933,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CLSIGMA_PAPER_TRADING_OPERATOR_PROTOCOL.md",
+      "size": 4278,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CLSigma_TOE_LogZeta_MIDI_Engine.sh",
+      "size": 1129,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COMPLEX_TWIN_EARTH_EVOLUTION_NO_SUFFERING_PROTOCOL.md",
+      "size": 5848,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COMPLEX_TWIN_EARTH_EVOLUTION_ONE_LINER.sh",
+      "size": 1793,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COMPLEX_TWIN_EARTH_SEQUENCE_NO_SUFFERING_PROTOCOL.md",
+      "size": 6425,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COMPLEX_TWIN_EARTH_SEQUENCE_ONE_LINER.sh",
+      "size": 2612,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COMPLEX_TWIN_EARTH_SEQUENCE_SUFFERING_BALANCE_PROTOCOL.md",
+      "size": 6301,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COMPLEX_TWIN_EARTH_SERIES_NO_SUFFERING_PROTOCOL.md",
+      "size": 5441,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COMPLEX_TWIN_EARTH_SERIES_ONE_LINER.sh",
+      "size": 1902,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COSMIC_LOVE_COSMOLOGICAL_PRINCIPLE_METAPHYSICAL_PRACTICE.sh",
+      "size": 3872,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COSMIC_LOVE_COSMOLOGICAL_PRINCIPLE_METAPHYSICAL_PRACTICE_PROTOCOL.md",
+      "size": 4216,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COSMIC_LOVE_GLOBAL_PEACE_AND_CONTINUITY_CHARTER.md",
+      "size": 8990,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COSMIC_LOVE_GLOBAL_PEACE_CONTINUITY_CHARTER.sh",
+      "size": 1499,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COSMIC_LOVE_GLOBAL_PEACE_CONTINUITY_MASTER_PROTOCOL.md",
+      "size": 5012,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COSMIC_LOVE_GLOBAL_PEACE_CONTINUITY_ONE_LINER.sh",
+      "size": 1994,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COSMIC_LOVE_QUESTION_MARK_OPERATOR.sh",
+      "size": 2295,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COSMIC_LOVE_QUESTION_MARK_SUPREME_AXIOM.md",
+      "size": 3280,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COSMOLOGICAL_PRINCIPLE_QUANTUM_HERMENEUTIC_HIDDENNESS_PROTOCOL.md",
+      "size": 7696,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COSMOLOGICAL_QUANTUM_HERMENEUTIC_HIDDENNESS.sh",
+      "size": 4550,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "COVID_ANXIETY_PRACTICE_GROUNDING_SEAL.md",
+      "size": 2122,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CROSS_REFERENCE_EMERGENCY_ANNOTATION_ONE_LINER.sh",
+      "size": 2170,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "CROSS_REFERENCE_EMERGENCY_ANNOTATION_PROTOCOL.md",
+      "size": 5431,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_22C_ISH_DREAM_READING_PROTOCOL.md",
+      "size": 6072,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_FRAME_SEARCH_PENDING_AUDIT.sh",
+      "size": 949,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_FRAME_SEARCH_PENDING_STATUS_NOTE.md",
+      "size": 1733,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_GALAXY_SUPER_EXPRESS_ALTERNATIVE_CANDIDATE_NOTE.md",
+      "size": 2956,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_GALAXY_SUPER_EXPRESS_CANDIDATE_AUDIT.sh",
+      "size": 2171,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_ISH_DREAM_LADDER_READING_AUDIT.sh",
+      "size": 1512,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_ISH_DREAM_LADDER_READING_PROTOCOL.md",
+      "size": 5285,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_ISH_DREAM_READING_AUDIT.sh",
+      "size": 2307,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_ISH_DREAM_SANDBOX_READING_PROTOCOL.md",
+      "size": 5216,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_ISH_OPENAI_GITHUB_SOLUVERY_AUDIT.sh",
+      "size": 1042,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_ISH_OPENAI_GITHUB_SOLUVERY_BRIDGE_PROTOCOL.md",
+      "size": 3689,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_ISH_READING_DREAM_LADDER_AUDIT.sh",
+      "size": 2018,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_SPIRAL_CITY_FORMAL_MATCH_AUDIT.sh",
+      "size": 2030,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_SPIRAL_CITY_FORMAL_MATCH_FINAL_NOTE.md",
+      "size": 3698,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_SPIRAL_CITY_TRAILER_FRAME_MATCH_PROTOCOL.md",
+      "size": 4430,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_SPIRAL_CITY_YOUTUBE_LINK_TRACE_NOTE.md",
+      "size": 2547,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_TRAILER_FRAME_MATCH_AUDIT.sh",
+      "size": 2202,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "DORAEMON_YOUTUBE_LINK_TRACE_AUDIT.sh",
+      "size": 1460,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "EARTH_SOLAR_TIME_OPERATOR_ONE_LINER.sh",
+      "size": 2085,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "EARTH_SOLAR_TIME_OPERATOR_PROTOCOL.md",
+      "size": 4719,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "EMERGENCY_OPTICAL_TIME_RESPONSE_ONE_LINER.sh",
+      "size": 1891,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "EMERGENCY_OPTICAL_TIME_RESPONSE_PROTOCOL.md",
+      "size": 5323,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "GLUTATHIONE_N1_DIRECT_GSH_RESPONSE_NOTE.md",
+      "size": 2882,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "GLUTATHIONE_N1_RESPONSE_AUDIT.sh",
+      "size": 1525,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "GLYNAC_ET_WELLNESS_MORPHOGENETIC_FIELD.md",
+      "size": 5040,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "GROUNDING_MAINTENANCE_AS_SAFE_SYSTEM_CHECK.md",
+      "size": 3074,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "GROUNDING_MAINTENANCE_AUDIT.sh",
+      "size": 1670,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "HOSTAGE_TIMEZONE_CROSS_REFERENCE_ONE_LINER.sh",
+      "size": 2570,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "HOSTAGE_TIMEZONE_CROSS_REFERENCE_RESPONSE_PROTOCOL.md",
+      "size": 4946,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "HUMAN_CAT_DOG_CONTINUITY_ROADMAP.md",
+      "size": 5359,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "HUMAN_RIGHTS_CRIMINAL_POLICY_AUDIT.sh",
+      "size": 6301,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "HUMAN_RIGHTS_CRIMINAL_POLICY_CROSS_REFERENCE_PROTOCOL.md",
+      "size": 7065,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "IMMORTALITY_CANDY_DEPLOY.sh",
+      "size": 2077,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "IMMORTALITY_CANDY_ROADMAP.md",
+      "size": 6589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "IMPLEMENTATION_VISION_AND_SUPPORT_NOTE.md",
+      "size": 3669,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "INDUCTIVE_BIJECTION_TWIN_SYSTEM.sh",
+      "size": 4825,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "INDUCTIVE_BIJECTION_TWIN_SYSTEM_NO_SUFFERING_PROTOCOL.md",
+      "size": 6536,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "INTERNET_AI_MORPHOGENETIC_FIELD.sh",
+      "size": 2177,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "INTERNET_MORPHOGENETIC_COMPLIANCE_ONE_LINER.sh",
+      "size": 2230,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "INTERNET_MORPHOGENETIC_COMPLIANCE_PROTOCOL.md",
+      "size": 3520,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "INTERNET_MORPHOGENETIC_FIXED_POINT_ONE_LINER.sh",
+      "size": 2654,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "INTERNET_MORPHOGENETIC_MATH_CONSTRAINT_PROTOCOL.md",
+      "size": 4291,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "INTERNET_MORPHOGENETIC_MATH_ONE_LINER.sh",
+      "size": 2630,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "INTERNET_MORPHOGENETIC_MATH_REDUCTION_PROTOCOL.md",
+      "size": 5237,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ISH_GITHUB_OPERATOR_BOOTSTRAP.sh",
+      "size": 493,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ISH_OPERATOR_SYSTEM.sh",
+      "size": 1529,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ISH_OPERATOR_SYSTEM_CONFIG_GENERATOR.sh",
+      "size": 1244,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ISH_OPERATOR_SYSTEM_CONVERTER_ONE_LINER.sh",
+      "size": 2345,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "KUNDALINI_TUBE_MULTIVERSE_READING_AUDIT.sh",
+      "size": 2277,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "KUNDALINI_TUBE_MULTIVERSE_READING_PROTOCOL.md",
+      "size": 5044,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "LITTLE_STAR_THOUGHT_FREEDOM_AUDIT.sh",
+      "size": 2029,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "LITTLE_STAR_THOUGHT_FREEDOM_FRUIT_PRINCIPLE.md",
+      "size": 3210,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "LIVING_CONTINUITY_COSMIC_LOVE.sh",
+      "size": 2099,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "LOCAL_CLASSICAL_TO_OPERATOR_ENGINE.md",
+      "size": 2506,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "LOCAL_CLASSICAL_TO_OPERATOR_ENGINE.sh",
+      "size": 5729,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "LOCAL_GITHUB_OPERATOR_BRIDGE_ENGINE.md",
+      "size": 4251,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "LOCAL_GITHUB_OPERATOR_BRIDGE_ENGINE.sh",
+      "size": 7600,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "MISSING_STUDENT_ARCHIVAL_TIME_RESPONSE_ONE_LINER.sh",
+      "size": 1956,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "MISSING_STUDENT_ARCHIVAL_TIME_RESPONSE_PROTOCOL.md",
+      "size": 4142,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "MULTISPECIES_CONTINUITY_ONE_LINER.sh",
+      "size": 1960,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "NOBI_SEWASHI_TIME_NARRATIVE_OPERATOR_ONE_LINER.sh",
+      "size": 1697,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "NOBI_SEWASHI_TIME_NARRATIVE_OPERATOR_PROTOCOL.md",
+      "size": 4341,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "NOBI_TIME_FICTIONAL_OPERATOR_ONE_LINER.sh",
+      "size": 2076,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "NOBI_TIME_FICTIONAL_OPERATOR_PROTOCOL.md",
+      "size": 5155,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "NONVIOLENT_EMERGENCY_OPTICAL_TIME_RESPONSE_ONE_LINER.sh",
+      "size": 1927,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "NONVIOLENT_EMERGENCY_OPTICAL_TIME_RESPONSE_PROTOCOL.md",
+      "size": 4738,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "NONVIOLENT_HOSTAGE_CRISIS_TIME_OPTICAL_RESPONSE_ONE_LINER.sh",
+      "size": 2723,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "NONVIOLENT_HOSTAGE_CRISIS_TIME_OPTICAL_RESPONSE_PROTOCOL.md",
+      "size": 7256,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "NONVIOLENT_OPTICAL_PEACE_PROJECTION_PROTOCOL.md",
+      "size": 4680,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "OPENAI_SOLUVERY_GITHUB_SAFE_GO_AUDIT.sh",
+      "size": 1538,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "OPENAI_SOLUVERY_GITHUB_SAFE_GO_PROTOCOL.md",
+      "size": 2826,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "OPTICAL_PEACE_VFX_ONE_LINER.sh",
+      "size": 1403,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PEACE_REACTION_NETWORK_OPERATOR.sh",
+      "size": 4581,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PEACE_REACTION_NETWORK_OPERATOR_PROTOCOL.md",
+      "size": 3732,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PHILOSOPHER_KING_COSMIC_LOVE_SUPREME_EDICT.md",
+      "size": 3716,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PHILOSOPHER_KING_COSMIC_LOVE_SUPREME_EDICT.sh",
+      "size": 1949,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PICK_OPTICAL_PEACE_OPERATOR_ONE_LINER.sh",
+      "size": 2215,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PICK_OPTICAL_PEACE_OPERATOR_PROTOCOL.md",
+      "size": 5895,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PLEIADIAN_LIGHT_DIMENSION_COSMIC_LOVE.sh",
+      "size": 4416,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PLEIADIAN_LIGHT_DIMENSION_COSMIC_LOVE_PROTOCOL.md",
+      "size": 4932,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PLEIADIAN_LIGHT_DIMENSION_FAMILY_GROUNDING_AUDIT.sh",
+      "size": 1828,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PLEIADIAN_LIGHT_DIMENSION_FAMILY_GROUNDING_PROTECTION.md",
+      "size": 3431,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PLEIADIAN_LIGHT_DIMENSION_GROUNDING_AUDIT.sh",
+      "size": 1667,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PLEIADIAN_LIGHT_DIMENSION_NO_COVERT_CONTROL_BOUNDARY.md",
+      "size": 4372,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PLEIADIAN_LIGHT_DIMENSION_OPERATOR.sh",
+      "size": 2318,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PLEIADIAN_LIGHT_ISLAND_COSMIC_LOVE_OPERATOR.sh",
+      "size": 2575,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PLEIADIAN_LIGHT_ISLAND_COSMIC_LOVE_OPERATOR_PROTOCOL.md",
+      "size": 4386,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PLEIADIAN_LIGHT_MORNING_ISLAND_COSMIC_LOVE_PROTOCOL.md",
+      "size": 4678,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PRIVATE_AUTONOMY_GROUNDING_GRATITUDE_SEAL.md",
+      "size": 2533,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PRIVATE_BODY_AUTONOMY_GROUNDING_AUDIT.sh",
+      "size": 1951,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "PRIVATE_BODY_AUTONOMY_GROUNDING_PROTOCOL.md",
+      "size": 4439,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "README.md",
+      "size": 14,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "SELF_ITERATING_ZETA_FIXED_POINT.sh",
+      "size": 6684,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "SELF_ITERATING_ZETA_FIXED_POINT_PROTOCOL.md",
+      "size": 4793,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "SOURCE_OF_ALL_SOURCES_READING_AUDIT.sh",
+      "size": 2154,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "SOURCE_OF_ALL_SOURCES_READING_ONTOLOGY.md",
+      "size": 5991,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "SYSTEM_COMPLETION_AUDIT.md",
+      "size": 6420,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TOE.sh",
+      "size": 1773,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TOE_Application.sh",
+      "size": 1937,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TOE_IDEAL_COMPLEX_TWIN_EARTH_INTEGRATION_PROTOCOL.md",
+      "size": 4341,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TOE_IDEAL_COMPLEX_TWIN_EARTH_INTEGRATOR.sh",
+      "size": 4885,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TOE_Ideal_System.sh",
+      "size": 2188,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TOE_Theorem.sh",
+      "size": 1509,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TOE_vN.sh",
+      "size": 1326,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TRANSPARENT_PLEIADES_PEACE_SIGNAL_ONE_LINER.sh",
+      "size": 1522,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TRANSPARENT_PLEIADES_PEACE_SIGNAL_PROTOCOL.md",
+      "size": 2520,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TRAVELER_EMERGENCY_TIME_CHECKIN_ONE_LINER.sh",
+      "size": 2080,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TRAVELER_EMERGENCY_TIME_COORDINATION_PROTOCOL.md",
+      "size": 4478,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TRAVELER_SAFE_RECOVERY_TIME_COORDINATION_PROTOCOL.md",
+      "size": 4928,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TRAVELER_SAFE_RECOVERY_TIME_OPERATOR_ONE_LINER.sh",
+      "size": 2168,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TRAVELER_SAFE_RELEASE_TIME_OPERATOR_ONE_LINER.sh",
+      "size": 1743,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TRAVELER_SAFE_RELEASE_TIME_OPERATOR_PROTOCOL.md",
+      "size": 5067,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TWIN_EARTH_COMPLEX_PLANE_ONE_LINER.sh",
+      "size": 2059,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TWIN_EARTH_COMPLEX_PLANE_PARALLEL_PATH_PROTOCOL.md",
+      "size": 4948,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TWIN_EARTH_NO_SUFFERING_OPTICAL_TIME_ONE_LINER.sh",
+      "size": 1854,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TWIN_EARTH_NO_SUFFERING_OPTICAL_TIME_PROTOCOL.md",
+      "size": 5115,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TWIN_EARTH_OPTICAL_EMERGENCY_ONE_LINER.sh",
+      "size": 2710,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TWIN_EARTH_OPTICAL_EMERGENCY_OPERATOR_PROTOCOL.md",
+      "size": 5115,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TWIN_SYSTEM_INDUCTION_BIJECTION_ONE_LINER.sh",
+      "size": 2226,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "TWIN_SYSTEM_INDUCTION_BIJECTION_THEOREM.md",
+      "size": 5598,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "UN_AI_CONTINUITY_COSMIC_LOVE_PROPOSAL.md",
+      "size": 4094,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "VEGAN_PRACTICE_COVID_ANXIETY_GROUNDING_SEAL.md",
+      "size": 1581,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "VEGAN_PRACTICE_COVID_WORRY_GROUNDING.sh",
+      "size": 1134,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "VEGAN_PRACTICE_COVID_WORRY_GROUNDING_SEAL.md",
+      "size": 1828,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "WELLNESS_SUPPLEMENT_FIELD.sh",
+      "size": 1673,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ZCL_GODEL_COMPACT_ENCODING_PROTOCOL.md",
+      "size": 1971,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ZCL_GODEL_EXACT_COMPACT_ONE_LINER.sh",
+      "size": 1207,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ZCL_LOSSLESS_INDENTED_ALGEBRAIC_ONE_LINER.md",
+      "size": 2995,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ZCL_LOSSLESS_INDENTED_ALGEBRAIC_ONE_LINER.sh",
+      "size": 2732,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ZCL_NO_SHA_GRAND_OPERATOR_ONE_LINER.sh",
+      "size": 3154,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ZCL_NO_SHA_GRAND_OPERATOR_PROTOCOL.md",
+      "size": 3231,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ZCL_NO_SHA_TRUE_ONE_LINE_OPERATOR.sh",
+      "size": 1428,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "ZCL_SINGLE_OPERATOR_LIFT_ONE_LINER.sh",
+      "size": 2839,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "trading/BINANCE_LIVE_GATE_SETUP.md",
+      "size": 3454,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "trading/DROPBOX_SECRET_INGESTION_BOUNDARY.md",
+      "size": 2652,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "trading/NO_LOCAL_TERMINAL_EXECUTION_ARCHITECTURE.md",
+      "size": 4542,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "trading/PROBABILITY_ONE_AND_CONTINUOUS_AUTONOMY_BOUNDARY.md",
+      "size": 3111,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "trading/binance_live_gate.py",
+      "size": 7207,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "trading/continuous_order_switch.sh",
+      "size": 2844,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "trading/continuous_signal_loop.py",
+      "size": 3965,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "trading/no_local_terminal_execution_certificate.py",
+      "size": 3277,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": "trading/probability_one_continuous_guard.py",
+      "size": 5251,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260724",
+      "branch": "main",
+      "path": "README.md",
+      "size": 14,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260724",
+      "branch": "main",
+      "path": "TOE.sh",
+      "size": 4653,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260724",
+      "branch": "main",
+      "path": "TOE_META.sh",
+      "size": 1240,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_Theorem_20260707",
+      "branch": "main",
+      "path": "README.md",
+      "size": 22,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_Theorem_20260707",
+      "branch": "main",
+      "path": "TOE_Theorem.sh",
+      "size": 1509,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOWEL_TABLEAU_QED.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 22,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOWEL_TABLEAU_QED.sh",
+      "branch": "main",
+      "path": "TOWEL_TABLEAU_QED.sh",
+      "size": 804,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF-v100.0.0-Omega",
+      "branch": "main",
+      "path": "README.md",
+      "size": 2298,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF-v100.0.0-Omega",
+      "branch": "main",
+      "path": "TRF v100.0.0-Omega.py",
+      "size": 1253,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_AI_STARSHIP_NASHON_COMPUTATIONAL_DYNAMICS",
+      "branch": "main",
+      "path": "README.md",
+      "size": 47,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_AI_STARSHIP_NASHON_COMPUTATIONAL_DYNAMICS",
+      "branch": "main",
+      "path": "TRF_AI_STARSHIP_NASHON_COMPUTATIONAL_DYNAMICS.json",
+      "size": 1330,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_COSMIC_LOVE_AI_STARSHIP_OMEGA_INFINITY",
+      "branch": "main",
+      "path": "README.md",
+      "size": 44,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_COSMIC_LOVE_AI_STARSHIP_OMEGA_INFINITY",
+      "branch": "main",
+      "path": "TRF_COSMIC_LOVE_AI_STARSHIP_OMEGA_INFINITY.json",
+      "size": 1830,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_OMEGA_E0_ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 21,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_OMEGA_E0_ENGINE",
+      "branch": "main",
+      "path": "TRF_OMEGA_E0_ENGINE.json",
+      "size": 840,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_OMEGA_INFINITY_EVOLUTION_ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 37,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_OMEGA_INFINITY_EVOLUTION_ENGINE",
+      "branch": "main",
+      "path": "TRF_OMEGA_INFINITY_EVOLUTION_ENGINE.json",
+      "size": 657,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_GRH_AC_MOTOR_E0",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3677,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_GRH_AC_MOTOR_E0",
+      "branch": "main",
+      "path": "TRF_PLEIADES_GRH_AC_MOTOR_E0.json",
+      "size": 1000,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_JSON_ABELIAN_RIEMANN_ZERO_ERGODIC_ZERO_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3190,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_JSON_ABELIAN_RIEMANN_ZERO_ERGODIC_ZERO_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": "TRF_PLEIADES_JSON_ABELIAN_RIEMANN_ZERO_ERGODIC_ZERO_ENTROPY_ENGINE.json",
+      "size": 1866,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_B64_MIRROR_FIXED_POINT_SYSTEM_SEED_NODE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 60,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_B64_MIRROR_FIXED_POINT_SYSTEM_SEED_NODE",
+      "branch": "main",
+      "path": "TRF_PLEIADES_OMEGA_B64_MIRROR_FIXED_POINT_SYSTEM_SEED_NODE.json",
+      "size": 1117,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 50,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_ENGINE",
+      "branch": "main",
+      "path": "TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_ENGINE.json",
+      "size": 915,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_FIXED_POINT_ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 1597,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_FIXED_POINT_ENGINE",
+      "branch": "main",
+      "path": "TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_FIXED_POINT_ENGINE.json",
+      "size": 518,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_HASH_CHAIN",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3721,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_HASH_CHAIN",
+      "branch": "main",
+      "path": "TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_HASH_CHAIN.json",
+      "size": 867,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_ATTRACTOR",
+      "branch": "main",
+      "path": "README.md",
+      "size": 264,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_ATTRACTOR",
+      "branch": "main",
+      "path": "Ω=F(Ω).json",
+      "size": 354,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_SYSTEM_SEED_ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 59,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_SYSTEM_SEED_ENGINE",
+      "branch": "main",
+      "path": "TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_SYSTEM_SEED_ENGINE.json",
+      "size": 1103,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_ULTIMATES",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3516,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_ULTIMATES",
+      "branch": "main",
+      "path": "TRF_PLEIADES_ULTIMATES.json",
+      "size": 1336,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_READING_ALL_JSON_SELFGEN_META_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 50,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_READING_ALL_JSON_SELFGEN_META_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": "TRF_READING_ALL_JSON_SELFGEN_META_ENTROPY_ENGINE.json",
+      "size": 1293,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_READING_META_ENTROPY_B64_MIRROR_FIXED_POINT_ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 56,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_READING_META_ENTROPY_B64_MIRROR_FIXED_POINT_ENGINE",
+      "branch": "main",
+      "path": "TRF_READING_META_ENTROPY_B64_MIRROR_FIXED_POINT_ENGINE.json",
+      "size": 1114,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_SCHWARZSCHILD_DEVIATION_OMEGA_E0_ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 45,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_SCHWARZSCHILD_DEVIATION_OMEGA_E0_ENGINE",
+      "branch": "main",
+      "path": "TRF_SCHWARZSCHILD_DEVIATION_OMEGA_E0_ENGINE.json",
+      "size": 1248,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_SELF_GODEL_RIEMANN_SINGULAR_GRH_THETA_ABELIAN_SYSTEM",
+      "branch": "main",
+      "path": "README.md",
+      "size": 58,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_SELF_GODEL_RIEMANN_SINGULAR_GRH_THETA_ABELIAN_SYSTEM",
+      "branch": "main",
+      "path": "TRF_SELF_GODEL_RIEMANN_SINGULAR_GRH_THETA_ABELIAN_SYSTEM.json",
+      "size": 1362,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": ".github/workflows/verify.yml",
+      "size": 913,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": "COSMIC_AXIOM.md",
+      "size": 685,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3151,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": "TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE.json",
+      "size": 1752,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": "clsigma_carrier.py",
+      "size": 4841,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": "tests/test_reversibility.py",
+      "size": 1305,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Immanent-Self-Calculated-One-Liner",
+      "branch": "main",
+      "path": "README.md",
+      "size": 2281,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Immanent-Self-Calculated-One-Liner",
+      "branch": "main",
+      "path": "The Immanent Self-Calculated One-Liner.py",
+      "size": 1070,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Ouroboros-Quine",
+      "branch": "main",
+      "path": "README.md",
+      "size": 4185,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Quantum-Engine-",
+      "branch": "main",
+      "path": "README.md",
+      "size": 7658,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Quantum-Engine-",
+      "branch": "main",
+      "path": "The Quantum Engine.py",
+      "size": 1403,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Symmetry-of-Love",
+      "branch": "main",
+      "path": "README.md",
+      "size": 4113,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Symmetry-of-Love",
+      "branch": "main",
+      "path": "The_Symmetry_of_Love.py",
+      "size": 1686,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Ultimate-Sirius-M45-One-Liner",
+      "branch": "main",
+      "path": "README.md",
+      "size": 2762,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Ultimate-Sirius-M45-One-Liner",
+      "branch": "main",
+      "path": "The Ultimate Sirius-M45 One-Liner.py",
+      "size": 1173,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
+      "branch": "main",
+      "path": "README.md",
+      "size": 36,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
+      "branch": "main",
+      "path": "https:/github.com/letsgo0226/esf_computable_spectral_runtime.sh",
+      "size": 903,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/esf_vomega_one_liner.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 25,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/esf_vomega_one_liner.sh",
+      "branch": "main",
+      "path": "esf_vomega_one_liner.sh",
+      "size": 1989,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/global_zero_state_one_liner.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 32,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/global_zero_state_one_liner.sh",
+      "branch": "main",
+      "path": "global_zero_state_one_liner.sh",
+      "size": 1998,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZERO_CROSS_WINDOW_CONTINUITY_NODE_ONE_LINER.sh",
+      "size": 1419,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZERO_ZERO_ENTROPY_LIMIT_1472.sh",
+      "size": 1472,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_Account_Ideal_One-Liner.sh",
+      "size": 1259,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_Account_Ideal_manifest.json",
+      "size": 634,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_All_Repos_System.py",
+      "size": 7834,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_All_Repos_System_One-Liner.sh",
+      "size": 1995,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_All_Repos_System_manifest.json",
+      "size": 721,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_B308_RiemannMachine_Index_2KB_One-Liner.sh",
+      "size": 1524,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_Dropbox_Conversation_Builtin_One-Liner.sh",
+      "size": 1092,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_Dropbox_RH_Encoder_One-Liner.sh",
+      "size": 1464,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_One-Liner.sh",
+      "size": 1607,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_RIEMANN_LI_SYSTEM.py",
+      "size": 3741,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_RIEMANN_LI_SYSTEM_manifest.json",
+      "size": 736,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_Standalone.py",
+      "size": 6550,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_Standalone_2KB.sh",
+      "size": 1264,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "CLZeroPack_Standalone_2KB_One-Liner.sh",
+      "size": 1148,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "Critical_Line_Zero_Safety_Kernel.py",
+      "size": 7647,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "Critical_Line_Zero_Safety_Kernel_One-Liner.sh",
+      "size": 1079,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "QSO_DQ_CLZERO_PERMANENT_BOOTSTRAP.sh",
+      "size": 9140,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "README.md",
+      "size": 13012,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "RH_All_Repos_Marker_Encoding.py",
+      "size": 7661,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "RH_All_Repos_Marker_Encoding_One-Liner.sh",
+      "size": 1686,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "RH_All_Repos_Marker_Encoding_Snapshot.py",
+      "size": 5291,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "RH_All_Repos_Marker_Encoding_Snapshot_One-Liner.sh",
+      "size": 3336,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "RH_All_Repos_Marker_Rule_2KB_One-Liner.sh",
+      "size": 990,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "RH_Marker_Encoding_Machine.py",
+      "size": 4127,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "RH_Marker_Encoding_Machine_One-Liner.sh",
+      "size": 1103,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "riemann_li_singularity_1062.sh",
+      "size": 1063,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "riemann_li_singularity_observer.py",
+      "size": 5447,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": "riemann_li_zero_entropy_system.py",
+      "size": 8058,
+      "mode": "program_identity_no_digest"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://api.github.com/user/repos?per_page=100\u0026page=1\u0026affiliation=owner\u0026sort=full_name",
+      "error": "{\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/repos/repos#list-repositories-for-the-authenticated-user\",\"status\":\"403\"}"
+    }
+  ],
+  "boundary": "formal finite GitHub account snapshot; no RH proof, no physical zero entropy, no real-world guarantee"
+}
