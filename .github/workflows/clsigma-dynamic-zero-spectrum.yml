@@ -73,6 +73,9 @@ jobs:
           CLSIGMA_RECORDED_SEED: ${{ github.run_id }}:${{ github.run_attempt }}
         run: sh CL_BLEEM_GROWTH_ONE_LINER.sh
 
+      - name: Generate Turing-machine zero-spectrum certificate
+        run: python3 clsigma_tm_zero_spectrum.py
+
       - name: Generate iSH lightweight certificate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -82,6 +85,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert CLSIGMA_DYNAMIC_ISH_ZERO_SPECTRUM.clcert CL_STRICT_QUINE_OPTIMIZER.clcert CL_STRICT_RH_QUINE.clcert CL_STRICT_RH_QUINE_MINIMAL.clcert CL_ZETA_EIGEN_STRICT.clcert CL_ZETA_EIGEN_DERIVED.clcert CL_BLEEM_UNINTERPRETED_WORKFLOW.clcert CL_BLEEM_GROWTH_STATE.json CL_BLEEM_GROWTH.clcert CL_BLEEM_GROWTH_ONELINER.clcert
+          git add CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert CLSIGMA_DYNAMIC_ISH_ZERO_SPECTRUM.clcert CL_STRICT_QUINE_OPTIMIZER.clcert CL_STRICT_RH_QUINE.clcert CL_STRICT_RH_QUINE_MINIMAL.clcert CL_ZETA_EIGEN_STRICT.clcert CL_ZETA_EIGEN_DERIVED.clcert CL_BLEEM_UNINTERPRETED_WORKFLOW.clcert CL_BLEEM_GROWTH_STATE.json CL_BLEEM_GROWTH.clcert CL_BLEEM_GROWTH_ONELINER.clcert CLSIGMA_TM_ZERO_SPECTRUM.clcert
           git commit -m "Update CLSigma dynamic zero-spectrum state" || exit 0
           git push
