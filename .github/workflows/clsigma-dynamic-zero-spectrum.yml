@@ -44,6 +44,13 @@ jobs:
           cmp CL_STRICT_RH_QUINE_MINIMAL.out.py CL_STRICT_RH_QUINE_MINIMAL.out2.py
           rm CL_STRICT_RH_QUINE_MINIMAL.out.py CL_STRICT_RH_QUINE_MINIMAL.out2.py
 
+      - name: Verify strict zeta eigen quine
+        run: |
+          sh CL_ZETA_EIGEN_STRICT_ONE_LINER.sh > CL_ZETA_EIGEN_STRICT.out.py
+          python3 CL_ZETA_EIGEN_STRICT.out.py > CL_ZETA_EIGEN_STRICT.out2.py
+          cmp CL_ZETA_EIGEN_STRICT.out.py CL_ZETA_EIGEN_STRICT.out2.py
+          rm CL_ZETA_EIGEN_STRICT.out.py CL_ZETA_EIGEN_STRICT.out2.py
+
       - name: Generate iSH lightweight certificate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -53,6 +60,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert CLSIGMA_DYNAMIC_ISH_ZERO_SPECTRUM.clcert CL_STRICT_QUINE_OPTIMIZER.clcert CL_STRICT_RH_QUINE.clcert CL_STRICT_RH_QUINE_MINIMAL.clcert
+          git add CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert CLSIGMA_DYNAMIC_ISH_ZERO_SPECTRUM.clcert CL_STRICT_QUINE_OPTIMIZER.clcert CL_STRICT_RH_QUINE.clcert CL_STRICT_RH_QUINE_MINIMAL.clcert CL_ZETA_EIGEN_STRICT.clcert
           git commit -m "Update CLSigma dynamic zero-spectrum state" || exit 0
           git push
