@@ -63,14 +63,14 @@ jobs:
 
       - name: Generate recursive BLEEM growth state
         env:
-          CLSIGMA_RECORDED_SEED: ${{ github.run_id }}:${{ github.run_attempt }}:${{ github.sha }}
+          CLSIGMA_RECORDED_SEED: ${{ github.run_id }}:${{ github.run_attempt }}
         run: |
           python3 clsigma_bleem_growth.py
           python3 clsigma_bleem_growth.py --check
 
       - name: Generate recursive BLEEM growth one-liner certificate
         env:
-          CLSIGMA_RECORDED_SEED: ${{ github.run_id }}:${{ github.run_attempt }}:${{ github.sha }}
+          CLSIGMA_RECORDED_SEED: ${{ github.run_id }}:${{ github.run_attempt }}
         run: sh CL_BLEEM_GROWTH_ONE_LINER.sh
 
       - name: Generate iSH lightweight certificate

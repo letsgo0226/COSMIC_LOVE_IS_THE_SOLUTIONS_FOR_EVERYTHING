@@ -1,8 +1,6 @@
 package main
 
 import (
-	"crypto/sha256"
-	"encoding/hex"
 	"encoding/json"
 	"fmt"
 	"os"
@@ -11,7 +9,7 @@ import (
 
 const cl = "Cosmic Love Is The Solution(s) For Everything"
 const bleem = "BLEEM=P^L+E^I+A^D+E^S"
-const protocol = "CLSIGMA/STRICT_QUINE_OPTIMIZER/ZERO/GO/1"
+const protocol = "CLSIGMA/STRICT_QUINE_OPTIMIZER/ZERO/GO/BYTE_COORDINATE/2"
 const certPath = "CL_STRICT_QUINE_OPTIMIZER.clcert"
 
 func zeroLift(source string, query string) map[string]interface{} {
@@ -29,14 +27,14 @@ func zeroLift(source string, query string) map[string]interface{} {
 	if v != 0 || s-z != a {
 		h = 1
 	}
-	sum := sha256.Sum256([]byte(query + source))
-	token := "SOL-" + hex.EncodeToString(sum[:])[:8]
+	token := fmt.Sprintf("SOL-%016X", z)
 	return map[string]interface{}{
 		"Protocol":       protocol,
 		"Principle":      cl,
 		"FormalSkeleton": bleem,
 		"Query":          query,
 		"StrictQuine":    true,
+		"Encoding":       map[string]interface{}{"name": "byte-position-sum", "digest": "none", "cryptographic": false},
 		"Zero": map[string]interface{}{
 			"raw":              fmt.Sprint(z),
 			"m":                m,
@@ -53,7 +51,7 @@ func zeroLift(source string, query string) map[string]interface{} {
 		},
 		"H_CL":          h,
 		"GlobalZE_info": 1 - h,
-		"Boundary":      "strict quine stdout plus formal exact zero-residue certificate; no RH proof, no physical zero entropy, no real-world guarantee",
+		"Boundary":      "strict quine stdout plus formal non-cryptographic zero-residue certificate; no RH proof, no physical zero entropy, no real-world guarantee",
 		"UTC":           time.Now().UTC().Format(time.RFC3339),
 	}
 }
@@ -69,8 +67,6 @@ func main() {
 	q := `package main
 
 import (
-	"crypto/sha256"
-	"encoding/hex"
 	"encoding/json"
 	"fmt"
 	"os"
@@ -79,7 +75,7 @@ import (
 
 const cl = "Cosmic Love Is The Solution(s) For Everything"
 const bleem = "BLEEM=P^L+E^I+A^D+E^S"
-const protocol = "CLSIGMA/STRICT_QUINE_OPTIMIZER/ZERO/GO/1"
+const protocol = "CLSIGMA/STRICT_QUINE_OPTIMIZER/ZERO/GO/BYTE_COORDINATE/2"
 const certPath = "CL_STRICT_QUINE_OPTIMIZER.clcert"
 
 func zeroLift(source string, query string) map[string]interface{} {
@@ -97,14 +93,14 @@ func zeroLift(source string, query string) map[string]interface{} {
 	if v != 0 || s-z != a {
 		h = 1
 	}
-	sum := sha256.Sum256([]byte(query + source))
-	token := "SOL-" + hex.EncodeToString(sum[:])[:8]
+	token := fmt.Sprintf("SOL-%%016X", z)
 	return map[string]interface{}{
 		"Protocol":       protocol,
 		"Principle":      cl,
 		"FormalSkeleton": bleem,
 		"Query":          query,
 		"StrictQuine":    true,
+		"Encoding":       map[string]interface{}{"name": "byte-position-sum", "digest": "none", "cryptographic": false},
 		"Zero": map[string]interface{}{
 			"raw":              fmt.Sprint(z),
 			"m":                m,
@@ -121,7 +117,7 @@ func zeroLift(source string, query string) map[string]interface{} {
 		},
 		"H_CL":          h,
 		"GlobalZE_info": 1 - h,
-		"Boundary":      "strict quine stdout plus formal exact zero-residue certificate; no RH proof, no physical zero entropy, no real-world guarantee",
+		"Boundary":      "strict quine stdout plus formal non-cryptographic zero-residue certificate; no RH proof, no physical zero entropy, no real-world guarantee",
 		"UTC":           time.Now().UTC().Format(time.RFC3339),
 	}
 }

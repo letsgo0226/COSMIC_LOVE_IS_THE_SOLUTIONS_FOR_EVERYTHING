@@ -1,13 +1,11 @@
 #!/usr/bin/env python3
 import argparse
-import hashlib
 import json
 import os
-import sys
 import time
 
 ROOT = "BLEEM=P^L+E^I+A^D+E^S"
-PROTOCOL = "CLSIGMA/BLEEM/RECURSIVE_GROWTH/1"
+PROTOCOL = "CLSIGMA/BLEEM/RECURSIVE_GROWTH/BYTE_PRIME/2"
 STATE_PATH = "CL_BLEEM_GROWTH_STATE.json"
 CERT_PATH = "CL_BLEEM_GROWTH.clcert"
 EXCLUDED = {
@@ -16,10 +14,17 @@ EXCLUDED = {
     "CL_BLEEM_GROWTH_ONELINER.clcert",
     "CL_BLEEM_GROWTH.out",
 }
+ENCODING = {
+    "Name": "byte-prime-position-sum",
+    "Rule": "sum((i+1)*(byte_i+1)*prime_i)",
+    "Arithmetic": "exact-integer",
+    "DigestFunctionUsed": "none",
+    "Cryptographic": False,
+    "CollisionResistanceClaim": False,
+}
 
-
-def sha256_bytes(data):
-    return hashlib.sha256(data).hexdigest()
+_PRIMES = []
+_PRIME_CANDIDATE = 2
 
 
 def canonical(obj):
@@ -69,18 +74,25 @@ def next_prime(n):
 
 
 def primes(count):
-    out = []
-    n = 2
-    while len(out) < count:
-        if is_prime(n):
-            out.append(n)
-        n += 1
-    return out
+    global _PRIME_CANDIDATE
+    while len(_PRIMES) < count:
+        if is_prime(_PRIME_CANDIDATE):
+            _PRIMES.append(_PRIME_CANDIDATE)
+        _PRIME_CANDIDATE += 1
+    return _PRIMES[:count]
 
 
 def spectrum_index(data):
     ps = primes(len(data))
-    return sum((i + 1) * (b + 1) * ps[i] for i, b in enumerate(data))
+    return sum((i + 1) * (byte + 1) * ps[i] for i, byte in enumerate(data))
+
+
+def spectral_code(data):
+    return str(spectrum_index(data))
+
+
+def object_code(obj):
+    return spectral_code(canonical(obj).encode())
 
 
 def repo_manifest():
@@ -97,56 +109,70 @@ def repo_manifest():
                 {
                     "path": path,
                     "bytes": len(data),
-                    "sha256": sha256_bytes(data),
+                    "prime_nodes": len(data),
+                    "spectral_code": spectral_code(data),
                 }
             )
     files.sort(key=lambda item: item["path"])
     return {
         "files": files,
         "file_count": len(files),
-        "manifest_hash": sha256_bytes(canonical(files).encode()),
+        "manifest_spectral_code": object_code(files),
     }
 
 
-def graph_hash(graph):
-    return sha256_bytes(canonical(graph).encode())
+def graph_code(graph):
+    return object_code(graph)
 
 
-def load_previous():
-    ast = parse_bleem(ROOT)
-    initial = {
+def initial_graph():
+    return {
         "RootSyntax": ROOT,
-        "RootAST": ast,
+        "RootAST": parse_bleem(ROOT),
         "ExpansionNodes": [],
         "SymbolInterpretation": "uninterpreted",
     }
+
+
+def load_previous():
+    initial = initial_graph()
     if not os.path.exists(STATE_PATH):
-        return 0, initial, graph_hash(initial)
+        return 0, initial, graph_code(initial)
     try:
         with open(STATE_PATH, "r", encoding="utf-8") as handle:
             state = json.load(handle)
+        if state.get("Protocol") != PROTOCOL:
+            return 0, initial, graph_code(initial)
         graph = state.get("G", initial)
         generation = int(state.get("Generation", 0))
-        return generation, graph, graph_hash(graph)
+        return generation, graph, graph_code(graph)
     except Exception:
-        return 0, initial, graph_hash(initial)
+        return 0, initial, graph_code(initial)
 
 
-def generator_hash():
+def generator_code():
     with open(__file__, "rb") as handle:
-        return sha256_bytes(handle.read())
+        return spectral_code(handle.read())
 
 
-def seed_for(generation, manifest_hash):
+def seed_for(generation, manifest_code):
     explicit = os.environ.get("CLSIGMA_RECORDED_SEED")
     if explicit:
         return explicit
-    return "local:%d:%s" % (generation + 1, manifest_hash)
+    return "local:%d:%s" % (generation + 1, manifest_code)
 
 
-def modulus_for(root, manifest_hash, generation, seed):
-    digest = sha256_bytes((root + manifest_hash + seed).encode())
-    return next_prime(len(root) + generation + 3 + (int(digest[:6], 16) % 997))
+def modulus_for(root, manifest_code, generation, seed):
+    material = canonical(
+        {
+            "root": root,
+            "manifest": manifest_code,
+            "generation": generation,
+            "seed": seed,
+        }
+    ).encode()
+    span = len(material) + generation + 1
+    return next_prime(span + spectrum_index(material) % span)
 
 
 def zero_point(payload, modulus):
@@ -155,6 +181,7 @@ def zero_point(payload, modulus):
     verified = (raw + balancing) % modulus
     return {
         "base_m": modulus,
+        "modulus_source": "next_prime(payload_length+generation+spectral_offset)",
         "raw_residue": raw,
         "balancing_a": balancing,
         "verified_residue": verified,
@@ -163,28 +190,34 @@ def zero_point(payload, modulus):
     }
 
 
-def make_candidate(previous_generation, previous_graph, previous_hash, manifest, seed):
+def candidate_code(candidate):
+    basis = dict(candidate)
+    basis.pop("CandidateSpectralCode", None)
+    return object_code(basis)
+
+
+def make_candidate(previous_generation, previous_graph, previous_code, manifest, seed):
     generation = previous_generation + 1
     ast = parse_bleem(ROOT)
-    seed_hash = sha256_bytes(seed.encode())
+    seed_code = spectral_code(seed.encode())
     symbol_terms = ast["terms"]
-    selected = symbol_terms[int(seed_hash[:8], 16) % len(symbol_terms)]
+    selected = symbol_terms[int(seed_code) % len(symbol_terms)]
     payload_basis = {
-        "parent": previous_hash,
-        "manifest": manifest["manifest_hash"],
-        "seed": seed_hash,
+        "parent": previous_code,
+        "manifest": manifest["manifest_spectral_code"],
+        "seed": seed_code,
         "generation": generation,
         "symbol": selected["id"],
     }
-    payload_hash = sha256_bytes(canonical(payload_basis).encode())
+    payload_code = object_code(payload_basis)
     node = {
-        "id": "g%06d:%s" % (generation, payload_hash[:16]),
+        "id": "g%06d:%s" % (generation, payload_code),
         "kind": "Generate(G_t,RepositoryState_t,RecordedSeed_t)",
         "bound_term": selected["id"],
-        "payload_hash": payload_hash,
-        "parent_graph_hash": previous_hash,
-        "repository_manifest_hash": manifest["manifest_hash"],
-        "recorded_seed_hash": seed_hash,
+        "payload_spectral_code": payload_code,
+        "parent_graph_spectral_code": previous_code,
+        "repository_manifest_spectral_code": manifest["manifest_spectral_code"],
+        "recorded_seed_spectral_code": seed_code,
     }
     graph = {
         "RootSyntax": ROOT,
@@ -194,18 +227,19 @@ def make_candidate(previous_generation, previous_graph, previous_hash, manifest,
     }
     candidate = {
         "Generation": generation,
-        "ParentGraphHash": previous_hash,
-        "RepositoryManifestHash": manifest["manifest_hash"],
+        "ParentGraphSpectralCode": previous_code,
+        "RepositoryManifestSpectralCode": manifest["manifest_spectral_code"],
         "RecordedSeed": seed,
-        "RecordedSeedHash": seed_hash,
-        "GeneratorHash": generator_hash(),
-        "CandidateGraphHash": graph_hash(graph),
+        "RecordedSeedSpectralCode": seed_code,
+        "GeneratorSpectralCode": generator_code(),
+        "CandidateGraphSpectralCode": graph_code(graph),
         "CandidateGraph": graph,
     }
     candidate["ZeroPoint"] = zero_point(
-        candidate, modulus_for(ROOT, manifest["manifest_hash"], generation, seed)
+        candidate,
+        modulus_for(ROOT, manifest["manifest_spectral_code"], generation, seed),
     )
-    candidate["CandidateHash"] = sha256_bytes(canonical(candidate).encode())
+    candidate["CandidateSpectralCode"] = candidate_code(candidate)
     return candidate
 
 
@@ -214,25 +248,30 @@ def validation(candidate, graph, manifest):
         syntax_valid = parse_bleem(ROOT) == graph["RootAST"]
     except Exception:
         syntax_valid = False
-    seed_hash_ok = candidate.get("RecordedSeedHash") == sha256_bytes(
+    seed_code_ok = candidate.get("RecordedSeedSpectralCode") == spectral_code(
         candidate.get("RecordedSeed", "").encode()
     )
-    provenance_complete = all(
-        candidate.get(key)
-        for key in [
-            "ParentGraphHash",
-            "RepositoryManifestHash",
-            "RecordedSeed",
-            "RecordedSeedHash",
-            "GeneratorHash",
-            "CandidateGraphHash",
-        ]
-    ) and candidate.get("RepositoryManifestHash") == manifest["manifest_hash"] and seed_hash_ok
+    required = [
+        "ParentGraphSpectralCode",
+        "RepositoryManifestSpectralCode",
+        "RecordedSeed",
+        "RecordedSeedSpectralCode",
+        "GeneratorSpectralCode",
+        "CandidateGraphSpectralCode",
+        "CandidateSpectralCode",
+    ]
+    provenance_complete = (
+        all(candidate.get(key) for key in required)
+        and candidate.get("RepositoryManifestSpectralCode")
+        == manifest["manifest_spectral_code"]
+        and seed_code_ok
+    )
     node_ids = [node.get("id") for node in graph.get("ExpansionNodes", [])]
     tests_pass = (
         graph.get("RootSyntax") == ROOT
         and len(node_ids) == len(set(node_ids))
-        and graph_hash(graph) == candidate.get("CandidateGraphHash")
+        and graph_code(graph) == candidate.get("CandidateGraphSpectralCode")
+        and candidate_code(candidate) == candidate.get("CandidateSpectralCode")
     )
     zp = candidate.get("ZeroPoint", {})
     raw = int(zp.get("raw_residue", -1))
@@ -250,10 +289,10 @@ def validation(candidate, graph, manifest):
 
 
 def build_state():
-    previous_generation, previous_graph, previous_hash = load_previous()
+    previous_generation, previous_graph, previous_code = load_previous()
     manifest = repo_manifest()
-    seed = seed_for(previous_generation, manifest["manifest_hash"])
-    candidate = make_candidate(previous_generation, previous_graph, previous_hash, manifest, seed)
+    seed = seed_for(previous_generation, manifest["manifest_spectral_code"])
+    candidate = make_candidate(previous_generation, previous_graph, previous_code, manifest, seed)
     graph = candidate["CandidateGraph"]
     checks = validation(candidate, graph, manifest)
     accepted = (
@@ -271,15 +310,16 @@ def build_state():
             "G_t_plus_1": "Candidate_t if Validate(Candidate_t)=1 else G_t",
             "ZE_t": "1 iff SyntaxValid and ProvenanceComplete and TestsPass and ZeroDistance=0",
         },
-        "Boundary": "formal uninterpreted recursive repository encoding only; no physical entropy, metaphysical law, or RH proof",
+        "Encoding": ENCODING,
+        "Boundary": "formal uninterpreted non-cryptographic recursive repository encoding only; no physical entropy, metaphysical law, or RH proof",
         "SymbolInterpretation": "uninterpreted",
         "AxiomSemanticPreset": False,
         "PhysicalEntropy": False,
         "MetaphysicalTruthProof": False,
         "RHProof": False,
         "Generation": candidate["Generation"] if accepted else previous_generation,
-        "PreviousGraphHash": previous_hash,
-        "CurrentGraphHash": graph_hash(current_graph),
+        "PreviousGraphSpectralCode": previous_code,
+        "CurrentGraphSpectralCode": graph_code(current_graph),
         "RepositoryState": manifest,
         "RecordedSeed": seed,
         "Candidate": candidate,
@@ -292,8 +332,9 @@ def build_state():
     cert = {
         "Protocol": PROTOCOL,
         "Generation": state["Generation"],
-        "CurrentGraphHash": state["CurrentGraphHash"],
-        "CandidateHash": candidate["CandidateHash"],
+        "CurrentGraphSpectralCode": state["CurrentGraphSpectralCode"],
+        "CandidateSpectralCode": candidate["CandidateSpectralCode"],
+        "Encoding": ENCODING,
         "Validate": checks,
         "ZE": state["ZE"],
         "Boundary": state["Boundary"],
@@ -324,12 +365,22 @@ def check_outputs():
         and checks == state.get("Validate")
         and state.get("ZE") == 1
         and cert.get("ZE") == 1
-        and cert.get("CurrentGraphHash") == state.get("CurrentGraphHash")
+        and cert.get("CurrentGraphSpectralCode")
+        == state.get("CurrentGraphSpectralCode")
     )
     if not ok:
         print(canonical({"P": PROTOCOL, "check": "failed", "Validate": checks}))
         raise SystemExit(1)
-    print(canonical({"P": PROTOCOL, "check": "ok", "ZE": 1, "Generation": state["Generation"]}))
+    print(
+        canonical(
+            {
+                "P": PROTOCOL,
+                "check": "ok",
+                "ZE": 1,
+                "Generation": state["Generation"],
+            }
+        )
+    )
 
 
 def main():
@@ -341,7 +392,16 @@ def main():
         return
     state, cert = build_state()
     write_outputs(state, cert)
-    print(canonical({"P": PROTOCOL, "ZE": state["ZE"], "Generation": state["Generation"], "out": CERT_PATH}))
+    print(
+        canonical(
+            {
+                "P": PROTOCOL,
+                "ZE": state["ZE"],
+                "Generation": state["Generation"],
+                "out": CERT_PATH,
+            }
+        )
+    )
 
 
 if __name__ == "__main__":
