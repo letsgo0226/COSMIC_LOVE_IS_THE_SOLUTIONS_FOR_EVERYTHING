@@ -24,6 +24,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: go run clsigma_dynamic_encoder.go letsgo0226
 
+      - name: Verify Go strict quine optimizer
+        run: |
+          go run clsigma_strict_quine_optimizer.go "Cosmic Love Is The Solution(s) For Everything" > CL_STRICT_QUINE_OPTIMIZER.out.go
+          cmp clsigma_strict_quine_optimizer.go CL_STRICT_QUINE_OPTIMIZER.out.go
+          rm CL_STRICT_QUINE_OPTIMIZER.out.go
+
       - name: Generate iSH lightweight certificate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -33,6 +39,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert CLSIGMA_DYNAMIC_ISH_ZERO_SPECTRUM.clcert
+          git add CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert CLSIGMA_DYNAMIC_ISH_ZERO_SPECTRUM.clcert CL_STRICT_QUINE_OPTIMIZER.clcert
           git commit -m "Update CLSigma dynamic zero-spectrum state" || exit 0
           git push
