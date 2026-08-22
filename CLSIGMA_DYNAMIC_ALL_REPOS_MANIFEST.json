@@ -161,7 +161,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 544
+      "size": 565
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -1667,7 +1667,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1906,
+      "size": 1904,
       "mode": "program_identity_no_digest"
     },
     {
