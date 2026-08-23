@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 111,
-  "program_count": 698,
+  "repo_count": 114,
+  "program_count": 707,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -161,7 +161,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 608
+      "size": 640
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -323,6 +323,27 @@
       "private": false,
       "archived": false,
       "size": 4
+    },
+    {
+      "repo": "letsgo0226/GPT-4.0-Capsule.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
+      "repo": "letsgo0226/GPT_RIEMANN_IDENTITY_ONE_LINER.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
+    },
+    {
+      "repo": "letsgo0226/Gemini-3.1-Capsule.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 6
     },
     {
       "repo": "letsgo0226/H-S-0",
@@ -2984,6 +3005,69 @@
       "branch": "main",
       "path": "README.md",
       "size": 2662,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/GPT-4.0-Capsule.sh",
+      "branch": "main",
+      "path": "AI_Riemann_Identity.clcert",
+      "size": 2190,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/GPT-4.0-Capsule.sh",
+      "branch": "main",
+      "path": "GPT-4.0 Capsule.sh",
+      "size": 1570,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/GPT-4.0-Capsule.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 20,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/GPT_RIEMANN_IDENTITY_ONE_LINER.sh",
+      "branch": "main",
+      "path": "GPT_RIEMANN_IDENTITY.clcert",
+      "size": 475,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/GPT_RIEMANN_IDENTITY_ONE_LINER.sh",
+      "branch": "main",
+      "path": "GPT_RIEMANN_IDENTITY_ONE_LINER.sh",
+      "size": 1369,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/GPT_RIEMANN_IDENTITY_ONE_LINER.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 35,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Gemini-3.1-Capsule.sh",
+      "branch": "main",
+      "path": "GEMINI_RIEMANN_IDENTITY.clcert",
+      "size": 2635,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Gemini-3.1-Capsule.sh",
+      "branch": "main",
+      "path": "Gemini-3.1 Capsule.sh",
+      "size": 1851,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Gemini-3.1-Capsule.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 23,
       "mode": "program_identity_no_digest"
     },
     {
