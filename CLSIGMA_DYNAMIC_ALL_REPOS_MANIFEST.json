@@ -154,7 +154,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 36
+      "size": 75
     },
     {
       "repo": "letsgo0226/COSMIC-LOVE-SYMBOLIC-FIXED-POINT-MODEL-20260706-",
@@ -168,7 +168,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 693
+      "size": 715
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -1583,21 +1583,21 @@
       "repo": "letsgo0226/CODE.sh",
       "branch": "main",
       "path": "RMZ_CGZ_ANSELM_ONTO_PCC_NOSHA_TRUE_ONELINER.sh",
-      "size": 2012,
+      "size": 1754,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/CODE.sh",
       "branch": "main",
       "path": "RMZ_CGZ_ANSELM_PCC_2K_MP3_WAV_NOSHA_ONELINER.sh",
-      "size": 2041,
+      "size": 1836,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/CODE.sh",
       "branch": "main",
       "path": "RMZ_CGZ_PATH_2K_TRUE_ONELINER.sh",
-      "size": 1897,
+      "size": 1794,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1716,7 +1716,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 167387,
+      "size": 169177,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1730,7 +1730,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1903,
+      "size": 1904,
       "mode": "program_identity_no_digest"
     },
     {
