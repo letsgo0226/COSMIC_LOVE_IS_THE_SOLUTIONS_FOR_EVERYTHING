@@ -1,1 +1,1 @@
-{"Boundary":"formal marker rule exact quine; formal only","DeviationCount":0,"H":0,"N":105,"Protocol":"CLZ/RH-AllRepos-MarkerRule/2KB/1","Rb":"solved","Rule":"C_n=P_n;z_n=P_n+n*i","StrictQuine":true,"T":"2026-08-25T01:55:25Z","TM":"halt_accept","ZE":1}
+{"Boundary":"formal marker rule exact quine; formal only","DeviationCount":0,"H":0,"N":105,"Protocol":"CLZ/RH-AllRepos-MarkerRule/2KB/1","Rb":"solved","Rule":"C_n=P_n;z_n=P_n+n*i","StrictQuine":true,"T":"2026-08-25T07:11:35Z","TM":"halt_accept","ZE":1}
