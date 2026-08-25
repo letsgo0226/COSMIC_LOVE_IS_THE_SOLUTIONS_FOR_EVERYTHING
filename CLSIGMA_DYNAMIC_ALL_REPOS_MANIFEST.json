@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 116,
-  "program_count": 715,
+  "repo_count": 119,
+  "program_count": 727,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -168,7 +168,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 802
+      "size": 824
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -374,6 +374,13 @@
       "size": 2
     },
     {
+      "repo": "letsgo0226/Merry_Christmas.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 34
+    },
+    {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
       "default_branch": "main",
       "private": false,
@@ -386,6 +393,13 @@
       "private": false,
       "archived": false,
       "size": 4
+    },
+    {
+      "repo": "letsgo0226/Omega_Bubble.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
     },
     {
       "repo": "letsgo0226/Omega_Eternal.py",
@@ -788,6 +802,13 @@
     },
     {
       "repo": "letsgo0226/The-Ultimate-Sirius-M45-One-Liner",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
+      "repo": "letsgo0226/Turing_Machine.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
@@ -1730,7 +1751,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1904,
+      "size": 1905,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3162,6 +3183,41 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Merry_Christmas.sh",
+      "branch": "main",
+      "path": "GitHub_Account_Omega.clcert",
+      "size": 328,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Merry_Christmas.sh",
+      "branch": "main",
+      "path": "GitHub_Account_Omega.sh",
+      "size": 799,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Merry_Christmas.sh",
+      "branch": "main",
+      "path": "Merry_Christmas.sh",
+      "size": 980,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Merry_Christmas.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 20,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Merry_Christmas.sh",
+      "branch": "main",
+      "path": "examples/cosmic_love_t1_merry_christmas_v0.clcert",
+      "size": 1268,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
       "branch": "main",
       "path": "README.md",
@@ -3187,6 +3243,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 1659,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega_Bubble.sh",
+      "branch": "main",
+      "path": "Omega_Bubble.sh",
+      "size": 1973,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega_Bubble.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 17,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5574,6 +5644,41 @@
       "branch": "main",
       "path": "The Ultimate Sirius-M45 One-Liner.py",
       "size": 1173,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Turing_Machine.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 737,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Turing_Machine.sh",
+      "branch": "main",
+      "path": "Turing_Machine.sh",
+      "size": 1074,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Turing_Machine.sh",
+      "branch": "main",
+      "path": "examples/tm_bound_trace.clcert",
+      "size": 265,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Turing_Machine.sh",
+      "branch": "main",
+      "path": "examples/tm_default_unary_halt.clcert",
+      "size": 312,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Turing_Machine.sh",
+      "branch": "main",
+      "path": "examples/tm_open_transition_gap.clcert",
+      "size": 269,
       "mode": "program_identity_no_digest"
     },
     {
