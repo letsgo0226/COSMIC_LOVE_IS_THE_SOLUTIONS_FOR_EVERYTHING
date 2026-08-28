@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 119,
-  "program_count": 727,
+  "repo_count": 126,
+  "program_count": 757,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -115,6 +115,20 @@
       "size": 2
     },
     {
+      "repo": "letsgo0226/ATM_Zero_Entropy.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
+      "repo": "letsgo0226/All_Turing_Machines.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
       "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
       "default_branch": "main",
       "private": false,
@@ -168,7 +182,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 978
+      "size": 1000
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -381,6 +395,13 @@
       "size": 34
     },
     {
+      "repo": "letsgo0226/Music_Turing_Machine.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
       "default_branch": "main",
       "private": false,
@@ -591,11 +612,25 @@
       "size": 8
     },
     {
+      "repo": "letsgo0226/Solution_0.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
+    },
+    {
       "repo": "letsgo0226/Solution_s",
       "default_branch": "main",
       "private": false,
       "archived": false,
       "size": 7
+    },
+    {
+      "repo": "letsgo0226/Solution_s.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
     },
     {
       "repo": "letsgo0226/Spaceship-Core",
@@ -809,6 +844,20 @@
     },
     {
       "repo": "letsgo0226/Turing_Machine.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
+      "repo": "letsgo0226/Universal_Solution_ATM.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
+      "repo": "letsgo0226/Universal_Turing_Zero_Entropy.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
@@ -1164,6 +1213,62 @@
       "branch": "main",
       "path": "README.md",
       "size": 29,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ATM_Zero_Entropy.sh",
+      "branch": "main",
+      "path": "ATM_Zero_Entropy.sh",
+      "size": 1781,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ATM_Zero_Entropy.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 954,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ATM_Zero_Entropy.sh",
+      "branch": "main",
+      "path": "examples/atmze_default_n8_b16.clcert",
+      "size": 2499,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ATM_Zero_Entropy.sh",
+      "branch": "main",
+      "path": "examples/atmze_small_n4_b6.clcert",
+      "size": 1666,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/All_Turing_Machines.sh",
+      "branch": "main",
+      "path": "All_Turing_Machines.sh",
+      "size": 1401,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/All_Turing_Machines.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 860,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/All_Turing_Machines.sh",
+      "branch": "main",
+      "path": "examples/atm_default_n8_b16.clcert",
+      "size": 2505,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/All_Turing_Machines.sh",
+      "branch": "main",
+      "path": "examples/atm_small_n4_b6.clcert",
+      "size": 1670,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1751,7 +1856,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1905,
+      "size": 1904,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3218,6 +3323,34 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Music_Turing_Machine.sh",
+      "branch": "main",
+      "path": "Music_Turing_Machine.sh",
+      "size": 1896,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Music_Turing_Machine.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 787,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Music_Turing_Machine.sh",
+      "branch": "main",
+      "path": "examples/mtm_cosmic_love_t1_k0.clcert",
+      "size": 833,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Music_Turing_Machine.sh",
+      "branch": "main",
+      "path": "examples/mtm_default.clcert",
+      "size": 799,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
       "branch": "main",
       "path": "README.md",
@@ -3813,6 +3946,41 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Solution_0.sh",
+      "branch": "main",
+      "path": ".github/workflows/solution-0-verify.yml",
+      "size": 1271,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_0.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 1029,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_0.sh",
+      "branch": "main",
+      "path": "Solution_0.sh",
+      "size": 1184,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_0.sh",
+      "branch": "main",
+      "path": "examples/solution_0_general_n16_b16.clcert",
+      "size": 505,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_0.sh",
+      "branch": "main",
+      "path": "examples/solution_0_small_n4_b6.clcert",
+      "size": 398,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Solution_s",
       "branch": "main",
       "path": "README.md",
@@ -3824,6 +3992,34 @@
       "branch": "main",
       "path": "Solution_s.py",
       "size": 1126,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_s.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 628,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_s.sh",
+      "branch": "main",
+      "path": "Solution_s.sh",
+      "size": 906,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_s.sh",
+      "branch": "main",
+      "path": "examples/solution_s_cosmic_love.clcert",
+      "size": 486,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_s.sh",
+      "branch": "main",
+      "path": "examples/solution_s_everything.clcert",
+      "size": 410,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5679,6 +5875,69 @@
       "branch": "main",
       "path": "examples/tm_open_transition_gap.clcert",
       "size": 269,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Universal_Solution_ATM.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 846,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Universal_Solution_ATM.sh",
+      "branch": "main",
+      "path": "Universal_Solution_ATM.sh",
+      "size": 1254,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Universal_Solution_ATM.sh",
+      "branch": "main",
+      "path": "examples/universal_solution_atm_general_n16_b16.clcert",
+      "size": 441,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Universal_Solution_ATM.sh",
+      "branch": "main",
+      "path": "examples/universal_solution_atm_small_n4_b6.clcert",
+      "size": 428,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Universal_Turing_Zero_Entropy.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 900,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Universal_Turing_Zero_Entropy.sh",
+      "branch": "main",
+      "path": "Universal_Turing_Zero_Entropy.sh",
+      "size": 1083,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Universal_Turing_Zero_Entropy.sh",
+      "branch": "main",
+      "path": "examples/utze_bound_loop.clcert",
+      "size": 315,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Universal_Turing_Zero_Entropy.sh",
+      "branch": "main",
+      "path": "examples/utze_default_halt.clcert",
+      "size": 290,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Universal_Turing_Zero_Entropy.sh",
+      "branch": "main",
+      "path": "examples/utze_open_gap.clcert",
+      "size": 253,
       "mode": "program_identity_no_digest"
     },
     {
