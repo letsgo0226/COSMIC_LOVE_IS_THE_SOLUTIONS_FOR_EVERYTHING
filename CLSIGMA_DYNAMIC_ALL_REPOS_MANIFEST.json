@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 127,
-  "program_count": 765,
+  "repo_count": 132,
+  "program_count": 796,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -182,7 +182,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1046
+      "size": 1068
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -897,6 +897,41 @@
       "private": false,
       "archived": false,
       "size": 139
+    },
+    {
+      "repo": "letsgo0226/solution_0_ac_motor.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 19
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 55
+    },
+    {
+      "repo": "letsgo0226/solution_0_perma.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/solution_0_reality.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/solution_0_uptm.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 6
     }
   ],
   "program_nodes": [
@@ -1863,7 +1898,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1904,
+      "size": 1905,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6253,6 +6288,223 @@
       "branch": "main",
       "path": "riemann_li_zero_entropy_system.py",
       "size": 8058,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_ac_motor.sh",
+      "branch": "main",
+      "path": ".github/workflows/ac_motor.yml",
+      "size": 1706,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_ac_motor.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 23,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_ac_motor.sh",
+      "branch": "main",
+      "path": "solution_0_ac_motor.clcert",
+      "size": 938,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_ac_motor.sh",
+      "branch": "main",
+      "path": "solution_0_ac_motor.sh",
+      "size": 2014,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": ".github/workflows/verify.yml",
+      "size": 5043,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 5610,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "examples/solution_0_acbody_default.clcert",
+      "size": 594,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "examples/solution_0_acbody_problem.clcert",
+      "size": 591,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "examples/solution_0_genesis_default.clcert",
+      "size": 882,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "examples/solution_0_genesis_particle_field.clcert",
+      "size": 865,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "examples/solution_0_kernel_bound.clcert",
+      "size": 734,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "examples/solution_0_kernel_solved.clcert",
+      "size": 752,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "examples/solution_0_reality_bound.clcert",
+      "size": 823,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "examples/solution_0_reality_contra.clcert",
+      "size": 817,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "examples/solution_0_reality_solved.clcert",
+      "size": 830,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "examples/solution_0_uptm_default.clcert",
+      "size": 444,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "examples/solution_0_uptm_particle_field.clcert",
+      "size": 427,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "solution_0_acbody.sh",
+      "size": 1464,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "solution_0_genesis.sh",
+      "size": 1971,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "solution_0_kernel.sh",
+      "size": 1967,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "solution_0_reality.sh",
+      "size": 1952,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
+      "path": "solution_0_uptm.sh",
+      "size": 1398,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_perma.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 21,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_perma.sh",
+      "branch": "main",
+      "path": "solution_0_perma.sh",
+      "size": 1720,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_reality.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 23,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_reality.sh",
+      "branch": "main",
+      "path": "solution_0_reality.sh",
+      "size": 1951,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_uptm.sh",
+      "branch": "main",
+      "path": ".github/workflows/verify.yml",
+      "size": 1011,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_uptm.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 1135,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_uptm.sh",
+      "branch": "main",
+      "path": "examples/solution_0_uptm_default.clcert",
+      "size": 444,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_uptm.sh",
+      "branch": "main",
+      "path": "examples/solution_0_uptm_particle_field.clcert",
+      "size": 427,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_uptm.sh",
+      "branch": "main",
+      "path": "solution_0_uptm.sh",
+      "size": 1398,
       "mode": "program_identity_no_digest"
     }
   ],
