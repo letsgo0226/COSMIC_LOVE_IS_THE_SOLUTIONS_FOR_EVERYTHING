@@ -1,1 +1,1 @@
-{"Boundary":"minimal computed-deviation quine marker; formal only; not RH proof","DeviationCount":0,"H":0,"N":105,"Protocol":"CLZ/RH-AllRepos-MarkerRule/Minimal/2","Rb":"solved","Rule":"C_n=P_n;z_n=P_n+n*i","StrictQuine":true,"T":"2026-09-03T16:29:40Z","TM":"halt_accept","ZE":1}
+{"Boundary":"minimal computed-deviation quine marker; formal only; not RH proof","DeviationCount":0,"H":0,"N":105,"Protocol":"CLZ/RH-AllRepos-MarkerRule/Minimal/2","Rb":"solved","Rule":"C_n=P_n;z_n=P_n+n*i","StrictQuine":true,"T":"2026-09-03T21:06:01Z","TM":"halt_accept","ZE":1}
