@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 137,
-  "program_count": 862,
+  "program_count": 865,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -182,7 +182,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 881
+      "size": 905
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -910,7 +910,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 0
+      "size": 7
     },
     {
       "repo": "letsgo0226/perfect_fixed_point_tm.sh",
@@ -1919,7 +1919,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 200978,
+      "size": 201319,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1933,7 +1933,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1908,
+      "size": 1911,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6139,8 +6139,29 @@
     {
       "repo": "letsgo0226/omega_entropy_one_bit.sh",
       "branch": "main",
+      "path": ".github/workflows/omega-entropy.yml",
+      "size": 1332,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/omega_entropy_one_bit.sh",
+      "branch": "main",
       "path": "README.md",
-      "size": 26,
+      "size": 4006,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/omega_entropy_one_bit.sh",
+      "branch": "main",
+      "path": "omega_entropy_one_bit.sh",
+      "size": 1510,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/omega_entropy_one_bit.sh",
+      "branch": "main",
+      "path": "tests/verify_entropy_model.py",
+      "size": 5874,
       "mode": "program_identity_no_digest"
     },
     {
