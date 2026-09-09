@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 138,
-  "program_count": 869,
+  "program_count": 870,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -182,7 +182,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 979
+      "size": 1003
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -273,7 +273,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 0
+      "size": 23
     },
     {
       "repo": "letsgo0226/Cosmic_Love_Four_Cosmic_Engineering_Runtime.sh-20260707-",
@@ -1926,7 +1926,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 201922,
+      "size": 202808,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1940,7 +1940,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1909,
+      "size": 1911,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3102,28 +3102,35 @@
       "repo": "letsgo0226/Cosmic_Energy.sh",
       "branch": "main",
       "path": ".github/workflows/cosmic-energy.yml",
-      "size": 2559,
+      "size": 5736,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/Cosmic_Energy.sh",
       "branch": "main",
       "path": "Cosmic_Energy.sh",
-      "size": 4696,
-      "mode": "program_identity_no_digest"
-    },
-    {
-      "repo": "letsgo0226/Cosmic_Energy.sh",
-      "branch": "main",
-      "path": "Cosmic_Energy_Live.sh",
-      "size": 3935,
+      "size": 2041,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/Cosmic_Energy.sh",
       "branch": "main",
       "path": "README.md",
-      "size": 18,
+      "size": 6308,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Energy.sh",
+      "branch": "main",
+      "path": "SOURCE_REVIEW.md",
+      "size": 5551,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Energy.sh",
+      "branch": "main",
+      "path": "source-review.json",
+      "size": 258433,
       "mode": "program_identity_no_digest"
     },
     {
