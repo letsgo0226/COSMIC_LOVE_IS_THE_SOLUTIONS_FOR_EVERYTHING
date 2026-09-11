@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 138,
-  "program_count": 870,
+  "repo_count": 143,
+  "program_count": 883,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -115,6 +115,13 @@
       "size": 2
     },
     {
+      "repo": "letsgo0226/ASI_TM.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
+    },
+    {
       "repo": "letsgo0226/ATM_Zero_Entropy.sh",
       "default_branch": "main",
       "private": false,
@@ -182,7 +189,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1101
+      "size": 1126
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -435,6 +442,34 @@
       "private": false,
       "archived": false,
       "size": 11
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Book_TM.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Convergent_TM.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
+    },
+    {
+      "repo": "letsgo0226/OMEGA_H0.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Predeploy.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 0
     },
     {
       "repo": "letsgo0226/Omega-v3.0",
@@ -1300,6 +1335,27 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/ASI_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/asi-tm.yml",
+      "size": 898,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ASI_TM.sh",
+      "branch": "main",
+      "path": "ASI_TM.sh",
+      "size": 2003,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ASI_TM.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 11,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/ATM_Zero_Entropy.sh",
       "branch": "main",
       "path": "ATM_Zero_Entropy.sh",
@@ -1940,7 +1996,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1909,
+      "size": 1910,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3558,6 +3614,76 @@
       "branch": "main",
       "path": "Ω-LIMIT QUANTUM RIEMANN FREE FIELD.py",
       "size": 1749,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Book_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/omega-book.yml",
+      "size": 1777,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Book_TM.sh",
+      "branch": "main",
+      "path": "OMEGA_Book_TM.sh",
+      "size": 1941,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Book_TM.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 16,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Convergent_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/omega-convergent.yml",
+      "size": 1051,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Convergent_TM.sh",
+      "branch": "main",
+      "path": "OMEGA_Convergent_TM.sh",
+      "size": 1074,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Convergent_TM.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 24,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_H0.sh",
+      "branch": "main",
+      "path": ".github/workflows/omega-h0.yml",
+      "size": 929,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_H0.sh",
+      "branch": "main",
+      "path": "OMEGA_H0.sh",
+      "size": 2017,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_H0.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 13,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Predeploy.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 20,
       "mode": "program_identity_no_digest"
     },
     {
