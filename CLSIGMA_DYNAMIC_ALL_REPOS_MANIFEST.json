@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 146,
-  "program_count": 899,
+  "program_count": 923,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -189,7 +189,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1276
+      "size": 1301
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -511,7 +511,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 0
+      "size": 23
     },
     {
       "repo": "letsgo0226/PLEIADES_2x2x2_XOR_PHI_GENERATOR_FUNCTION",
@@ -945,7 +945,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 48
+      "size": 111
     },
     {
       "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
@@ -2003,7 +2003,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 208362,
+      "size": 209461,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2017,7 +2017,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1910,
+      "size": 1909,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3788,7 +3788,7 @@
       "repo": "letsgo0226/Open_University_TM.sh",
       "branch": "main",
       "path": ".github/workflows/verify.yml",
-      "size": 2700,
+      "size": 2450,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3802,14 +3802,14 @@
       "repo": "letsgo0226/Open_University_TM.sh",
       "branch": "main",
       "path": "Open_University_TM.sh",
-      "size": 2025,
+      "size": 1951,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/Open_University_TM.sh",
       "branch": "main",
       "path": "README.md",
-      "size": 3146,
+      "size": 3557,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6342,6 +6342,62 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": ".github/workflows/civilizational_continuity.yml",
+      "size": 4271,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/continuity.yml",
+      "size": 3759,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/cosmic_future.yml",
+      "size": 3281,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/cosmological_continuity.yml",
+      "size": 3942,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/food_continuity.yml",
+      "size": 2767,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/peace.yml",
+      "size": 1621,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/research.yml",
+      "size": 2276,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/sdg.yml",
+      "size": 3125,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": ".github/workflows/spectral.yml",
       "size": 3594,
       "mode": "program_identity_no_digest"
@@ -6356,8 +6412,92 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": "ACADEMIC_MODEL.md",
+      "size": 4139,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "CIVILIZATIONAL_CONTINUITY_MODEL.md",
+      "size": 7230,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "CONTINUITY_MODEL.md",
+      "size": 5146,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "COSMIC_FUTURE_MODEL.md",
+      "size": 6582,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "COSMOLOGICAL_CONTINUITY_MODEL.md",
+      "size": 7468,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Civilizational_Continuity_TM.sh",
+      "size": 1827,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Cosmic_Future_TM.sh",
+      "size": 1692,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Cosmological_Continuity_TM.sh",
+      "size": 1961,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "FOOD_CONTINUITY_MODEL.md",
+      "size": 6889,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Food_Continuity_TM.sh",
+      "size": 1846,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": "OMEGA_Limit_TM.sh",
       "size": 1366,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "PEACE_MODEL.md",
+      "size": 1395,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Peace_Action_TM.sh",
+      "size": 848,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6377,6 +6517,27 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": "Research_Framework_TM.sh",
+      "size": 1289,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "SDG_RESEARCH_MODEL.md",
+      "size": 4606,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "SDG_Research_TM.sh",
+      "size": 1655,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": "SPECTRAL_MODEL.md",
       "size": 2699,
       "mode": "program_identity_no_digest"
@@ -6386,6 +6547,13 @@
       "branch": "main",
       "path": "Spectral_TM.sh",
       "size": 1611,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Universal_Continuity_TM.sh",
+      "size": 1815,
       "mode": "program_identity_no_digest"
     },
     {
