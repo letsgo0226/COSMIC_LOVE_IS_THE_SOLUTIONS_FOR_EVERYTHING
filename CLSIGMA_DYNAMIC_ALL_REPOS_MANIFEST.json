@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 146,
-  "program_count": 923,
+  "program_count": 945,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -189,7 +189,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1377
+      "size": 1403
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -945,7 +945,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 111
+      "size": 118
     },
     {
       "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
@@ -6342,6 +6342,13 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": ".github/workflows/ai_safety_continuity.yml",
+      "size": 3294,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": ".github/workflows/civilizational_continuity.yml",
       "size": 4271,
       "mode": "program_identity_no_digest"
@@ -6351,6 +6358,13 @@
       "branch": "main",
       "path": ".github/workflows/continuity.yml",
       "size": 3759,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/contraceptive_safety.yml",
+      "size": 3203,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6377,8 +6391,29 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": ".github/workflows/generative_metatheory.yml",
+      "size": 3557,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/paqs.yml",
+      "size": 4997,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": ".github/workflows/peace.yml",
       "size": 1621,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/pregnancy_birth_continuity.yml",
+      "size": 2284,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6419,6 +6454,27 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": "AI_SAFETY_CONTINUITY_MODEL.md",
+      "size": 8471,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "AI_Safety_Continuity_TM.sh",
+      "size": 1547,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "BLE_Control_Contract.py",
+      "size": 1819,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": "CIVILIZATIONAL_CONTINUITY_MODEL.md",
       "size": 7230,
       "mode": "program_identity_no_digest"
@@ -6428,6 +6484,13 @@
       "branch": "main",
       "path": "CONTINUITY_MODEL.md",
       "size": 5146,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "CONTRACEPTIVE_SAFETY_MODEL.md",
+      "size": 7097,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6454,6 +6517,13 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": "Contraceptive_Safety_TM.sh",
+      "size": 1727,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": "Cosmic_Future_TM.sh",
       "size": 1692,
       "mode": "program_identity_no_digest"
@@ -6463,6 +6533,13 @@
       "branch": "main",
       "path": "Cosmological_Continuity_TM.sh",
       "size": 1961,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Empirical_Metaphysics_TM.py",
+      "size": 4604,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6482,8 +6559,43 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": "FxLMS_DSP.py",
+      "size": 2474,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "GENERATIVE_METATHEORY_OF_PHYSICAL_WORLDS.md",
+      "size": 6909,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Generative_Metatheory_TM.py",
+      "size": 4414,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": "OMEGA_Limit_TM.sh",
       "size": 1366,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "PAQS_MODEL.md",
+      "size": 7007,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "PAQS_Supervisor.py",
+      "size": 1301,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6496,6 +6608,13 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": "PREGNANCY_BIRTH_CONTINUITY_MODEL.md",
+      "size": 4782,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": "Peace_Action_TM.sh",
       "size": 848,
       "mode": "program_identity_no_digest"
@@ -6503,8 +6622,22 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": "Pregnancy_Birth_Continuity_TM.sh",
+      "size": 1752,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": "Public_Universe_TM.sh",
       "size": 1719,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Quiet_Control_TM.py",
+      "size": 1299,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6540,6 +6673,27 @@
       "branch": "main",
       "path": "SPECTRAL_MODEL.md",
       "size": 2699,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Safety_Guard_TM.py",
+      "size": 1196,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Safety_MCU_Model.py",
+      "size": 1779,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Spectral_Core_TM.sh",
+      "size": 1621,
       "mode": "program_identity_no_digest"
     },
     {
