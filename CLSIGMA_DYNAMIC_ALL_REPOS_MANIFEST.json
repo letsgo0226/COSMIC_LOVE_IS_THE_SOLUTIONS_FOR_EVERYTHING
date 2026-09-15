@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 146,
-  "program_count": 986,
+  "repo_count": 147,
+  "program_count": 1009,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -189,7 +189,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1506
+      "size": 1533
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -407,6 +407,13 @@
       "private": false,
       "archived": false,
       "size": 2
+    },
+    {
+      "repo": "letsgo0226/Leibniz-Calculemus",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
     },
     {
       "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613",
@@ -945,7 +952,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 257
+      "size": 274
     },
     {
       "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
@@ -2003,7 +2010,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 218743,
+      "size": 225487,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3495,6 +3502,27 @@
       "branch": "main",
       "path": "README.md",
       "size": 19,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Leibniz-Calculemus",
+      "branch": "main",
+      "path": ".github/workflows/calculemus.yml",
+      "size": 1132,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Leibniz-Calculemus",
+      "branch": "main",
+      "path": "Leibniz_Calculemus_Meta_OneLiner.sh",
+      "size": 1754,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Leibniz-Calculemus",
+      "branch": "main",
+      "path": "README.md",
+      "size": 37,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6412,6 +6440,27 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": ".github/workflows/infinite_meta_xy.yml",
+      "size": 1352,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/leibniz_calculemus_meta_oneliner.yml",
+      "size": 2106,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/monod.yml",
+      "size": 1688,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": ".github/workflows/paqs.yml",
       "size": 4997,
       "mode": "program_identity_no_digest"
@@ -6435,6 +6484,13 @@
       "branch": "main",
       "path": ".github/workflows/pregnancy_birth_continuity.yml",
       "size": 2284,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/prime_factor_godel_tm.yml",
+      "size": 1349,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6533,6 +6589,20 @@
       "branch": "main",
       "path": ".github/workflows/zeta_log_spectrum.yml",
       "size": 2434,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/zeta_log_spectrum_oneliner.yml",
+      "size": 1800,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": ".github/workflows/zeta_pole_godel_monad.yml",
+      "size": 964,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6657,6 +6727,20 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": "Display_Bit_Zeta_XY_3Target_2KB.sh",
+      "size": 1124,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Display_Bit_Zeta_XY_AutoAlign_TM.py",
+      "size": 4118,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": "EMPIRICAL_METAPHYSICS_MODEL.md",
       "size": 3944,
       "mode": "program_identity_no_digest"
@@ -6713,8 +6797,71 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": "INFINITE_META_XY_MODEL.md",
+      "size": 2242,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Infinite_Meta_XY_TM.py",
+      "size": 3578,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Leibniz_Calculemus_Meta_OneLiner.sh",
+      "size": 1463,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "MONOD_LIMIT_MODEL.md",
+      "size": 4341,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Monod.sh",
+      "size": 1463,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": "OMEGA_Limit_TM.sh",
       "size": 1366,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Omega_Monad_Limit_OneLiner.sh",
+      "size": 1706,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Omega_Monad_XY_SVG_2KB.sh",
+      "size": 1867,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Omega_Monad_XY_Zeta_Executable_TM.py",
+      "size": 2395,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Omega_Star_Limit_2KB.sh",
+      "size": 905,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6778,6 +6925,13 @@
       "branch": "main",
       "path": "Pregnancy_Birth_Continuity_TM.sh",
       "size": 1752,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Prime_Factor_Godel_TM_2KB.sh",
+      "size": 999,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6986,8 +7140,22 @@
     {
       "repo": "letsgo0226/Zeta.sh",
       "branch": "main",
+      "path": "Zeta_Log_Spectrum_OneLiner.sh",
+      "size": 1131,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
       "path": "Zeta_Log_Spectrum_TM.sh",
       "size": 2532,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Zeta.sh",
+      "branch": "main",
+      "path": "Zeta_Pole_Godel_Monad_TM.py",
+      "size": 1511,
       "mode": "program_identity_no_digest"
     },
     {
