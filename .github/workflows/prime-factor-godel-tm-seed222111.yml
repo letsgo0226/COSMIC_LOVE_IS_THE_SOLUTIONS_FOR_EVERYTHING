@@ -1,0 +1,47 @@
+name: Prime-Factor Godel TM seed222111
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  push:
+    branches: [main, master]
+    paths:
+      - "Prime_Factor_Godel_TM_2KB_SEED222111.sh"
+      - "Prime_Factor_Godel_TM_2KB_SEED222111.md"
+      - ".github/workflows/prime-factor-godel-tm-seed222111.yml"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [prime_factor_godel_tm_seed222111]
+
+permissions:
+  contents: read
+
+jobs:
+  certify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify size and run
+        run: |
+          set -euo pipefail
+          BYTES=$(wc -c < Prime_Factor_Godel_TM_2KB_SEED222111.sh | tr -d ' ')
+          echo "bytes=$BYTES"
+          test "$BYTES" -lt 2048
+          bash Prime_Factor_Godel_TM_2KB_SEED222111.sh 16 | tee prime_factor_godel_tm_seed222111.json
+          python3 - <<'PY'
+          import json
+          o=json.load(open("prime_factor_godel_tm_seed222111.json"))
+          assert o.get("model")=="PRIME_FACTOR_GODEL_TM"
+          assert o.get("exact") is True
+          assert o.get("omega_attained")==0
+          assert o.get("program_equals_zeta")==0
+          assert o.get("open")==1 and o.get("final")==0
+          assert o["levels"][0][2]==[2,2,2,1,1,1]
+          print("PASS seed222111 exact open formal certificate")
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: prime-factor-godel-tm-seed222111-certificate
+          path: prime_factor_godel_tm_seed222111.json
+          if-no-files-found: error

@@ -219,3 +219,13 @@ APP_INTERVAL=5 APP_CYCLE_SLEEP=120 APP_TIMEOUT=15 nohup bash ALL_PUBLIC_PROGRAMS
 <!-- ALL_PUBLIC_PROGRAMS_MANIFEST_NOTE -->
 NOTE: ALL_PUBLIC_PROGRAMS manifest now covers sh+py+json (515 files, v2 catalog).
 <!-- / ALL_PUBLIC_PROGRAMS_MANIFEST_NOTE -->
+
+## Prime_Factor_Godel_TM_2KB seed `[2,2,2,1,1,1]`
+
+- One-liner: `Prime_Factor_Godel_TM_2KB_SEED222111.sh`
+- Spec: `Prime_Factor_Godel_TM_2KB_SEED222111.md`
+- Actions: `.github/workflows/prime-factor-godel-tm-seed222111.yml` (`*/5` + events)
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/Prime_Factor_Godel_TM_2KB_SEED222111.sh | bash
+```
