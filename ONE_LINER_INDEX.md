@@ -171,3 +171,19 @@ nohup bash Prime_Factor_Godel_TM_2KB_DAEMON.sh 60 4 >> prime_factor_godel_tm_dae
 ```
 
 Keeps `open=1` / `final=0` / formal-only.
+
+## Φ_G^lim（Prime-Factor Gödel TM 極限形）
+
+Protocol: `Phi_G^lim` = ExactDecode(G=∏p^(a+1)) → exact; ω = formal colim
+
+- Spec: `Prime_Factor_Godel_TM_LIMIT.md`
+- One-liner (~978 bytes): `Prime_Factor_Godel_TM_LIMIT_ONELINER.sh`
+- Daemon: `Prime_Factor_Godel_TM_LIMIT_DAEMON.sh`
+- Substrate body: `letsgo0226/Zeta.sh` → `Prime_Factor_Godel_TM_2KB.sh`
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/Prime_Factor_Godel_TM_LIMIT_ONELINER.sh | bash
+nohup bash Prime_Factor_Godel_TM_LIMIT_DAEMON.sh 60 1 >> prime_factor_godel_tm_limit_daemon.log 2>&1 &
+```
+
+Keeps `open=1` / `final=0` / `omega_attained=0`.
