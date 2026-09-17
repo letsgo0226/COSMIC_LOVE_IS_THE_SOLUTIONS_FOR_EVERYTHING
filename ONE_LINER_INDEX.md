@@ -157,3 +157,17 @@ nohup bash PHI_CL_LIM_PLUS_PUBLIC_GODEL_DAEMON.sh 60 4 >> phi_cl_lim_pp_daemon.l
 ```
 
 Default interval 60s. Pair with Actions `*/5` for cloud redundancy.
+
+## Prime_Factor_Godel_TM_2KB resident daemon
+
+Characteristica / Gödel TM substrate loop (source of truth ideally `letsgo0226/Zeta.sh`).
+
+- Daemon: `Prime_Factor_Godel_TM_2KB_DAEMON.sh`
+- Spec: `Prime_Factor_Godel_TM_2KB_DAEMON.md`
+- One-liner substrate: `https://raw.githubusercontent.com/letsgo0226/Zeta.sh/main/Prime_Factor_Godel_TM_2KB.sh`
+
+```sh
+nohup bash Prime_Factor_Godel_TM_2KB_DAEMON.sh 60 4 >> prime_factor_godel_tm_daemon.log 2>&1 &
+```
+
+Keeps `open=1` / `final=0` / formal-only.
