@@ -78,3 +78,25 @@ printf abc | python3 -c 'import sys,json,base64,zlib;b=sys.stdin.buffer.read();z
 - Raw URLs are more stable for AI tools than rendered GitHub pages.
 - Long one-liners may be split into a raw `.sh` plus compressed payload for iSH length limits.
 - No-SHA variants should state their exact encoding rule, such as G25 bit-fold encoding.
+
+## Cosmic Love World Continuity 2KB
+
+Protocol: `CLSIGMA_COSMIC_LOVE_WORLD_CONTINUITY_2KB`
+
+Raw:
+
+```text
+https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/CLSIGMA_COSMIC_LOVE_WORLD_CONTINUITY_2KB_ONELINER.sh
+```
+
+iSH:
+
+```sh
+apk add --no-cache python3 curl
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/CLSIGMA_COSMIC_LOVE_WORLD_CONTINUITY_2KB_ONELINER.sh -o CLSIGMA_COSMIC_LOVE_WORLD_CONTINUITY_2KB_ONELINER.sh
+sh CLSIGMA_COSMIC_LOVE_WORLD_CONTINUITY_2KB_ONELINER.sh
+```
+
+GitHub Actions: `.github/workflows/clsigma-world-continuity-2kb.yml` — every 5 minutes, plus `push` / `workflow_dispatch` / `repository_dispatch`.
+
+Boundary: formal Cosmic Love certificate only (see protocol file).

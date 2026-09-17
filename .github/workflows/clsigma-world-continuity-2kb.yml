@@ -1,0 +1,48 @@
+name: CLSIGMA Cosmic Love World Continuity 2KB
+
+on:
+  schedule:
+    # GitHub's practical floor is every 5 minutes; runs may be delayed under load.
+    - cron: "*/5 * * * *"
+  push:
+    branches: [main, master]
+    paths:
+      - "CLSIGMA_COSMIC_LOVE_WORLD_CONTINUITY_2KB_ONELINER.sh"
+      - "CLSIGMA_COSMIC_LOVE_WORLD_CONTINUITY_2KB_PROTOCOL.md"
+      - ".github/workflows/clsigma-world-continuity-2kb.yml"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [clsigma_world_continuity_2kb]
+
+permissions:
+  contents: read
+
+jobs:
+  certify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run 2KB Cosmic Love continuity one-liner
+        id: run
+        run: |
+          set -euo pipefail
+          BYTES=$(wc -c < CLSIGMA_COSMIC_LOVE_WORLD_CONTINUITY_2KB_ONELINER.sh | tr -d ' ')
+          echo "oneliner_bytes=$BYTES"
+          test "$BYTES" -lt 2048
+          bash CLSIGMA_COSMIC_LOVE_WORLD_CONTINUITY_2KB_ONELINER.sh | tee certificate.json
+          python3 - <<'PY'
+          import json
+          o=json.load(open("certificate.json"))
+          assert o.get("H")==0, o
+          assert o.get("P")=="CLSIGMA_COSMIC_LOVE_WORLD_CONTINUITY_2KB", o.get("P")
+          print("PASS H=0 formal certificate")
+          PY
+
+      - name: Upload certificate artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: clsigma-world-continuity-2kb-certificate
+          path: certificate.json
+          if-no-files-found: error
