@@ -229,3 +229,5 @@ NOTE: ALL_PUBLIC_PROGRAMS manifest now covers sh+py+json (515 files, v2 catalog)
 ```sh
 curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/Prime_Factor_Godel_TM_2KB_SEED222111.sh | bash
 ```
+
+- Daemon: `Prime_Factor_Godel_TM_2KB_SEED222111_DAEMON.sh`

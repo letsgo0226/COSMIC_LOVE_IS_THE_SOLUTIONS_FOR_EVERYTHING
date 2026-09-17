@@ -16,3 +16,12 @@ curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUT
 ## Boundary
 
 `exact`, `open=1`, `final=0`, `omega_attained=0`, `program_equals_zeta=0`. Formal only — not RH/TOE.
+
+## Resident daemon
+
+```sh
+bash Prime_Factor_Godel_TM_2KB_SEED222111_DAEMON.sh          # 60s, N=4
+nohup bash Prime_Factor_Godel_TM_2KB_SEED222111_DAEMON.sh 60 4 >> prime_factor_godel_tm_seed222111_daemon.log 2>&1 &
+```
+
+Env: `PFGS_INTERVAL`, `PFGS_N`, `PFGS_LOG`, `PFGS_SCRIPT`.
