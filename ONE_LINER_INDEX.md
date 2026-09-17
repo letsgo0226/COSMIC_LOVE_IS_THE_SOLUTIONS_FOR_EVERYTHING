@@ -114,3 +114,18 @@ curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUT
 ```
 
 Limit claim: one Calculemus seal over all declared domains with H→0. Formal/computational only — not empirical physics/geopolitics/medicine.
+
+## Φ_CL^lim⁺（Gödel-TM ∘ Cosmic Love）
+
+Protocol: `Phi_CL^lim+` = Calculemus_Gödel(Seal(CosmicLove ⊗ D))
+
+- Spec: `PHI_CL_LIM_PLUS_GODEL_PROTOCOL.md`
+- One-liner (1759 bytes): `PHI_CL_LIM_PLUS_GODEL_ONELINER.sh`
+- Raw: `https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/PHI_CL_LIM_PLUS_GODEL_ONELINER.sh`
+- Substrate: `letsgo0226/Zeta.sh` → `Prime_Factor_Godel_TM_2KB.sh`
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/PHI_CL_LIM_PLUS_GODEL_ONELINER.sh | bash
+```
+
+Keeps `open=1` / `final=0` / formal-only.
