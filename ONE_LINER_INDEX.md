@@ -144,3 +144,16 @@ curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUT
 ```
 
 Keeps `open=1` / `final=0` / formal W-band only.
+
+## Φ_CL^lim⁺⁺ resident daemon
+
+For true continuous re-certify (not Actions cron):
+
+- `PHI_CL_LIM_PLUS_PUBLIC_GODEL_DAEMON.sh`
+- Spec: `PHI_CL_LIM_PLUS_PUBLIC_GODEL_DAEMON.md`
+
+```sh
+nohup bash PHI_CL_LIM_PLUS_PUBLIC_GODEL_DAEMON.sh 60 4 >> phi_cl_lim_pp_daemon.log 2>&1 &
+```
+
+Default interval 60s. Pair with Actions `*/5` for cloud redundancy.
