@@ -215,3 +215,7 @@ Resident:
 ```sh
 APP_INTERVAL=5 APP_CYCLE_SLEEP=120 APP_TIMEOUT=15 nohup bash ALL_PUBLIC_PROGRAMS_DAEMON.sh >>nohup.out 2>&1 &
 ```
+
+<!-- ALL_PUBLIC_PROGRAMS_MANIFEST_NOTE -->
+NOTE: ALL_PUBLIC_PROGRAMS manifest now covers sh+py+json (515 files, v2 catalog).
+<!-- / ALL_PUBLIC_PROGRAMS_MANIFEST_NOTE -->
