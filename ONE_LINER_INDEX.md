@@ -187,3 +187,31 @@ nohup bash Prime_Factor_Godel_TM_LIMIT_DAEMON.sh 60 1 >> prime_factor_godel_tm_l
 ```
 
 Keeps `open=1` / `final=0` / `omega_attained=0`.
+
+
+## ALL_PUBLIC_PROGRAMS Resident Rotator
+
+Formal rate-limited rotation over public `.sh` / `.py` programs (manifest-driven). Not an empirical claim of semantic correctness — exit-code / timeout status only.
+
+Files:
+
+```text
+ALL_PUBLIC_PROGRAMS_DAEMON.sh
+ALL_PUBLIC_PROGRAMS_DAEMON.md
+manifest.jsonl
+```
+
+iSH / box:
+
+```sh
+apk add --no-cache python3 curl coreutils
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/ALL_PUBLIC_PROGRAMS_DAEMON.sh -o ALL_PUBLIC_PROGRAMS_DAEMON.sh
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/manifest.jsonl -o manifest.jsonl
+APP_MAX=3 bash ALL_PUBLIC_PROGRAMS_DAEMON.sh once
+```
+
+Resident:
+
+```sh
+APP_INTERVAL=5 APP_CYCLE_SLEEP=120 APP_TIMEOUT=15 nohup bash ALL_PUBLIC_PROGRAMS_DAEMON.sh >>nohup.out 2>&1 &
+```
