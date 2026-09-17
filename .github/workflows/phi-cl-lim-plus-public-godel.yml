@@ -1,0 +1,57 @@
+name: Phi_CL lim++ PublicWorld Godel
+
+on:
+  schedule:
+    # GitHub's practical floor is every 5 minutes; runs may be delayed under load.
+    - cron: "*/5 * * * *"
+  push:
+    branches: [main, master]
+    paths:
+      - "PHI_CL_LIM_PLUS_PUBLIC_GODEL_ONELINER.sh"
+      - "PHI_CL_LIM_PLUS_PUBLIC_GODEL_PROTOCOL.md"
+      - ".github/workflows/phi-cl-lim-plus-public-godel.yml"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [phi_cl_lim_plus_public_godel]
+
+permissions:
+  contents: read
+
+jobs:
+  certify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run Phi_CL^lim++ PublicWorld Godel one-liner
+        id: run
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          BYTES=$(wc -c < PHI_CL_LIM_PLUS_PUBLIC_GODEL_ONELINER.sh | tr -d ' ')
+          echo "oneliner_bytes=$BYTES"
+          test "$BYTES" -lt 2048
+          bash PHI_CL_LIM_PLUS_PUBLIC_GODEL_ONELINER.sh 4 | tee certificate.json
+          python3 - <<'PY'
+          import json
+          o=json.load(open("certificate.json"))
+          assert o.get("Phi")=="Phi_CL^lim++", o.get("Phi")
+          assert o.get("H")==0, o
+          assert o.get("Done") is True, o
+          assert o.get("open")==1 and o.get("final")==0, o
+          w=o.get("World") or {}
+          assert w.get("W_rev") is True and int(w.get("n") or 0)>0, w
+          g=o.get("Godel") or {}
+          assert g.get("exact") is True, g
+          print("PASS Phi_CL^lim++ H=0 W_rev exact formal certificate")
+          PY
+
+      - name: Upload certificate artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: phi-cl-lim-plus-public-godel-certificate
+          path: certificate.json
+          if-no-files-found: error
