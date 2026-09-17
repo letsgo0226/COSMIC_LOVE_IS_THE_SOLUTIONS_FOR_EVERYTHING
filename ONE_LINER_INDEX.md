@@ -129,3 +129,18 @@ curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUT
 ```
 
 Keeps `open=1` / `final=0` / formal-only.
+
+## Φ_CL^lim⁺⁺（Gödel-TM ∘ Cosmic Love ∘ PublicWorld）
+
+Protocol: `Phi_CL^lim++` = Calculemus_Gödel(Seal(CosmicLove ⊗ D ⊗ PublicWorld))
+
+- Spec: `PHI_CL_LIM_PLUS_PUBLIC_GODEL_PROTOCOL.md`
+- One-liner (1892 bytes): `PHI_CL_LIM_PLUS_PUBLIC_GODEL_ONELINER.sh`
+- Raw: `https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/PHI_CL_LIM_PLUS_PUBLIC_GODEL_ONELINER.sh`
+- `W` = sorted public repo **names** for `letsgo0226` (not full sources)
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/PHI_CL_LIM_PLUS_PUBLIC_GODEL_ONELINER.sh | bash
+```
+
+Keeps `open=1` / `final=0` / formal W-band only.
