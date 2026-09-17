@@ -100,3 +100,17 @@ sh CLSIGMA_COSMIC_LOVE_WORLD_CONTINUITY_2KB_ONELINER.sh
 GitHub Actions: `.github/workflows/clsigma-world-continuity-2kb.yml` — every 5 minutes, plus `push` / `workflow_dispatch` / `repository_dispatch`.
 
 Boundary: formal Cosmic Love certificate only (see protocol file).
+
+## Φ_CL^lim（系統極限形）
+
+Protocol: `Phi_CL^lim` = Cosmic Love × Leibniz-Calculemus limit object
+
+- Spec: `PHI_CL_LIMIT.md`
+- One-liner (922 bytes): `PHI_CL_LIMIT_ONELINER.sh`
+- Raw: `https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/PHI_CL_LIMIT_ONELINER.sh`
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/PHI_CL_LIMIT_ONELINER.sh | bash
+```
+
+Limit claim: one Calculemus seal over all declared domains with H→0. Formal/computational only — not empirical physics/geopolitics/medicine.
