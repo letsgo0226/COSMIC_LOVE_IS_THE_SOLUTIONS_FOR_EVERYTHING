@@ -189,7 +189,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 729
+      "size": 758
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -357,7 +357,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 22
+      "size": 28
     },
     {
       "repo": "letsgo0226/FORMAL_COMPUTABLE_ZERO_SPECTRUM-20260706-",
@@ -2101,7 +2101,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 237317,
+      "size": 239370,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2115,7 +2115,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1911,
+      "size": 1910,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3571,35 +3571,35 @@
       "repo": "letsgo0226/EXACT_PRIME_FACTOR_GODEL_TM",
       "branch": "main",
       "path": ".github/workflows/exact_prime_factor_godel_tm.yml",
-      "size": 1436,
+      "size": 2280,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/EXACT_PRIME_FACTOR_GODEL_TM",
       "branch": "main",
       "path": "EXACT_PRIME_FACTOR_GODEL_TM.md",
-      "size": 882,
+      "size": 710,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/EXACT_PRIME_FACTOR_GODEL_TM",
       "branch": "main",
       "path": "EXACT_PRIME_FACTOR_GODEL_TM.sh",
-      "size": 1363,
+      "size": 1276,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/EXACT_PRIME_FACTOR_GODEL_TM",
       "branch": "main",
       "path": "EXACT_PRIME_FACTOR_GODEL_TM_DAEMON.sh",
-      "size": 1925,
+      "size": 1867,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/EXACT_PRIME_FACTOR_GODEL_TM",
       "branch": "main",
       "path": "README.md",
-      "size": 621,
+      "size": 606,
       "mode": "program_identity_no_digest"
     },
     {
