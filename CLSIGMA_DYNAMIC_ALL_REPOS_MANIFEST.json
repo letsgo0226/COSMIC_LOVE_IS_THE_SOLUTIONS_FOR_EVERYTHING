@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 151,
-  "program_count": 1059,
+  "repo_count": 153,
+  "program_count": 1085,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -136,6 +136,13 @@
       "size": 8
     },
     {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 36
+    },
+    {
       "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
       "default_branch": "main",
       "private": false,
@@ -189,7 +196,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 957
+      "size": 986
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -626,6 +633,13 @@
       "size": 2
     },
     {
+      "repo": "letsgo0226/RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 0
+    },
+    {
       "repo": "letsgo0226/RIEMANN_MACHINE.sh",
       "default_branch": "main",
       "private": false,
@@ -959,7 +973,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 0
+      "size": 7
     },
     {
       "repo": "letsgo0226/Universal_Solution_ATM.sh",
@@ -1479,6 +1493,153 @@
       "branch": "main",
       "path": "examples/atm_small_n4_b6.clcert",
       "size": 1670,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": ".github/workflows/verify-riemann-log-product.yml",
+      "size": 1191,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": ".github/workflows/verify.yml",
+      "size": 976,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "EXACT_PLEIADES_2KB_ONE_LINER.sh",
+      "size": 883,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 2726,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
+      "size": 1325,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/README.md",
+      "size": 1122,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/deploy.sh",
+      "size": 103,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/docker-compose.yml",
+      "size": 279,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/healthcheck.py",
+      "size": 439,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/install_systemd.sh",
+      "size": 517,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/riemann_log_product/README.md",
+      "size": 1860,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/riemann_log_product/deploy.sh",
+      "size": 170,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/riemann_log_product/docker-compose.yml",
+      "size": 435,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/riemann_log_product/healthcheck.py",
+      "size": 516,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/riemann_log_product/resident_loop.sh",
+      "size": 209,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/run_forever.sh",
+      "size": 838,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "resident_loop.sh",
+      "size": 215,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "solver.py",
+      "size": 5250,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "v9_exact/UNIVERSAL_COSMIC_PRIME_HOLOGRAM_TM_v9_EXACT.sh",
+      "size": 1345,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "v9_exact/exact_prime_hologram.py",
+      "size": 2471,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "verifier.py",
+      "size": 97,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2115,7 +2276,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 239370,
+      "size": 241444,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2129,7 +2290,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1911,
+      "size": 1910,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4426,6 +4587,41 @@
       "branch": "main",
       "path": "RIEMANN FREE FIELD - MASTER SELF-CONTINUATION SHEET ENGINE.py",
       "size": 1508,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/riemann-log-product-hologram-tm.yml",
+      "size": 1529,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 684,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": "RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.md",
+      "size": 587,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": "RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
+      "size": 1325,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": "RIEMANN_LOG_PRODUCT_HOLOGRAM_TM_DAEMON.sh",
+      "size": 1892,
       "mode": "program_identity_no_digest"
     },
     {
