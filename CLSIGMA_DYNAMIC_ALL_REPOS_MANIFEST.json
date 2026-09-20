@@ -6,9 +6,16 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 153,
-  "program_count": 1085,
+  "repo_count": 155,
+  "program_count": 1111,
   "repo_nodes": [
+    {
+      "repo": "letsgo0226/-DYNAMIC_PRIME_VECTOR_TM.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 0
+    },
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
       "default_branch": "main",
@@ -140,7 +147,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 36
+      "size": 65
     },
     {
       "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
@@ -196,7 +203,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 986
+      "size": 1015
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -577,6 +584,13 @@
       "size": 15
     },
     {
+      "repo": "letsgo0226/PRIME_INDEX_HOLOGRAM_TM.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
+    },
+    {
       "repo": "letsgo0226/PRINCIPLE",
       "default_branch": "main",
       "private": false,
@@ -637,7 +651,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 0
+      "size": 5
     },
     {
       "repo": "letsgo0226/RIEMANN_MACHINE.sh",
@@ -1083,6 +1097,41 @@
   ],
   "program_nodes": [
     {
+      "repo": "letsgo0226/-DYNAMIC_PRIME_VECTOR_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/dynamic-prime-vector-tm.yml",
+      "size": 1451,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/-DYNAMIC_PRIME_VECTOR_TM.sh",
+      "branch": "main",
+      "path": "DYNAMIC_PRIME_VECTOR_TM.md",
+      "size": 741,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/-DYNAMIC_PRIME_VECTOR_TM.sh",
+      "branch": "main",
+      "path": "DYNAMIC_PRIME_VECTOR_TM.sh",
+      "size": 1539,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/-DYNAMIC_PRIME_VECTOR_TM.sh",
+      "branch": "main",
+      "path": "DYNAMIC_PRIME_VECTOR_TM_DAEMON.sh",
+      "size": 1855,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/-DYNAMIC_PRIME_VECTOR_TM.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 602,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
       "branch": "main",
       "path": "README.md",
@@ -1498,6 +1547,20 @@
     {
       "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
       "branch": "main",
+      "path": ".github/workflows/verify-all-residents.yml",
+      "size": 1652,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": ".github/workflows/verify-prime-index-hologram.yml",
+      "size": 2176,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
       "path": ".github/workflows/verify-riemann-log-product.yml",
       "size": 1191,
       "mode": "program_identity_no_digest"
@@ -1519,8 +1582,43 @@
     {
       "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
       "branch": "main",
+      "path": "EXACT_PLEIADES_2KB_RESIDENT.sh",
+      "size": 258,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "PRIME_INDEX_HOLOGRAM_RESIDENT.sh",
+      "size": 246,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "PRIME_INDEX_HOLOGRAM_TM.sh",
+      "size": 1209,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
       "path": "README.md",
       "size": 2726,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "RIEMANN_GODEL_RATIONAL_SPECTRAL_HOLOGRAM_TM.sh",
+      "size": 1403,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "RIEMANN_GODEL_RATIONAL_SPECTRAL_RESIDENT.sh",
+      "size": 344,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1535,6 +1633,41 @@
       "branch": "main",
       "path": "deployment/README.md",
       "size": 1122,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/all_residents/README.md",
+      "size": 2572,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/all_residents/daemon.sh",
+      "size": 1031,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/all_residents/healthcheck.py",
+      "size": 1383,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/all_residents/install_systemd.sh",
+      "size": 318,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/all_residents/run_all.sh",
+      "size": 1502,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1563,6 +1696,27 @@
       "branch": "main",
       "path": "deployment/install_systemd.sh",
       "size": 517,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/prime_index_hologram/README.md",
+      "size": 1112,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/prime_index_hologram/docker-compose.yml",
+      "size": 251,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/prime_index_hologram/healthcheck.py",
+      "size": 757,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1633,6 +1787,13 @@
       "branch": "main",
       "path": "v9_exact/exact_prime_hologram.py",
       "size": 2471,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "v9_exact/resident_loop.sh",
+      "size": 284,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2276,7 +2437,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 241444,
+      "size": 247052,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4342,6 +4503,41 @@
       "branch": "main",
       "path": "README.md",
       "size": 5014,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PRIME_INDEX_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/prime-index-hologram-tm.yml",
+      "size": 1515,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PRIME_INDEX_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": "PRIME_INDEX_HOLOGRAM_TM.md",
+      "size": 575,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PRIME_INDEX_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": "PRIME_INDEX_HOLOGRAM_TM.sh",
+      "size": 1209,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PRIME_INDEX_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": "PRIME_INDEX_HOLOGRAM_TM_DAEMON.sh",
+      "size": 1958,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PRIME_INDEX_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 619,
       "mode": "program_identity_no_digest"
     },
     {
