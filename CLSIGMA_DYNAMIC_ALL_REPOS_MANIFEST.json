@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 149,
-  "program_count": 1051,
+  "repo_count": 151,
+  "program_count": 1059,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -189,7 +189,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 928
+      "size": 957
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -347,6 +347,13 @@
     },
     {
       "repo": "letsgo0226/ESF_Universal_Analytic_Spectral_Operator.sh_20260707",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
+      "repo": "letsgo0226/EXACT_GODEL_ZERO_INFORMATION_TM",
       "default_branch": "main",
       "private": false,
       "archived": false,
@@ -946,6 +953,13 @@
       "private": false,
       "archived": false,
       "size": 4
+    },
+    {
+      "repo": "letsgo0226/UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 0
     },
     {
       "repo": "letsgo0226/Universal_Solution_ATM.sh",
@@ -3565,6 +3579,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 54,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/EXACT_GODEL_ZERO_INFORMATION_TM",
+      "branch": "main",
+      "path": "EXACT_GODEL_ZERO_INFORMATION_TM.sh",
+      "size": 1170,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/EXACT_GODEL_ZERO_INFORMATION_TM",
+      "branch": "main",
+      "path": "README.md",
+      "size": 33,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6589,6 +6617,48 @@
       "branch": "main",
       "path": "examples/tm_open_transition_gap.clcert",
       "size": 269,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/universal-self-product-singularity-tm.yml",
+      "size": 1452,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 791,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
+      "branch": "main",
+      "path": "Singularity.sh",
+      "size": 956,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
+      "branch": "main",
+      "path": "UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.md",
+      "size": 632,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
+      "branch": "main",
+      "path": "UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
+      "size": 1159,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
+      "branch": "main",
+      "path": "UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM_DAEMON.sh",
+      "size": 1770,
       "mode": "program_identity_no_digest"
     },
     {
