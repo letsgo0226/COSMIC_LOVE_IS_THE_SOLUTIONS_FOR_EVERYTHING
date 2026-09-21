@@ -140,7 +140,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 64
+      "size": 67
     },
     {
       "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
@@ -196,7 +196,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1073
+      "size": 1103
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -987,7 +987,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 0
+      "size": 5
     },
     {
       "repo": "letsgo0226/UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
@@ -1583,7 +1583,7 @@
       "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
       "branch": "main",
       "path": "LOG_TM.sh",
-      "size": 1876,
+      "size": 1642,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1723,7 +1723,7 @@
       "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
       "branch": "main",
       "path": "deployment/log_tm/daemon.sh",
-      "size": 874,
+      "size": 869,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2465,7 +2465,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 253552,
+      "size": 255373,
       "mode": "program_identity_no_digest"
     },
     {
