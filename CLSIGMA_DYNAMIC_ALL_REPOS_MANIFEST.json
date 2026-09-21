@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 155,
-  "program_count": 1115,
+  "repo_count": 156,
+  "program_count": 1124,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -140,7 +140,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 44
+      "size": 64
     },
     {
       "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
@@ -196,7 +196,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1044
+      "size": 1073
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -983,6 +983,13 @@
       "size": 4
     },
     {
+      "repo": "letsgo0226/UHEF_LOG_TM.sh",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 0
+    },
+    {
       "repo": "letsgo0226/UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
       "default_branch": "main",
       "private": false,
@@ -1512,6 +1519,13 @@
     {
       "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
       "branch": "main",
+      "path": ".github/workflows/uhef-log-tm.yml",
+      "size": 1275,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
       "path": ".github/workflows/verify-all-residents.yml",
       "size": 1652,
       "mode": "program_identity_no_digest"
@@ -1568,6 +1582,13 @@
     {
       "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
       "branch": "main",
+      "path": "LOG_TM.sh",
+      "size": 1876,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
       "path": "PRIME_INDEX_HOLOGRAM_RESIDENT.sh",
       "size": 246,
       "mode": "program_identity_no_digest"
@@ -1583,7 +1604,7 @@
       "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
       "branch": "main",
       "path": "README.md",
-      "size": 3657,
+      "size": 4518,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1689,6 +1710,20 @@
       "branch": "main",
       "path": "deployment/install_systemd.sh",
       "size": 517,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/log_tm/README.md",
+      "size": 1494,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": "deployment/log_tm/daemon.sh",
+      "size": 874,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2430,7 +2465,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 252721,
+      "size": 253552,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7037,6 +7072,41 @@
       "branch": "main",
       "path": "examples/tm_open_transition_gap.clcert",
       "size": 269,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UHEF_LOG_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/uhef-log-tm.yml",
+      "size": 1270,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UHEF_LOG_TM.sh",
+      "branch": "main",
+      "path": "README.md",
+      "size": 540,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UHEF_LOG_TM.sh",
+      "branch": "main",
+      "path": "UHEF_LOG_TM.md",
+      "size": 492,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UHEF_LOG_TM.sh",
+      "branch": "main",
+      "path": "UHEF_LOG_TM.sh",
+      "size": 856,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UHEF_LOG_TM.sh",
+      "branch": "main",
+      "path": "UHEF_LOG_TM_DAEMON.sh",
+      "size": 1605,
       "mode": "program_identity_no_digest"
     },
     {
