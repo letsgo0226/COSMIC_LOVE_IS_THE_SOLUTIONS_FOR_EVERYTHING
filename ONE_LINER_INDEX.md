@@ -231,3 +231,23 @@ curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUT
 ```
 
 - Daemon: `Prime_Factor_Godel_TM_2KB_SEED222111_DAEMON.sh`
+
+## Φ_CL^inf（Cosmic Love Infinity TM, 2KB）
+
+Protocol: `Phi_CL^inf` = prime-index TM with Gödel event word `G=∏ p^E` and Love layer `L`.
+
+- Spec: `COSMIC_LOVE_INFINITY_TM_2KB_PROTOCOL.md`
+- One-liner (1944 bytes): `COSMIC_LOVE_INFINITY_TM_2KB_ONELINER.sh`
+- Substrate repo: `letsgo0226/cosmic-love-infinity-tm.sh`
+- Encoding: No-SHA zlib→base64→exec
+- `W=letsgo0226/public` (formal public-program band, not full sources)
+
+```sh
+apk add --no-cache python3 curl
+curl -fsSL https://raw.githubusercontent.com/letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING/main/COSMIC_LOVE_INFINITY_TM_2KB_ONELINER.sh | sh
+N=20 CMD=step sh COSMIC_LOVE_INFINITY_TM_2KB_ONELINER.sh
+CMD=verify sh COSMIC_LOVE_INFINITY_TM_2KB_ONELINER.sh
+```
+
+`CMD` first letter: `s` step, `r` rewind, `v` verify, `z` reset.
+Keeps `open=1` / `final=0` / formal-only.
