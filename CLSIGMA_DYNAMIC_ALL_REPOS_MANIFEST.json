@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 160,
-  "program_count": 1151,
+  "program_count": 1154,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -217,7 +217,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1383
+      "size": 1413
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -966,7 +966,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 6
     },
     {
       "repo": "letsgo0226/The-Ouroboros-Quine",
@@ -1043,7 +1043,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 11
+      "size": 26
     },
     {
       "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
@@ -2612,7 +2612,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1911,
+      "size": 1909,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7159,6 +7159,13 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/The-Immanent-Self-Calculated-One-Liner",
+      "branch": "main",
+      "path": "tm_ontology_reversible_meta_2kb.sh",
+      "size": 1905,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/The-Ouroboros-Quine",
       "branch": "main",
       "path": "README.md",
@@ -8212,7 +8219,7 @@
       "repo": "letsgo0226/cosmic-love-infinity-tm.sh",
       "branch": "main",
       "path": ".github/workflows/cosmic-love-infinity-tm.yml",
-      "size": 845,
+      "size": 2732,
       "mode": "program_identity_no_digest"
     },
     {
@@ -8227,6 +8234,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 1422,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/cosmic-love-infinity-tm.sh",
+      "branch": "main",
+      "path": "cosmic-love-infinity-prime-godel-2kb.sh",
+      "size": 1976,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/cosmic-love-infinity-tm.sh",
+      "branch": "main",
+      "path": "cosmic-love-infinity-reversible-meta-2kb.sh",
+      "size": 1993,
       "mode": "program_identity_no_digest"
     },
     {
