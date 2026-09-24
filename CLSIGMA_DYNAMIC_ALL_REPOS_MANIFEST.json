@@ -217,7 +217,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1353
+      "size": 1383
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -231,7 +231,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 12
+      "size": 18
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
@@ -2598,7 +2598,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 260814,
+      "size": 261039,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2612,7 +2612,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1909,
+      "size": 1911,
       "mode": "program_identity_no_digest"
     },
     {
@@ -8212,7 +8212,7 @@
       "repo": "letsgo0226/cosmic-love-infinity-tm.sh",
       "branch": "main",
       "path": ".github/workflows/cosmic-love-infinity-tm.yml",
-      "size": 992,
+      "size": 845,
       "mode": "program_identity_no_digest"
     },
     {
@@ -8254,7 +8254,7 @@
       "repo": "letsgo0226/cosmic-love-infinity-tm.sh",
       "branch": "main",
       "path": "cosmic-love-infinity-tm.sh",
-      "size": 7606,
+      "size": 1840,
       "mode": "program_identity_no_digest"
     },
     {
