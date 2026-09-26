@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 161,
-  "program_count": 1181,
+  "program_count": 1186,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -217,7 +217,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1658
+      "size": 1689
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -1022,7 +1022,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 56
+      "size": 57
     },
     {
       "repo": "letsgo0226/Universal_Solution_ATM.sh",
@@ -1050,7 +1050,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 38
+      "size": 58
     },
     {
       "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
@@ -2619,7 +2619,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1910,
+      "size": 1909,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7337,14 +7337,14 @@
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": ".github/workflows/UTM.yml",
-      "size": 3918,
+      "size": 3752,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "README.md",
-      "size": 1887,
+      "size": 2270,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7400,14 +7400,21 @@
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/README.md",
-      "size": 3541,
+      "size": 5057,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/docs/ARCHITECTURE.md",
-      "size": 491,
+      "size": 874,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/docs/TARGET_SEMANTICS.md",
+      "size": 3799,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7428,14 +7435,35 @@
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/domains/Trader_42.sh",
-      "size": 1641,
+      "size": 301,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/domains/compact/Trader_42.sh",
+      "size": 1730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/domains/compact/cosmic-love-infinity-tm.sh",
+      "size": 1977,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/domains/cosmic-love-infinity-tm.sh",
-      "size": 1823,
+      "size": 195,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/domains/cosmic_love_full.py",
+      "size": 3844,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7462,8 +7490,15 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/domains/trader42_research.py",
+      "size": 3429,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/tests/smoke-test.sh",
-      "size": 1323,
+      "size": 2974,
       "mode": "program_identity_no_digest"
     },
     {
@@ -8415,7 +8450,7 @@
       "repo": "letsgo0226/cosmic-love-infinity-tm.sh",
       "branch": "main",
       "path": ".github/workflows/cosmic-love-infinity-tm.yml",
-      "size": 2732,
+      "size": 2902,
       "mode": "program_identity_no_digest"
     },
     {
@@ -8429,7 +8464,7 @@
       "repo": "letsgo0226/cosmic-love-infinity-tm.sh",
       "branch": "main",
       "path": "README.md",
-      "size": 1422,
+      "size": 2586,
       "mode": "program_identity_no_digest"
     },
     {
@@ -8471,7 +8506,7 @@
       "repo": "letsgo0226/cosmic-love-infinity-tm.sh",
       "branch": "main",
       "path": "cosmic-love-infinity-tm.sh",
-      "size": 1840,
+      "size": 1994,
       "mode": "program_identity_no_digest"
     },
     {
