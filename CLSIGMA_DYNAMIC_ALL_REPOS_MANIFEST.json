@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 161,
-  "program_count": 1203,
+  "program_count": 1215,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -217,7 +217,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1751
+      "size": 1783
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -1022,7 +1022,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 133
+      "size": 159
     },
     {
       "repo": "letsgo0226/Universal_Solution_ATM.sh",
@@ -2605,7 +2605,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 268178,
+      "size": 271238,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2619,7 +2619,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1909,
+      "size": 1910,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7343,6 +7343,20 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": ".github/workflows/address-snapshot.yml",
+      "size": 3181,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": ".github/workflows/address.yml",
+      "size": 2389,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": ".github/workflows/rdim-topology.yml",
       "size": 2152,
       "mode": "program_identity_no_digest"
@@ -7434,8 +7448,22 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/docs/ADDRESSABLE_SEARCH.md",
+      "size": 1567,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/docs/ARCHITECTURE.md",
       "size": 874,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/docs/PERSISTENT_SNAPSHOTS.md",
+      "size": 1741,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7448,6 +7476,13 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/docs/UNIVERSAL_ADDRESS_FUNCTION.md",
+      "size": 2750,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/docs/UNIVERSAL_MUSIC_MACHINE.md",
       "size": 2935,
       "mode": "program_identity_no_digest"
@@ -7455,8 +7490,36 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/docs/UTM_LOGOS_LAW.md",
+      "size": 2189,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/domains/ADDRESS_2KB.sh",
+      "size": 686,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/domains/LOGOS_2KB.sh",
+      "size": 697,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/domains/OCR_2KB.sh",
       "size": 1416,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/domains/SEARCH_2KB.sh",
+      "size": 1074,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7546,8 +7609,22 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/railway.toml",
+      "size": 191,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/recursion/RECURSIVE_DIMENSION_GUARD_TM.sh",
       "size": 990,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/search_api.py",
+      "size": 7540,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7561,7 +7638,14 @@
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/tests/smoke-test.sh",
-      "size": 3969,
+      "size": 3983,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/tests/test_address_snapshot.py",
+      "size": 1003,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7575,7 +7659,7 @@
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/tools/run-domain.sh",
-      "size": 515,
+      "size": 704,
       "mode": "program_identity_no_digest"
     },
     {
