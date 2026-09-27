@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 161,
-  "program_count": 1215,
+  "program_count": 1223,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -217,7 +217,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1783
+      "size": 1814
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -231,7 +231,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 28
+      "size": 60
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
@@ -1022,7 +1022,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 159
+      "size": 219
     },
     {
       "repo": "letsgo0226/Universal_Solution_ATM.sh",
@@ -2605,7 +2605,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 271238,
+      "size": 273565,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7337,7 +7337,7 @@
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": ".github/workflows/UTM.yml",
-      "size": 8559,
+      "size": 8640,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7352,6 +7352,20 @@
       "branch": "main",
       "path": ".github/workflows/address.yml",
       "size": 2389,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": ".github/workflows/live-consolidated-runtime.yml",
+      "size": 2696,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": ".github/workflows/omega-compactification.yml",
+      "size": 1593,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7462,8 +7476,29 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/docs/OMEGA_COMPACTIFICATION.md",
+      "size": 1897,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/docs/PERSISTENT_SNAPSHOTS.md",
       "size": 1741,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/docs/RAILWAY_RESOURCE_CONSOLIDATION.md",
+      "size": 1764,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/docs/SEARCH_OMEGA_PROTOCOL.md",
+      "size": 2398,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7520,6 +7555,13 @@
       "branch": "main",
       "path": "utm_unified_domains/domains/SEARCH_2KB.sh",
       "size": 1074,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/domains/SEARCH_OMEGA_2KB.sh",
+      "size": 571,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7630,8 +7672,22 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/ssr/BIDIRECTIONAL_OMEGA_COMPACTIFICATION_TM.sh",
+      "size": 1930,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/ssr/COMPACTIFIED_SINGULAR_LIMIT_TM.sh",
       "size": 2117,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/ssr/UTM_SINGULARITY_SNAPSHOT_2KB.sh",
+      "size": 979,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7659,7 +7715,7 @@
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/tools/run-domain.sh",
-      "size": 704,
+      "size": 783,
       "mode": "program_identity_no_digest"
     },
     {
