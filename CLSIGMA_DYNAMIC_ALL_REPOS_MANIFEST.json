@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 162,
-  "program_count": 1230,
+  "program_count": 1248,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -224,7 +224,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1940
+      "size": 1972
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -238,7 +238,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 67
+      "size": 52
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
@@ -1029,7 +1029,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 226
+      "size": 205
     },
     {
       "repo": "letsgo0226/Universal_Solution_ATM.sh",
@@ -2640,7 +2640,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 275203,
+      "size": 276668,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7371,8 +7371,29 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": ".github/workflows/GUARDED_DEPLOYMENT_GATEWAY.yml",
+      "size": 4160,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": ".github/workflows/IDENTITY_CONTINUITY.yml",
+      "size": 5324,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": ".github/workflows/UTM.yml",
       "size": 8640,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": ".github/workflows/ZERO_INFO_ENTROPY.yml",
+      "size": 7879,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7428,7 +7449,7 @@
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "README.md",
-      "size": 2270,
+      "size": 18850,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7491,7 +7512,14 @@
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/README.md",
-      "size": 7425,
+      "size": 7940,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/deploy/UTM_DEPLOYMENT_GATEWAY_POLICY.json",
+      "size": 2149,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7679,8 +7707,36 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/integrity/CCZIS_CLOSED_LOOP_TM.sh",
+      "size": 3433,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/integrity/GODEL_TABLEAU_IDENTITY_TM.sh",
+      "size": 3940,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/integrity/GUARDED_DEPLOYMENT_ENTRY_TM.sh",
+      "size": 3514,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/integrity/THERMO_INFO_GUARD_TM.sh",
       "size": 1497,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/integrity/ZERO_INFO_ENTROPY_TM.sh",
+      "size": 3713,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7723,6 +7779,55 @@
       "branch": "main",
       "path": "utm_unified_domains/ssr/UTM_SINGULARITY_SNAPSHOT_2KB.sh",
       "size": 979,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/subprojects/utm-unified-goal-solver/README.md",
+      "size": 2759,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/subprojects/utm-unified-goal-solver/app.py",
+      "size": 11324,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/subprojects/utm-unified-goal-solver/app_v2.py",
+      "size": 1070,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/subprojects/utm-unified-goal-solver/omega_worker.py",
+      "size": 15487,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/subprojects/utm-unified-goal-solver/railway.toml",
+      "size": 184,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/subprojects/utm-unified-goal-solver/utm-total-goal-evidence-policy.json",
+      "size": 1886,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/subprojects/utm-unified-goal-solver/utm-total-goal-registry.json",
+      "size": 8663,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7807,6 +7912,27 @@
       "branch": "main",
       "path": "utm_unified_domains/utm_universe/README.md",
       "size": 4914,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/protocols/URAP-1.0.json",
+      "size": 2286,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/protocols/URAP-1.0.one-liner.sh",
+      "size": 468,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/protocols/index.json",
+      "size": 315,
       "mode": "program_identity_no_digest"
     },
     {
