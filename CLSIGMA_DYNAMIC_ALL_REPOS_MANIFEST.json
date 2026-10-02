@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 162,
-  "program_count": 1248,
+  "program_count": 1292,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -224,7 +224,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 871
+      "size": 903
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -238,7 +238,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 112
+      "size": 118
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
@@ -1029,7 +1029,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 259
+      "size": 480
     },
     {
       "repo": "letsgo0226/Universal_Solution_ATM.sh",
@@ -2640,7 +2640,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 280513,
+      "size": 280514,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2654,7 +2654,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1911,
+      "size": 1909,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7385,8 +7385,43 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": ".github/workflows/LOG_ABELIAN_UTM.yml",
+      "size": 688,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": ".github/workflows/UCBC_COMPATIBILITY_CODEC.yml",
+      "size": 1704,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": ".github/workflows/UFAL_UNIQUE_PRIME_LOG.yml",
+      "size": 1618,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": ".github/workflows/UTM.yml",
       "size": 8640,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": ".github/workflows/UTM_THREE_SYSTEM_NATIVE.yml",
+      "size": 1872,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": ".github/workflows/UTM_UNIVERSE_NATIVE_LOG_OMEGA.yml",
+      "size": 1568,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7511,6 +7546,83 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "log_abelian_utm/README.md",
+      "size": 6053,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "log_abelian_utm/app.py",
+      "size": 8185,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "log_abelian_utm/axiom_verifier.py",
+      "size": 4537,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "log_abelian_utm/axioms/THREE_UNIVERSE_AXIOMS.json",
+      "size": 2351,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "log_abelian_utm/omega/UTM_OMEGA_UNBOUNDED_COMPUTE.json",
+      "size": 1984,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "log_abelian_utm/omega_verifier.py",
+      "size": 5281,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "log_abelian_utm/railway.toml",
+      "size": 184,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "log_abelian_utm/test_app.py",
+      "size": 1318,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "log_abelian_utm/test_axioms.py",
+      "size": 3211,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "log_abelian_utm/test_integration.py",
+      "size": 2182,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "log_abelian_utm/test_omega.py",
+      "size": 1877,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/README.md",
       "size": 7940,
       "mode": "program_identity_no_digest"
@@ -7520,6 +7632,20 @@
       "branch": "main",
       "path": "utm_unified_domains/deploy/UTM_DEPLOYMENT_GATEWAY_POLICY.json",
       "size": 2149,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/deploy/UTM_OMEGA_UNBOUNDED_COMPUTE_PRE_GATE.json",
+      "size": 962,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/deploy/UTM_THREE_UNIVERSE_AXIOM_PRE_GATE.json",
+      "size": 1538,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7911,7 +8037,35 @@
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/utm_universe/README.md",
-      "size": 4914,
+      "size": 9042,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/protocols/LOG-ABELIAN-NATIVE-1.0.json",
+      "size": 1216,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/protocols/THREE-UNIVERSE-AXIOMS-1.0.json",
+      "size": 384,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/protocols/UCBC-1.0.json",
+      "size": 1791,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/protocols/UFAL-1.0.json",
+      "size": 2051,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7931,8 +8085,22 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/utm_universe/protocols/UTM-OMEGA-1.0.json",
+      "size": 464,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/protocols/UTM-THREE-SYSTEM-NATIVE-1.0.json",
+      "size": 2145,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/utm_universe/protocols/index.json",
-      "size": 315,
+      "size": 1668,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7966,15 +8134,155 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/COSMIC_LOVE_NATIVE/README.md",
+      "size": 359,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/COSMIC_LOVE_NATIVE/manifest.json",
+      "size": 1082,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/LOG_ABELIAN_OMEGA_NATIVE/README.md",
+      "size": 1464,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/LOG_ABELIAN_OMEGA_NATIVE/compile_native_stage.py",
+      "size": 2633,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/LOG_ABELIAN_OMEGA_NATIVE/manifest.json",
+      "size": 1390,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/LOG_ABELIAN_OMEGA_NATIVE/run_native_stage.py",
+      "size": 1929,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/LOG_ABELIAN_OMEGA_NATIVE/test_native.py",
+      "size": 1255,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/THREE_SYSTEM_NATIVE/README.md",
+      "size": 508,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/THREE_SYSTEM_NATIVE/manifest.json",
+      "size": 1188,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/THREE_SYSTEM_NATIVE/test_native.py",
+      "size": 2099,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/TRADER_42_NATIVE/README.md",
+      "size": 822,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/TRADER_42_NATIVE/manifest.json",
+      "size": 1551,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UCBC_NATIVE/README.md",
+      "size": 864,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UCBC_NATIVE/manifest.json",
+      "size": 747,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UCBC_NATIVE/test_ucbc.py",
+      "size": 1314,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UCBC_NATIVE/ucbc.py",
+      "size": 3006,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UFAL_NATIVE/README.md",
+      "size": 789,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UFAL_NATIVE/manifest.json",
+      "size": 909,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UFAL_NATIVE/test_ufal.py",
+      "size": 1362,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UFAL_NATIVE/ufal.py",
+      "size": 4272,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/utm_universe/subprojects/index.json",
-      "size": 419,
+      "size": 2573,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/utm_universe/world-manifest.json",
-      "size": 6423,
+      "size": 11785,
       "mode": "program_identity_no_digest"
     },
     {
