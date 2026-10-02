@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 162,
-  "program_count": 1292,
+  "program_count": 1314,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -224,7 +224,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 903
+      "size": 937
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -2640,7 +2640,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 280514,
+      "size": 289841,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7413,6 +7413,20 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": ".github/workflows/UTM_OMEGA_LIFE_APPLICATIONS.yml",
+      "size": 2388,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": ".github/workflows/UTM_OMEGA_RESIDENTS.yml",
+      "size": 1929,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": ".github/workflows/UTM_THREE_SYSTEM_NATIVE.yml",
       "size": 1872,
       "mode": "program_identity_no_digest"
@@ -8092,6 +8106,20 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/utm_universe/protocols/UTM-OMEGA-LIFE-APPLICATIONS-1.0.json",
+      "size": 1022,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/protocols/UTM-OMEGA-RESIDENTS-1.1.json",
+      "size": 631,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/utm_universe/protocols/UTM-THREE-SYSTEM-NATIVE-1.0.json",
       "size": 2145,
       "mode": "program_identity_no_digest"
@@ -8100,7 +8128,7 @@
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/utm_universe/protocols/index.json",
-      "size": 1668,
+      "size": 2198,
       "mode": "program_identity_no_digest"
     },
     {
@@ -8274,15 +8302,141 @@
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_LIFE_APPLICATIONS/BIRTH_ZERO_INJURY.json",
+      "size": 1212,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_LIFE_APPLICATIONS/CONTRACEPTION_ZERO_HARM.json",
+      "size": 1268,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_LIFE_APPLICATIONS/CULTURED_MEAT.json",
+      "size": 1180,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_LIFE_APPLICATIONS/IMMORTALITY_RESEARCH.json",
+      "size": 5377,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_LIFE_APPLICATIONS/README.md",
+      "size": 1708,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_LIFE_APPLICATIONS/VEGETARIAN_NUTRITION.json",
+      "size": 1271,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_LIFE_APPLICATIONS/immortality_continuity.py",
+      "size": 5731,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_LIFE_APPLICATIONS/manifest.json",
+      "size": 1669,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_LIFE_APPLICATIONS/test_applications.py",
+      "size": 2317,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_LIFE_APPLICATIONS/test_immortality_continuity.py",
+      "size": 2134,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_LIFE_APPLICATIONS/verify_applications.py",
+      "size": 3860,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_RESIDENTS/README.md",
+      "size": 955,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_RESIDENTS/infinite_deployment.py",
+      "size": 9710,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_RESIDENTS/manifest.json",
+      "size": 853,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_RESIDENTS/principle_vector.py",
+      "size": 6075,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_RESIDENTS/resident_registry.json",
+      "size": 5330,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_RESIDENTS/test_residents.py",
+      "size": 1911,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
+      "path": "utm_unified_domains/utm_universe/subprojects/UTM_OMEGA_RESIDENTS/verify_residents.py",
+      "size": 4136,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM.sh",
+      "branch": "main",
       "path": "utm_unified_domains/utm_universe/subprojects/index.json",
-      "size": 2573,
+      "size": 3470,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/UTM.sh",
       "branch": "main",
       "path": "utm_unified_domains/utm_universe/world-manifest.json",
-      "size": 11785,
+      "size": 14675,
       "mode": "program_identity_no_digest"
     },
     {
