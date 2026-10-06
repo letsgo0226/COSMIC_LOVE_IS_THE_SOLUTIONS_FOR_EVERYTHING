@@ -224,7 +224,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1268
+      "size": 1302
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -938,7 +938,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 5
     },
     {
       "repo": "letsgo0226/TRF_READING_META_ENTROPY_B64_MIRROR_FIXED_POINT_ENGINE",
@@ -1029,7 +1029,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1142
+      "size": 1169
     },
     {
       "repo": "letsgo0226/Universal_Solution_ATM.sh",
@@ -2654,7 +2654,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1909,
+      "size": 1910,
       "mode": "program_identity_no_digest"
     },
     {
