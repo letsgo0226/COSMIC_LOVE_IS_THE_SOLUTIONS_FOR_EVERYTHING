@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 163,
-  "program_count": 1349,
+  "program_count": 1356,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -224,7 +224,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1437
+      "size": 1471
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -238,7 +238,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 118
+      "size": 178
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
@@ -511,7 +511,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 67
+      "size": 89
     },
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
@@ -1036,7 +1036,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 597
+      "size": 580
     },
     {
       "repo": "letsgo0226/Universal_Solution_ATM.sh",
@@ -2647,7 +2647,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 302091,
+      "size": 302294,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2661,7 +2661,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1912,
+      "size": 1910,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4592,6 +4592,13 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "HU_AUTO_UTM_Intrinsic_Plasma_Free_Field_2K_oneline.sh",
+      "size": 1894,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "HU_iSH_2KB.sh",
       "size": 1989,
       "mode": "program_identity_no_digest"
@@ -4629,6 +4636,48 @@
       "branch": "main",
       "path": "UTM_HU_KLEENE_BRIDGE_2K_oneline.sh",
       "size": 1394,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "ihm2k.sh",
+      "size": 2039,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "iqe2k.sh",
+      "size": 1780,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "全息奇點通用圖靈機/HS1_UTM_2K_oneline.sh",
+      "size": 1789,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "全息奇點通用圖靈機/HS2_UTM_2K_oneline.sh",
+      "size": 1811,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "全息奇點通用圖靈機/HSI_UTM_2K_oneline.sh",
+      "size": 1907,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "全息奇點通用圖靈機/HS_UTM_2K_oneline.sh",
+      "size": 1715,
       "mode": "program_identity_no_digest"
     },
     {
