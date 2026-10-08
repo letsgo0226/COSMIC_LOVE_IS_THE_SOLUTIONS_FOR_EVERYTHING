@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 163,
-  "program_count": 1356,
+  "program_count": 1400,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -224,7 +224,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1539
+      "size": 1573
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -238,7 +238,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 178
+      "size": 196
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
@@ -511,7 +511,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 89
+      "size": 215
     },
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
@@ -1036,7 +1036,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 580
+      "size": 596
     },
     {
       "repo": "letsgo0226/Universal_Solution_ATM.sh",
@@ -1120,7 +1120,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 118
+      "size": 158
     },
     {
       "repo": "letsgo0226/solution_0_genesis.sh",
@@ -2661,7 +2661,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1910,
+      "size": 1911,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4543,6 +4543,62 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": ".github/workflows/hsi_deploy.yml",
+      "size": 5897,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/hsi_local_neural.yml",
+      "size": 1157,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/hsi_native_renderer.yml",
+      "size": 2833,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/hsi_open_corpus.yml",
+      "size": 13088,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/hsi_search.yml",
+      "size": 8151,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/hsi_solve.yml",
+      "size": 4873,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/hsi_three_blue_dispatcher.yml",
+      "size": 1085,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/hsi_update.yml",
+      "size": 5858,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "ANALYTIC_CONTINUATION_EQUATION_BILINGUAL_DERIVATION.txt",
       "size": 64343,
       "mode": "program_identity_no_digest"
@@ -4580,6 +4636,97 @@
       "branch": "main",
       "path": "GODEL_STATE_TURING_MACHINE.sh",
       "size": 1278,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_DEPLOY.md",
+      "size": 5014,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_LOCAL_NEURAL.md",
+      "size": 1358,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_MUSIC_RENDERER.md",
+      "size": 1121,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_NATIVE_RENDER.md",
+      "size": 3319,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_NET_SINGULARITY.md",
+      "size": 4387,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_OPEN_CORPUS.md",
+      "size": 8674,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_OPEN_CORPUS_PLATFORMS.txt",
+      "size": 5721,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_PLEIADIAN_BLUE_CARE.md",
+      "size": 4310,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_SEARCH.md",
+      "size": 4355,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_SOLVE.md",
+      "size": 2572,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_SOLVE_PLATFORMS.txt",
+      "size": 1757,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_THREE_SYSTEM_BLUE.md",
+      "size": 4260,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_UPDATE.md",
+      "size": 2987,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4636,6 +4783,167 @@
       "branch": "main",
       "path": "UTM_HU_KLEENE_BRIDGE_2K_oneline.sh",
       "size": 1394,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "experimental/neural/HSI_LOCAL_NEURAL_ARCHIVED.md",
+      "size": 6110,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "experimental/neural/hsi-neural.archived.sh",
+      "size": 4617,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "experimental/neural/hsi_local_neural.archived.py",
+      "size": 8845,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi-corpus.sh",
+      "size": 2541,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi-deploy.sh",
+      "size": 1132,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi-native.sh",
+      "size": 985,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi-net.sh",
+      "size": 1096,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi-neural.sh",
+      "size": 447,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi-search.sh",
+      "size": 1369,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi-solve.sh",
+      "size": 1657,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi-three.sh",
+      "size": 935,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi-update.sh",
+      "size": 799,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_deploy.py",
+      "size": 19580,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_local_neural.py",
+      "size": 263,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_music_2kb.sh",
+      "size": 1549,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_music_renderer_bridge.ts",
+      "size": 3289,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_native_renderer.py",
+      "size": 11925,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_net.py",
+      "size": 5491,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_open_corpus.py",
+      "size": 22217,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_search.py",
+      "size": 20293,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_solve.py",
+      "size": 12360,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_solve_domains.json",
+      "size": 33150,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_update.py",
+      "size": 11504,
       "mode": "program_identity_no_digest"
     },
     {
