@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 163,
-  "program_count": 1412,
+  "program_count": 1451,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -224,7 +224,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1781
+      "size": 1817
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -238,7 +238,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 214
+      "size": 143
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
@@ -511,7 +511,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 311
+      "size": 637
     },
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
@@ -2647,7 +2647,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 311293,
+      "size": 313526,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4543,8 +4543,15 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": ".github/workflows/hsi-notes-review.yml",
+      "size": 2642,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": ".github/workflows/hsi_deploy.yml",
-      "size": 5897,
+      "size": 7206,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4565,7 +4572,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": ".github/workflows/hsi_open_corpus.yml",
-      "size": 13657,
+      "size": 17499,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4648,6 +4655,13 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "HSI_BITWISE_METATHEORY_2KB_CONSISTENCY_COMPLETENESS_BILINGUAL.txt",
+      "size": 38042,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "HSI_DEPLOY.md",
       "size": 5014,
       "mode": "program_identity_no_digest"
@@ -4699,6 +4713,13 @@
       "branch": "main",
       "path": "HSI_PLEIADIAN_BLUE_CARE.md",
       "size": 4310,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "HSI_PURE_TURING_LANGUAGE_UNIVERSAL_CORRESPONDENCE_BILINGUAL.txt",
+      "size": 44561,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4767,6 +4788,62 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "Notes/HSI_Prime_Analytic_2KB_Release/HSI_OriginalXY_POSIX_2KB_OneLiner.sh",
+      "size": 2043,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/HSI_Prime_Analytic_2KB_Release/HSI_OriginalXY_Plaintext_2KB_OneLiner.sh",
+      "size": 2027,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/HSI_Prime_Analytic_2KB_Release/HSI_OriginalXY_Plaintext_Core.py",
+      "size": 1983,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/HSI_Prime_Analytic_2KB_Release/HSI_PRIME_ANALYTIC_PLAINTEXT_2KB_BILINGUAL_SPEC.txt",
+      "size": 20600,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/HSI_Prime_Analytic_2KB_Release/OriginalXY_reference.py",
+      "size": 3072,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/HSI_Prime_Analytic_2KB_Release/README.md",
+      "size": 2018,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/HSI_Prime_Analytic_2KB_Release/verification_certificate.json",
+      "size": 5009,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/HSI_Prime_Analytic_2KB_Release/verify_prime_analytic.py",
+      "size": 9705,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "PRIME_FORMULA_BILINGUAL_DERIVATION.txt",
       "size": 24549,
       "mode": "program_identity_no_digest"
@@ -4795,6 +4872,27 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "docs/HSI_NOTES_DEPLOYMENT.md",
+      "size": 5929,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "docs/HSI_NOTES_FOUR_SYSTEM_REVIEW.md",
+      "size": 9846,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "docs/HSI_NOTES_LOCAL_VALIDATION_RESULT.md",
+      "size": 2689,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "experimental/neural/HSI_LOCAL_NEURAL_ARCHIVED.md",
       "size": 6110,
       "mode": "program_identity_no_digest"
@@ -4817,21 +4915,21 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "hsi-corpus.sh",
-      "size": 2541,
+      "size": 966,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "hsi-deploy.sh",
-      "size": 1132,
+      "size": 1101,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "hsi-native.sh",
-      "size": 985,
+      "size": 854,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4879,8 +4977,43 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "hsi_binance_orders.py",
+      "size": 11647,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_bootstrap.py",
+      "size": 4287,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_bundle.lock.json",
+      "size": 5446,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_corpus_autoevolve.py",
+      "size": 6767,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_corpus_clxy_gate.py",
+      "size": 11511,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "hsi_deploy.py",
-      "size": 19580,
+      "size": 21821,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4921,8 +5054,64 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "hsi_notes_domains.py",
+      "size": 7166,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_notes_review.lock.json",
+      "size": 2218,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_notes_review.py",
+      "size": 4510,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_notes_run.py",
+      "size": 2201,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_notes_runtime.lock.json",
+      "size": 1169,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_notes_service.py",
+      "size": 23698,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_notes_validate.py",
+      "size": 16070,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "hsi_open_corpus.py",
-      "size": 27094,
+      "size": 30146,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_render_policy.json",
+      "size": 106,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5012,6 +5201,20 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "hsi_xy_analytic_2k/server.py",
+      "size": 3422,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "hsi_xy_analytic_2k/test_runtime.py",
+      "size": 1650,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "hsi_xy_analytic_2k/test_system.py",
       "size": 7456,
       "mode": "program_identity_no_digest"
@@ -5042,6 +5245,76 @@
       "branch": "main",
       "path": "iqe2k.sh",
       "size": 1780,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "railway.toml",
+      "size": 299,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "requirements.txt",
+      "size": 58,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "tests/test_hsi_binance_orders.py",
+      "size": 7133,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "tests/test_hsi_bootstrap.py",
+      "size": 2294,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "tests/test_hsi_corpus_normalization.py",
+      "size": 1223,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "tests/test_hsi_notes_domains.py",
+      "size": 4670,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "tests/test_hsi_notes_review.py",
+      "size": 2621,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "tests/test_hsi_notes_service.py",
+      "size": 5338,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "tests/test_hsi_notes_validate.py",
+      "size": 5097,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "validation_snapshots/hsi_three_system_core.py",
+      "size": 5008,
       "mode": "program_identity_no_digest"
     },
     {
