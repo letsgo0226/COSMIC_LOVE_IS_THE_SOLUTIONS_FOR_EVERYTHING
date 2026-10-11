@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 163,
-  "program_count": 1451,
+  "program_count": 1487,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -224,7 +224,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1817
+      "size": 1852
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -511,7 +511,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 637
+      "size": 23254
     },
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
@@ -2647,7 +2647,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 313526,
+      "size": 320898,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2661,7 +2661,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1910,
+      "size": 1912,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4613,6 +4613,55 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": ".github/workflows/peace-speaker-preview.yml",
+      "size": 3606,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/peace-speech-continuous.yml",
+      "size": 3627,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/peace-speech.yml",
+      "size": 2009,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/trilogy_tm_corpus.yml",
+      "size": 1352,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/trilogy_tm_corpus_tests.yml",
+      "size": 1247,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/trilogy_writer.yml",
+      "size": 1713,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/trilogy_writer_tests.yml",
+      "size": 897,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "ANALYTIC_CONTINUATION_EQUATION_BILINGUAL_DERIVATION.txt",
       "size": 64343,
       "mode": "program_identity_no_digest"
@@ -4872,8 +4921,71 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "books/reading-trilogy/README.md",
+      "size": 2290,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/02_Hu_Mantra_如何閱讀自己/06_反例與限制/dossier.md",
+      "size": 4433,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/02_Hu_Mantra_如何閱讀自己/06_反例與限制/manifest.json",
+      "size": 6412,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/02_Hu_Mantra_如何閱讀自己/06_反例與限制/tm_trace.json",
+      "size": 6483,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/03_Love_如何閱讀生命/08_閱讀生命的實踐/dossier.md",
+      "size": 7475,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/03_Love_如何閱讀生命/08_閱讀生命的實踐/manifest.json",
+      "size": 13145,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/03_Love_如何閱讀生命/08_閱讀生命的實踐/tm_trace.json",
+      "size": 6511,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/README.md",
+      "size": 2360,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/state.json",
+      "size": 493,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "docs/HSI_NOTES_DEPLOYMENT.md",
-      "size": 5929,
+      "size": 7296,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4978,7 +5090,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "hsi_binance_orders.py",
-      "size": 11647,
+      "size": 15228,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5090,7 +5202,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "hsi_notes_service.py",
-      "size": 23698,
+      "size": 23741,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5250,6 +5362,62 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "peace_av/README.md",
+      "size": 2282,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "peace_av/SPEAKER_EXPERIMENT.md",
+      "size": 2997,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "peace_av/archive.py",
+      "size": 3659,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "peace_av/experimental_speaker.py",
+      "size": 6773,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "peace_av/long_speech.en.json",
+      "size": 17819,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "peace_av/render.py",
+      "size": 8951,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "peace_av/render_long.py",
+      "size": 16628,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "peace_av/speech.json",
+      "size": 4742,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "railway.toml",
       "size": 299,
       "mode": "program_identity_no_digest"
@@ -5265,7 +5433,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "tests/test_hsi_binance_orders.py",
-      "size": 7133,
+      "size": 11161,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5300,7 +5468,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "tests/test_hsi_notes_service.py",
-      "size": 5338,
+      "size": 6448,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5308,6 +5476,34 @@
       "branch": "main",
       "path": "tests/test_hsi_notes_validate.py",
       "size": 5097,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "tests/test_trilogy_tm_corpus.py",
+      "size": 3694,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "tests/test_trilogy_writer.py",
+      "size": 2778,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "trilogy_tm_corpus.py",
+      "size": 19080,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "trilogy_writer.py",
+      "size": 9764,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5343,6 +5539,62 @@
       "branch": "main",
       "path": "全息奇點通用圖靈機/HS_UTM_2K_oneline.sh",
       "size": 1715,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "影音/README.md",
+      "size": 3362,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "影音/index.json",
+      "size": 601,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "影音/runs/38131789251/correspondence.json",
+      "size": 21860,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "影音/runs/38131789251/manifest.json",
+      "size": 1372,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "影音/runs/38131789251/transcript.en.md",
+      "size": 14610,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "影音/runs/38134705567/correspondence.json",
+      "size": 21860,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "影音/runs/38134705567/manifest.json",
+      "size": 1372,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "影音/runs/38134705567/transcript.en.md",
+      "size": 14610,
       "mode": "program_identity_no_digest"
     },
     {
