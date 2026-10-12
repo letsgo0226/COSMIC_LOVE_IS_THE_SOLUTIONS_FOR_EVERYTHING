@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 163,
-  "program_count": 1487,
+  "program_count": 1498,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -224,7 +224,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1924
+      "size": 1960
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -511,7 +511,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 23516
+      "size": 23714
     },
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
@@ -4544,7 +4544,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": ".github/workflows/hsi-notes-review.yml",
-      "size": 2642,
+      "size": 2703,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4893,6 +4893,34 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "Notes/HSI_Sub2K_Program_Synthesizer/README.md",
+      "size": 2507,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/HSI_Sub2K_Program_Synthesizer/hsi_sub2k_synth.py",
+      "size": 14114,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/HSI_Sub2K_Program_Synthesizer/verification_certificate.json",
+      "size": 2099,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/HSI_Sub2K_Program_Synthesizer/verify_sub2k_synth.py",
+      "size": 4104,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "PRIME_FORMULA_BILINGUAL_DERIVATION.txt",
       "size": 24549,
       "mode": "program_identity_no_digest"
@@ -4923,6 +4951,48 @@
       "branch": "main",
       "path": "books/reading-trilogy/README.md",
       "size": 2290,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/01_Caduceus_如何閱讀一本書/03_笛卡兒與懷疑/dossier.md",
+      "size": 7586,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/01_Caduceus_如何閱讀一本書/03_笛卡兒與懷疑/manifest.json",
+      "size": 13398,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/01_Caduceus_如何閱讀一本書/03_笛卡兒與懷疑/tm_trace.json",
+      "size": 6517,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/01_Caduceus_如何閱讀一本書/06_反例與可接近性的界限/dossier.md",
+      "size": 8306,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/01_Caduceus_如何閱讀一本書/06_反例與可接近性的界限/manifest.json",
+      "size": 16544,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/01_Caduceus_如何閱讀一本書/06_反例與可接近性的界限/tm_trace.json",
+      "size": 6483,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4978,28 +5048,28 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "books/reading-trilogy/open-corpus/state.json",
-      "size": 493,
+      "size": 1204,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "docs/HSI_NOTES_DEPLOYMENT.md",
-      "size": 7296,
+      "size": 7617,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "docs/HSI_NOTES_FOUR_SYSTEM_REVIEW.md",
-      "size": 9846,
+      "size": 9991,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "docs/HSI_NOTES_LOCAL_VALIDATION_RESULT.md",
-      "size": 2689,
+      "size": 4660,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5104,7 +5174,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "hsi_bundle.lock.json",
-      "size": 5446,
+      "size": 6208,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5174,7 +5244,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "hsi_notes_review.lock.json",
-      "size": 2218,
+      "size": 2912,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5454,7 +5524,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "tests/test_hsi_notes_domains.py",
-      "size": 4670,
+      "size": 4798,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5481,8 +5551,15 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "tests/test_hsi_sub2k_synth.py",
+      "size": 3576,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "tests/test_trilogy_tm_corpus.py",
-      "size": 3694,
+      "size": 3976,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5496,7 +5573,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "trilogy_tm_corpus.py",
-      "size": 19080,
+      "size": 19225,
       "mode": "program_identity_no_digest"
     },
     {
