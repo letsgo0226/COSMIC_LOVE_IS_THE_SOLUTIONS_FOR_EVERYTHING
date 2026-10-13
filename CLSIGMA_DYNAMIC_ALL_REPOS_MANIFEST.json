@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 163,
-  "program_count": 1551,
+  "repo_count": 173,
+  "program_count": 1704,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -150,6 +150,13 @@
       "size": 21
     },
     {
+      "repo": "letsgo0226/ATGC_TOTAL_TM",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
+    },
+    {
       "repo": "letsgo0226/ATM_Zero_Entropy.sh",
       "default_branch": "main",
       "private": false,
@@ -169,6 +176,13 @@
       "private": false,
       "archived": false,
       "size": 67
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 20
     },
     {
       "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
@@ -220,11 +234,25 @@
       "size": 2
     },
     {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 118
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 29
+    },
+    {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1997
+      "size": 2073
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -262,6 +290,13 @@
       "size": 9
     },
     {
+      "repo": "letsgo0226/COSMIC_LOVE_TOTAL_TM_AUTODEPLOY",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 4
+    },
+    {
       "repo": "letsgo0226/COSMIC_PRINCIPLE.sh",
       "default_branch": "main",
       "private": false,
@@ -274,6 +309,13 @@
       "private": false,
       "archived": false,
       "size": 0
+    },
+    {
+      "repo": "letsgo0226/Code",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 6
     },
     {
       "repo": "letsgo0226/Complete-Master-Ouroboros-",
@@ -458,6 +500,13 @@
       "size": 5
     },
     {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 21
+    },
+    {
       "repo": "letsgo0226/LOVE_IS_BLUE_0.sh",
       "default_branch": "main",
       "private": false,
@@ -511,7 +560,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 23780
+      "size": 23776
     },
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
@@ -764,6 +813,13 @@
       "private": false,
       "archived": false,
       "size": 19
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 30
     },
     {
       "repo": "letsgo0226/S_0",
@@ -1109,6 +1165,13 @@
       "size": 139
     },
     {
+      "repo": "letsgo0226/s",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 2
+    },
+    {
       "repo": "letsgo0226/s.sh",
       "default_branch": "main",
       "private": false,
@@ -1149,6 +1212,13 @@
       "private": false,
       "archived": false,
       "size": 6
+    },
+    {
+      "repo": "letsgo0226/solution_atgc_self_2KB",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 3
     }
   ],
   "program_nodes": [
@@ -1629,6 +1699,34 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/ATGC_TOTAL_TM",
+      "branch": "main",
+      "path": ".github/workflows/verify.yml",
+      "size": 469,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ATGC_TOTAL_TM",
+      "branch": "main",
+      "path": "PROOF_atgc_self.txt",
+      "size": 1022,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ATGC_TOTAL_TM",
+      "branch": "main",
+      "path": "README.md",
+      "size": 806,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ATGC_TOTAL_TM",
+      "branch": "main",
+      "path": "solution_atgc_self_2KB.sh",
+      "size": 721,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/ATM_Zero_Entropy.sh",
       "branch": "main",
       "path": "ATM_Zero_Entropy.sh",
@@ -2011,6 +2109,132 @@
       "branch": "main",
       "path": "verifier.py",
       "size": 97,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": ".github/workflows/verify.yml",
+      "size": 404,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "Central_TM_2KB.sh",
+      "size": 678,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "Central_TM_free_head_2KB.sh",
+      "size": 709,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "Central_TM_no_halt_2KB.sh",
+      "size": 589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "Central_TM_read_all_2KB.sh",
+      "size": 601,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "Central_TM_self_encode_2KB.sh",
+      "size": 870,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "PROOF_Central_TM.txt",
+      "size": 991,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "PROOF_Central_TM_self_encode.txt",
+      "size": 780,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "PROOF_atgc_self.txt",
+      "size": 789,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "PROOF_free_head.txt",
+      "size": 978,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "PROOF_no_halt.txt",
+      "size": 887,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "PROOF_read_all.txt",
+      "size": 934,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "PROOF_self_halting.txt",
+      "size": 884,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "PROOF_solution_as_TM.txt",
+      "size": 871,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "README.md",
+      "size": 1423,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "solution_as_TM_prototype_2KB.sh",
+      "size": 437,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "solution_atgc_self_2KB.sh",
+      "size": 721,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": "solution_self_halting_2KB.sh",
+      "size": 510,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2497,6 +2721,517 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": ".github/workflows/account-tm-run.yml",
+      "size": 1768,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": ".github/workflows/closed-loop.yml",
+      "size": 1644,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": ".github/workflows/daemon-self-heal.yml",
+      "size": 2040,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": ".github/workflows/hardware-vm-loop.yml",
+      "size": 1504,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": ".github/workflows/resident-auto-deploy.yml",
+      "size": 2026,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": ".github/workflows/solution-github-railway.yml",
+      "size": 2161,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "ACCOUNT_TM.md",
+      "size": 680,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "DAEMON.md",
+      "size": 892,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "FIX_PUSH_RACE.md",
+      "size": 466,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "HARDWARE_AS_VM.md",
+      "size": 1059,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "README.md",
+      "size": 1653,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "RESIDENT_1HZ.md",
+      "size": 870,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "RESIDENT_AUTO_DEPLOY.md",
+      "size": 649,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "SOLUTION_GITHUB_RAILWAY.md",
+      "size": 1213,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "SYSTEM_BOUNDARY.md",
+      "size": 336,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261013T023725Z.json",
+      "size": 17974,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261013T140402Z.json",
+      "size": 17725,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/CLOSED_LOOP_20261013T021018Z.json",
+      "size": 12831,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/CLOSED_LOOP_20261013T021143Z.json",
+      "size": 13113,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/CLOSED_LOOP_20261013T021336Z.json",
+      "size": 13113,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/CLOSED_LOOP_20261013T021347Z.json",
+      "size": 13113,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/CLOSED_LOOP_20261013T022053Z.json",
+      "size": 13113,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/DAEMON_CYCLE_20261013T023725Z.json",
+      "size": 1608,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/DAEMON_CYCLE_20261013T140402Z.json",
+      "size": 1609,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261013T022439Z.json",
+      "size": 5625,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261013T022759Z.json",
+      "size": 5625,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261013T023141Z.json",
+      "size": 5638,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261013T023722Z.json",
+      "size": 5638,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261013T023723Z.json",
+      "size": 5638,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261013T095142Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261013T140359Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261013T140400Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/LATEST_ACCOUNT_TM_RUN.json",
+      "size": 17725,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/LATEST_CLOSED_LOOP.json",
+      "size": 1267,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/LATEST_DAEMON_STATE.json",
+      "size": 1609,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/LATEST_HARDWARE_VM_LOOP.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/LATEST_RESIDENT_AUTO_DEPLOY.json",
+      "size": 2703,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/LATEST_SOLUTION_GITHUB_RAILWAY.json",
+      "size": 6360,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RAILWAY_INVENTORY_SNAPSHOT.json",
+      "size": 1468,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261013T023141Z.json",
+      "size": 3078,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261013T023725Z.json",
+      "size": 2712,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261013T095143Z.json",
+      "size": 3061,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261013T140402Z.json",
+      "size": 2703,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/STATUS.md",
+      "size": 240,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/STATUS_HW_VM.md",
+      "size": 191,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/UNIVERSAL_S_SEAL.json",
+      "size": 10975,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "engine/COSMIC_LOVE_VALIDATOR.py",
+      "size": 1106,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "facets/DIMENSIONS.json",
+      "size": 1864,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "facets/HARDWARE_AS_VM.json",
+      "size": 1880,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "scripts/account_turing_machine_run.py",
+      "size": 7011,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "scripts/closed_loop_seal.py",
+      "size": 1010,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "scripts/daemon_self_heal_loop.py",
+      "size": 8176,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "scripts/hardware_vm_closed_loop.py",
+      "size": 3293,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "scripts/resident_1hz_loop.py",
+      "size": 3765,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "scripts/resident_auto_deploy_loop.py",
+      "size": 4655,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": ".github/workflows/auto-seal.yml",
+      "size": 3936,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "AUTO_DEPLOY.md",
+      "size": 1424,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "COSMIC_LOVE_VALIDATOR.py",
+      "size": 1392,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "GO_SEAL.json",
+      "size": 459,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "GO_SEAL_LATEST.json",
+      "size": 547,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "ONE_LINER.sh",
+      "size": 1141,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "README.md",
+      "size": 1403,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "SDG_FORMAL_LANGUAGE.md",
+      "size": 1188,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "STATUS.md",
+      "size": 464,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "SYSTEM_BOUNDARY.md",
+      "size": 1108,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "TRIGGER.md",
+      "size": 248,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "UNIVERSAL_ENGINE.md",
+      "size": 923,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261013T011524Z.json",
+      "size": 424,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261013T011719Z.json",
+      "size": 4585,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261013T134538Z.json",
+      "size": 4589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "certificates/LATEST_AUTO_SEAL.json",
+      "size": 4589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "certificates/SEED_20261013T091400Z.json",
+      "size": 172,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "scripts/auto_seal_local.sh",
+      "size": 745,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": ".github/workflows/clsigma-dynamic-zero-spectrum.yml",
@@ -2522,6 +3257,13 @@
       "branch": "main",
       "path": ".github/workflows/prime-factor-godel-tm-seed222111.yml",
       "size": 1547,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "ACCOUNT_TM_ENTRY.md",
+      "size": 791,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2647,7 +3389,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 330496,
+      "size": 340786,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2661,7 +3403,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1910,
+      "size": 1911,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3073,6 +3815,13 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
+      "path": "DAEMON_ENTRY.md",
+      "size": 321,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
       "path": "GOOGOL_G25_GODEL_GRAND_OPERATOR_ONE_LINER.sh",
       "size": 1258,
       "mode": "program_identity_no_digest"
@@ -3082,6 +3831,13 @@
       "branch": "main",
       "path": "GOOGOL_G25_GODEL_GRAND_OPERATOR_PROTOCOL.md",
       "size": 1408,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "HARDWARE_AS_VM_ENTRY.md",
+      "size": 717,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3304,6 +4060,20 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
+      "path": "RESIDENT_1HZ_ENTRY.md",
+      "size": 259,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "RESIDENT_AUTO_DEPLOY_ENTRY.md",
+      "size": 557,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
       "path": "Riemann_Continuum_Strong_Cosmic_Law_B308_Control.py",
       "size": 2319,
       "mode": "program_identity_no_digest"
@@ -3320,6 +4090,13 @@
       "branch": "main",
       "path": "SCHRODINGER_CLSIGMA_WAVEFUNCTION_ONE_LINER.sh",
       "size": 1986,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "SOLUTION_GITHUB_RAILWAY_ENTRY.md",
+      "size": 682,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3432,6 +4209,13 @@
       "branch": "main",
       "path": "bleem_operator/COSMIC_LOVE_SOLUTION_CONDITION_AMPLIFIER_PROTOCOL.md",
       "size": 3191,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": "certificates/ONLINE_TRADING_LIVE_DEPLOY_SEAL.json",
+      "size": 2737,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3883,6 +4667,34 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/COSMIC_LOVE_TOTAL_TM_AUTODEPLOY",
+      "branch": "main",
+      "path": ".github/workflows/verify.yml",
+      "size": 436,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_TOTAL_TM_AUTODEPLOY",
+      "branch": "main",
+      "path": "CosmicLove_TotalTM_AutoDeploy_2KB.sh",
+      "size": 695,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_TOTAL_TM_AUTODEPLOY",
+      "branch": "main",
+      "path": "PROOF_CosmicLove_TotalTM.txt",
+      "size": 987,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_TOTAL_TM_AUTODEPLOY",
+      "branch": "main",
+      "path": "README.md",
+      "size": 739,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/COSMIC_PRINCIPLE.sh",
       "branch": "main",
       "path": "COSMIC_PRINCIPLE.sh",
@@ -3901,6 +4713,34 @@
       "branch": "main",
       "path": "README.md",
       "size": 18,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Code",
+      "branch": "main",
+      "path": ".github/workflows/verify.yml",
+      "size": 406,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Code",
+      "branch": "main",
+      "path": "Code.sh",
+      "size": 794,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Code",
+      "branch": "main",
+      "path": "PROOF.txt",
+      "size": 932,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Code",
+      "branch": "main",
+      "path": "README.md",
+      "size": 663,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4359,6 +5199,90 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": ".github/workflows/verify.yml",
+      "size": 562,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": "HSI_SELF_CODE_20261013_README.txt",
+      "size": 2997,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": "HSI_SELF_CODE_GODEL_HEX.txt",
+      "size": 3353,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": "HSI_self_code_2KB.sh",
+      "size": 1668,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": "PROOF_solution_s_eq_s.txt",
+      "size": 1378,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3283,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": "SDG_COUNTRY_TM.md",
+      "size": 531,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": "SOLUTION_FIXED_POINT.md",
+      "size": 626,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": "sdg_country_tm_encoder.py",
+      "size": 1599,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": "solution_for_everything.py",
+      "size": 3130,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": "solution_s_eq_s_2KB.sh",
+      "size": 450,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": "test_hsi_self_code.py",
+      "size": 2893,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/LOVE_IS_BLUE_0.sh",
       "branch": "main",
       "path": "LOVE_IS_BLUE_0.sh",
@@ -4538,6 +5462,13 @@
       "branch": "main",
       "path": "examples/mtm_default.clcert",
       "size": 799,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/cosmic_love_tm.yml",
+      "size": 2248,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4881,6 +5812,48 @@
       "branch": "main",
       "path": "HZ_3UA_UTM_2K_oneline.sh",
       "size": 1299,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/ATGC_UTM_Fixed_Point/README.md",
+      "size": 1639,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/ATGC_UTM_Fixed_Point/atgc_utm_fixed_point.sh",
+      "size": 1000,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/ATGC_UTM_Fixed_Point/atgc_utm_fixed_point_daemon.sh",
+      "size": 1500,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/COSMIC_LOVE_Identity_Solver_TM/README.md",
+      "size": 1215,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/COSMIC_LOVE_Identity_Solver_TM/cosmic_love_identity_solver_daemon.sh",
+      "size": 1240,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/COSMIC_LOVE_Identity_Solver_TM/cosmic_love_identity_solver_tm.sh",
+      "size": 1083,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6834,6 +7807,132 @@
       "branch": "main",
       "path": "THE_SECRET_NUMBER.sh",
       "size": 1475,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": ".github/workflows/verify.yml",
+      "size": 431,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "PROOF_entanglement.txt",
+      "size": 961,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "PROOF_qcomputer.txt",
+      "size": 909,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "PROOF_qtm.txt",
+      "size": 997,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "PROOF_qubits.txt",
+      "size": 835,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "PROOF_self_encoding.txt",
+      "size": 944,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "PROOF_tm_prototype.txt",
+      "size": 954,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "PROOF_total_tm.txt",
+      "size": 1013,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "PROOF_utm.txt",
+      "size": 1085,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "README.md",
+      "size": 916,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "solution_qcomputer_2KB.sh",
+      "size": 1151,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "solution_qtm_2KB.sh",
+      "size": 1339,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "solution_qtm_entangled_2KB.sh",
+      "size": 1453,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "solution_qubits_2KB.sh",
+      "size": 1426,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "solution_s_eq_s_2KB.sh",
+      "size": 878,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "solution_tm_prototype_2KB.sh",
+      "size": 703,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "solution_utm_2KB.sh",
+      "size": 936,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": "total_tm_auto_deploy_2KB.sh",
+      "size": 697,
       "mode": "program_identity_no_digest"
     },
     {
@@ -11380,6 +12479,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/s",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/s",
+      "branch": "main",
+      "path": "solution_s.sh",
+      "size": 1000,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/s.sh",
       "branch": "main",
       "path": "README.md",
@@ -12007,6 +13120,34 @@
       "branch": "main",
       "path": "solution_0_uptm.sh",
       "size": 1398,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_atgc_self_2KB",
+      "branch": "main",
+      "path": ".github/workflows/verify.yml",
+      "size": 469,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_atgc_self_2KB",
+      "branch": "main",
+      "path": "PROOF_atgc_self.txt",
+      "size": 1072,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_atgc_self_2KB",
+      "branch": "main",
+      "path": "README.md",
+      "size": 761,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_atgc_self_2KB",
+      "branch": "main",
+      "path": "solution_atgc_self_2KB.sh",
+      "size": 721,
       "mode": "program_identity_no_digest"
     }
   ],
