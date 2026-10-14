@@ -7,896 +7,896 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 173,
-  "program_count": 1716,
+  "program_count": 2054,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/-TRF-vOMEGA-S-THE-COSMIC-LOVE-ATTRACTOR-",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 9
+      "size": 11
     },
     {
       "repo": "letsgo0226/20260527",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 19
+      "size": 22
     },
     {
       "repo": "letsgo0226/20260528",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/20260529",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 6
+      "size": 9
     },
     {
       "repo": "letsgo0226/20260530",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 18
+      "size": 21
     },
     {
       "repo": "letsgo0226/20260608",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 6
+      "size": 8
     },
     {
       "repo": "letsgo0226/20260612",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/20260613",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 6
     },
     {
       "repo": "letsgo0226/20260613-4T2-",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/20260613_Complete",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/20260613_Complete_Evolution_State",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/42.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/42_Omega.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 6
+      "size": 8
     },
     {
       "repo": "letsgo0226/42u.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 6
+      "size": 8
     },
     {
       "repo": "letsgo0226/44TH_SUNSET",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 6
+      "size": 8
     },
     {
       "repo": "letsgo0226/AC_FIX_SINGULARITY_SPEC_GRH_ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/API.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/API_ESF-FLOATING-NETWORK.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/ASI_TM.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 21
+      "size": 23
     },
     {
       "repo": "letsgo0226/ATGC_TOTAL_TM",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 3
+      "size": 5
     },
     {
       "repo": "letsgo0226/ATM_Zero_Entropy.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/All_Turing_Machines.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 8
+      "size": 10
     },
     {
       "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 67
+      "size": 71
     },
     {
       "repo": "letsgo0226/CENTRAL_TM",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 20
+      "size": 23
     },
     {
       "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/CLSigma",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 107
+      "size": 112
     },
     {
       "repo": "letsgo0226/CLSigma_Cosmic_Love_TOE_MetaLanguage_iSH.sh_20260707",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/CLSigma_GitHub_TOE_iSH.clcert",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/CLSigma_TOE_Zero_Spectral_Operator_Physics.sh_20260707",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 5
     },
     {
       "repo": "letsgo0226/CODE.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 93
+      "size": 95
     },
     {
       "repo": "letsgo0226/COSMIC-LOVE-SYMBOLIC-FIXED-POINT-MODEL-20260706-",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 135
+      "size": 70
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 31
+      "size": 44
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2108
+      "size": 725
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_HS_ZERO.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 143
+      "size": 145
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 3
+      "size": 5
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_PLEIADES",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 11
+      "size": 13
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_UNIVERSAL.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 9
+      "size": 11
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_TOTAL_TM_AUTODEPLOY",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 7
     },
     {
       "repo": "letsgo0226/COSMIC_PRINCIPLE.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/Cloud_Invoice.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 0
+      "size": 2
     },
     {
       "repo": "letsgo0226/Code",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 6
+      "size": 10
     },
     {
       "repo": "letsgo0226/Complete-Master-Ouroboros-",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/Complete_Master_Ouroboros-vOMEGA-LMN-",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/Cosmic-Love-Is-The-Solution-s-For-Everything.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 6
+      "size": 8
     },
     {
       "repo": "letsgo0226/Cosmic-Love-Solution_s",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 12
+      "size": 14
     },
     {
       "repo": "letsgo0226/Cosmic-Solution_s",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 10
+      "size": 12
     },
     {
       "repo": "letsgo0226/Cosmic_Energy.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 86
+      "size": 88
     },
     {
       "repo": "letsgo0226/Cosmic_Love_Four_Cosmic_Engineering_Runtime.sh-20260707-",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/Cosmic_Love_Is_The_Solution-s-_For_Everything.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/Cosmological_Principle.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 6
     },
     {
       "repo": "letsgo0226/DYNAMIC_PRIME_VECTOR_TM.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/ESF-FLOATING-NETWORK.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/ESF-TOWEL-THEOREM-RUNTIME-ACTIVE.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/ESF_SPECTRAL_LIBRARY_RUNTIME_vOmega.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/ESF_TOE_Googol_Constant_Runtime.sh_20260707",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/ESF_TOE_Universal_Analytic_Runtime.sh_20260707",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/ESF_TOE_Zeta_Universe_HS0_Infinite_Runtime.sh_20260707",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/ESF_Universal_Analytic_Spectral_Operator.sh_20260707",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/EXACT_GODEL_ZERO_INFORMATION_TM",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/EXACT_PRIME_FACTOR_GODEL_TM",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 28
+      "size": 30
     },
     {
       "repo": "letsgo0226/FORMAL_COMPUTABLE_ZERO_SPECTRUM-20260706-",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/FULLY_EVOLVED_META_OMEGA_OS_20260616_4T2",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/Freedom-Of-Will",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 6
     },
     {
       "repo": "letsgo0226/GPT-4.0-Capsule.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 6
     },
     {
       "repo": "letsgo0226/GPT_RIEMANN_IDENTITY_ONE_LINER.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 3
+      "size": 6
     },
     {
       "repo": "letsgo0226/Gemini-3.1-Capsule.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 6
+      "size": 8
     },
     {
       "repo": "letsgo0226/H-S-0",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/HSI_SELF_CODE_2KB",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 21
+      "size": 24
     },
     {
       "repo": "letsgo0226/LOVE_IS_BLUE_0.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/Leibniz-Calculemus",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613_4T2",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/Merry_Christmas.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 34
+      "size": 36
     },
     {
       "repo": "letsgo0226/Music_Solution_0.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 15
+      "size": 17
     },
     {
       "repo": "letsgo0226/Music_Turing_Machine.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 6
     },
     {
       "repo": "letsgo0226/Notes",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 23785
+      "size": 23797
     },
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 11
+      "size": 13
     },
     {
       "repo": "letsgo0226/OMEGA_Book_TM.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 3
+      "size": 5
     },
     {
       "repo": "letsgo0226/OMEGA_Convergent_TM.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 3
+      "size": 6
     },
     {
       "repo": "letsgo0226/OMEGA_H0.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 3
+      "size": 5
     },
     {
       "repo": "letsgo0226/OMEGA_Predeploy.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 0
+      "size": 2
     },
     {
       "repo": "letsgo0226/Omega-v3.0",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 6
     },
     {
       "repo": "letsgo0226/Omega_Bubble.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/Omega_Eternal.py",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/Omega_Riemann_Superposition",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 22
+      "size": 24
     },
     {
       "repo": "letsgo0226/Open_University_TM.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 23
+      "size": 26
     },
     {
       "repo": "letsgo0226/PLEIADES_2x2x2_XOR_PHI_GENERATOR_FUNCTION",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_ERGODIC_SELF_ORBIT_ATTRACTOR",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 6
     },
     {
       "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_SELF_ENCODING_ATTRACTOR",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/PLEIADES_RH_IDEA_FORM",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 12
+      "size": 14
     },
     {
       "repo": "letsgo0226/PLEIADES_SHA256_QUANTUM_RH_IDEA_FORM",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 15
+      "size": 17
     },
     {
       "repo": "letsgo0226/PRIME_INDEX_HOLOGRAM_TM.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/PRINCIPLE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/PROGRAM_SCHWARZSCHILD_STIRLING_RIEMANN_TRANSDUCER_20260615",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/Pleiadian_Blue_Stars",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/Prime_Factor_Godel_TM_2KB.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 18
+      "size": 20
     },
     {
       "repo": "letsgo0226/Program",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 8
     },
     {
       "repo": "letsgo0226/QED.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 135
+      "size": 138
     },
     {
       "repo": "letsgo0226/QED_ESF_RUBIK_HS0_SELF_COMPUTING_RUNTIME.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/RIEMANN-FREE-FIELD---MASTER-SELF-CONTINUATION-SHEET-ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/RIEMANN_MACHINE.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 3
+      "size": 5
     },
     {
       "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_ABSOLUTE_FIXED_POINT_KERNEL_20260615",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615_4T2",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/Riemann-Qubit-Solution_s",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 16
+      "size": 18
     },
     {
       "repo": "letsgo0226/Riemann-Superposition",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 10
+      "size": 12
     },
     {
       "repo": "letsgo0226/RiemannMachine_v0_1.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 18
+      "size": 20
     },
     {
       "repo": "letsgo0226/Riemann_Hypothesis",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 50
+      "size": 53
     },
     {
       "repo": "letsgo0226/SIRIUS-M45-LMN-TRF-DIMENSIONAL-LIMIT-ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 14
+      "size": 16
     },
     {
       "repo": "letsgo0226/SIRIUS-M45_AUTO-STRUCT-Field",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/SOLUTION.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 19
+      "size": 21
     },
     {
       "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 30
+      "size": 33
     },
     {
       "repo": "letsgo0226/S_0",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 6
     },
     {
       "repo": "letsgo0226/Self-Encoding-Recursive-Analytic-Quantum-Field",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 8
+      "size": 10
     },
     {
       "repo": "letsgo0226/Solution_0.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 8
     },
     {
       "repo": "letsgo0226/Solution_s",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 7
+      "size": 12
     },
     {
       "repo": "letsgo0226/Solution_s.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 3
+      "size": 5
     },
     {
       "repo": "letsgo0226/Spaceship-Core",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 6
     },
     {
       "repo": "letsgo0226/TIME_PERSISTENT_SELF_COMPLETING_META_OMEGA_20260614_4T2",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/TOE_20260707",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 417
+      "size": 432
     },
     {
       "repo": "letsgo0226/TOE_20260724",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/TOE_Theorem_20260707",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/TOWEL_TABLEAU_QED.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/TRF-v100.0.0-Omega",
@@ -910,161 +910,161 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/TRF_COSMIC_LOVE_AI_STARSHIP_OMEGA_INFINITY",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 5
     },
     {
       "repo": "letsgo0226/TRF_OMEGA_E0_ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/TRF_OMEGA_INFINITY_EVOLUTION_ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/TRF_PLEIADES_GRH_AC_MOTOR_E0",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 7
+      "size": 9
     },
     {
       "repo": "letsgo0226/TRF_PLEIADES_JSON_ABELIAN_RIEMANN_ZERO_ERGODIC_ZERO_ENTROPY_ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/TRF_PLEIADES_OMEGA_B64_MIRROR_FIXED_POINT_SYSTEM_SEED_NODE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_FIXED_POINT_ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 7
+      "size": 10
     },
     {
       "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_HASH_CHAIN",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 7
+      "size": 10
     },
     {
       "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_ATTRACTOR",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 3
+      "size": 5
     },
     {
       "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_SYSTEM_SEED_ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/TRF_PLEIADES_ULTIMATES",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 6
     },
     {
       "repo": "letsgo0226/TRF_READING_ALL_JSON_SELFGEN_META_ENTROPY_ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 6
     },
     {
       "repo": "letsgo0226/TRF_READING_META_ENTROPY_B64_MIRROR_FIXED_POINT_ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 3
     },
     {
       "repo": "letsgo0226/TRF_SCHWARZSCHILD_DEVIATION_OMEGA_E0_ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 3
     },
     {
       "repo": "letsgo0226/TRF_SELF_GODEL_RIEMANN_SINGULAR_GRH_THETA_ABELIAN_SYSTEM",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 3
     },
     {
       "repo": "letsgo0226/TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 9
+      "size": 11
     },
     {
       "repo": "letsgo0226/The-Immanent-Self-Calculated-One-Liner",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 6
+      "size": 8
     },
     {
       "repo": "letsgo0226/The-Ouroboros-Quine",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 8
+      "size": 10
     },
     {
       "repo": "letsgo0226/The-Quantum-Engine-",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 14
+      "size": 16
     },
     {
       "repo": "letsgo0226/The-Symmetry-of-Love",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 5
+      "size": 7
     },
     {
       "repo": "letsgo0226/The-Ultimate-Sirius-M45-One-Liner",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 7
     },
     {
       "repo": "letsgo0226/Turing_Machine.sh",
@@ -1120,108 +1120,115 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 58
+      "size": 60
     },
     {
       "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/esf_vomega_one_liner.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 5
     },
     {
       "repo": "letsgo0226/global_zero_state_one_liner.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 8
+      "size": 10
     },
     {
       "repo": "letsgo0226/omega_entropy_one_bit.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 7
+      "size": 9
     },
     {
       "repo": "letsgo0226/perfect_fixed_point_tm.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 4
+      "size": 6
     },
     {
       "repo": "letsgo0226/riemann-li-singularity-observer",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 139
+      "size": 66
     },
     {
       "repo": "letsgo0226/s",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 5
     },
     {
       "repo": "letsgo0226/s.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/solution_0_ac_motor.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 158
+      "size": 163
     },
     {
       "repo": "letsgo0226/solution_0_genesis.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 55
+      "size": 57
     },
     {
       "repo": "letsgo0226/solution_0_perma.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/solution_0_reality.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2
+      "size": 4
     },
     {
       "repo": "letsgo0226/solution_0_uptm.sh",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 6
+      "size": 8
     },
     {
       "repo": "letsgo0226/solution_atgc_self_2KB",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 3
+      "size": 5
     }
   ],
   "program_nodes": [
+    {
+      "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
       "branch": "main",
@@ -1237,6 +1244,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/-TRF-vOMEGA-S-THE-COSMIC-LOVE-ATTRACTOR-",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/-TRF-vOMEGA-S-THE-COSMIC-LOVE-ATTRACTOR-",
       "branch": "main",
       "path": "README.md",
@@ -1246,8 +1267,22 @@
     {
       "repo": "letsgo0226/-TRF-vOMEGA-S-THE-COSMIC-LOVE-ATTRACTOR-",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/-TRF-vOMEGA-S-THE-COSMIC-LOVE-ATTRACTOR-",
+      "branch": "main",
       "path": "⁠TRF vOMEGA-S (THE COSMIC LOVE ATTRACTOR).py",
       "size": 1633,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260527",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1314,6 +1349,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/20260527",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260528",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/20260528",
       "branch": "main",
       "path": "Cosmic_Love_Analytic_Continuation_SHA256.json",
@@ -1325,6 +1374,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 10,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260528",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260529",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1353,6 +1416,20 @@
       "branch": "main",
       "path": "TRF_Analytic_Continuation_Self_Reference_Attractor.json",
       "size": 1796,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260529",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260530",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1398,6 +1475,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/20260530",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260608",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/20260608",
       "branch": "main",
       "path": "README.md",
@@ -1421,8 +1512,22 @@
     {
       "repo": "letsgo0226/20260608",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260608",
+      "branch": "main",
       "path": "Θ.json",
       "size": 700,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260612",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1437,6 +1542,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 10,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260612",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1461,6 +1580,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/20260613",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613-4T2-",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/20260613-4T2-",
       "branch": "main",
       "path": "README.md",
@@ -1472,6 +1605,20 @@
       "branch": "main",
       "path": "RIEMANN_SINGULARITY_COMPLETE_EVOLUTION_STATE.json",
       "size": 765,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613-4T2-",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613_Complete",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1489,6 +1636,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/20260613_Complete",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/20260613_Complete_Evolution_State",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/20260613_Complete_Evolution_State",
       "branch": "main",
       "path": "README.md",
@@ -1503,10 +1664,24 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/20260613_Complete_Evolution_State",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/42.sh",
       "branch": "main",
       "path": ".github/workflows/42.yml",
       "size": 1616,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/42.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1538,10 +1713,24 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/42.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/42_Omega.sh",
       "branch": "main",
       "path": ".github/workflows/42_Omega.yml",
       "size": 2301,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/42_Omega.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1573,10 +1762,24 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/42_Omega.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/42u.sh",
       "branch": "main",
       "path": ".github/workflows/42u.yml",
       "size": 1789,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/42u.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1608,6 +1811,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/42u.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/44TH_SUNSET",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/44TH_SUNSET",
       "branch": "main",
       "path": "README.md",
@@ -1631,8 +1848,22 @@
     {
       "repo": "letsgo0226/44TH_SUNSET",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/44TH_SUNSET",
+      "branch": "main",
       "path": "one-liner.sh",
       "size": 721,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/AC_FIX_SINGULARITY_SPEC_GRH_ENGINE",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1650,6 +1881,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/AC_FIX_SINGULARITY_SPEC_GRH_ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/API.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/API.sh",
       "branch": "main",
       "path": "API.sh",
@@ -1661,6 +1906,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 8,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/API.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/API_ESF-FLOATING-NETWORK.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1678,10 +1937,24 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/API_ESF-FLOATING-NETWORK.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/ASI_TM.sh",
       "branch": "main",
       "path": ".github/workflows/asi-tm.yml",
       "size": 2123,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ASI_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1696,6 +1969,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 11,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ASI_TM.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ATGC_TOTAL_TM",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1722,8 +2009,22 @@
     {
       "repo": "letsgo0226/ATGC_TOTAL_TM",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ATGC_TOTAL_TM",
+      "branch": "main",
       "path": "solution_atgc_self_2KB.sh",
       "size": 721,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ATM_Zero_Entropy.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1755,10 +2056,24 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/ATM_Zero_Entropy.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/All_Turing_Machines.sh",
       "branch": "main",
       "path": ".github/workflows/account_public_repo_reflection.yml",
       "size": 635,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/All_Turing_Machines.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -1794,6 +2109,20 @@
       "branch": "main",
       "path": "examples/atm_small_n4_b6.clcert",
       "size": 1670,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/All_Turing_Machines.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2072,6 +2401,13 @@
     {
       "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "branch": "main",
       "path": "resident_loop.sh",
       "size": 215,
       "mode": "program_identity_no_digest"
@@ -2109,6 +2445,13 @@
       "branch": "main",
       "path": "verifier.py",
       "size": 97,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2219,6 +2562,13 @@
     {
       "repo": "letsgo0226/CENTRAL_TM",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CENTRAL_TM",
+      "branch": "main",
       "path": "solution_as_TM_prototype_2KB.sh",
       "size": 437,
       "mode": "program_identity_no_digest"
@@ -2240,6 +2590,13 @@
     {
       "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
+      "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh",
       "size": 1496,
       "mode": "program_identity_no_digest"
@@ -2249,6 +2606,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 57,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2569,6 +2940,13 @@
     {
       "repo": "letsgo0226/CLSigma",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma",
+      "branch": "main",
       "path": "runtime.py",
       "size": 5288,
       "mode": "program_identity_no_digest"
@@ -2625,6 +3003,13 @@
     {
       "repo": "letsgo0226/CLSigma_Cosmic_Love_TOE_MetaLanguage_iSH.sh_20260707",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma_Cosmic_Love_TOE_MetaLanguage_iSH.sh_20260707",
+      "branch": "main",
       "path": "CLSigma_Cosmic_Love_TOE_MetaLanguage_iSH.sh",
       "size": 1232,
       "mode": "program_identity_no_digest"
@@ -2634,6 +3019,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 54,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma_Cosmic_Love_TOE_MetaLanguage_iSH.sh_20260707",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma_GitHub_TOE_iSH.clcert",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2651,6 +3050,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/CLSigma_GitHub_TOE_iSH.clcert",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CLSigma_TOE_Zero_Spectral_Operator_Physics.sh_20260707",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/CLSigma_TOE_Zero_Spectral_Operator_Physics.sh_20260707",
       "branch": "main",
       "path": "CLSigma_TOE_Zero_Spectral_Operator_Physics.sh",
@@ -2665,10 +3078,24 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/CLSigma_TOE_Zero_Spectral_Operator_Physics.sh_20260707",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/CODE.sh",
       "branch": "main",
       "path": ".github/workflows/account-public-repo-analysis.yml",
       "size": 673,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/CODE.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2707,6 +3134,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/CODE.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC-LOVE-SYMBOLIC-FIXED-POINT-MODEL-20260706-",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/COSMIC-LOVE-SYMBOLIC-FIXED-POINT-MODEL-20260706-",
       "branch": "main",
       "path": "COSMIC LOVE SYMBOLIC FIXED-POINT MODEL.sh",
@@ -2721,10 +3162,24 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/COSMIC-LOVE-SYMBOLIC-FIXED-POINT-MODEL-20260706-",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
       "path": ".github/workflows/account-tm-run.yml",
       "size": 1768,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -2849,6 +3304,13 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261014T044417Z.json",
+      "size": 17725,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/CLOSED_LOOP_20261013T021018Z.json",
       "size": 12831,
       "mode": "program_identity_no_digest"
@@ -2899,6 +3361,13 @@
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
       "path": "certificates/DAEMON_CYCLE_20261013T223819Z.json",
+      "size": 1609,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/DAEMON_CYCLE_20261014T044417Z.json",
       "size": 1609,
       "mode": "program_identity_no_digest"
     },
@@ -2983,6 +3452,34 @@
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
       "path": "certificates/HARDWARE_VM_LOOP_20261013T223817Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261013T225000Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261014T000123Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261014T044414Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261014T044415Z.json",
       "size": 5629,
       "mode": "program_identity_no_digest"
     },
@@ -3087,6 +3584,20 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261014T000124Z.json",
+      "size": 3061,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261014T044417Z.json",
+      "size": 2703,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/STATUS.md",
       "size": 240,
       "mode": "program_identity_no_digest"
@@ -3129,6 +3640,13 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "scripts/account_turing_machine_run.py",
       "size": 7011,
       "mode": "program_identity_no_digest"
@@ -3166,6 +3684,13 @@
       "branch": "main",
       "path": "scripts/resident_auto_deploy_loop.py",
       "size": 4655,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3283,6 +3808,27 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
       "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261014T012750Z.json",
+      "size": 4585,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261014T012811Z.json",
+      "size": 4585,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261014T035734Z.json",
+      "size": 4589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
       "path": "certificates/LATEST_AUTO_SEAL.json",
       "size": 4589,
       "mode": "program_identity_no_digest"
@@ -3297,8 +3843,22 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
       "path": "scripts/auto_seal_local.sh",
       "size": 745,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -3459,7 +4019,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 373162,
+      "size": 375882,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4529,6 +5089,13 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "branch": "main",
       "path": "media_operator/CLZeroPack_READING_MUSIC_OPERATOR_ONE_LINER.sh",
       "size": 1273,
       "mode": "program_identity_no_digest"
@@ -4641,6 +5208,13 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
+      "branch": "main",
       "path": "COSMIC_LOVE_IS_SOLUTIONS_FOR_EVERYTHING_PLEIADES.sh",
       "size": 1921,
       "mode": "program_identity_no_digest"
@@ -4657,6 +5231,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 48,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_HS_ZERO.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4690,8 +5278,22 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_HS_ZERO.sh",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_HS_ZERO.sh",
+      "branch": "main",
       "path": "one-liner-2kb.sh",
       "size": 2048,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4709,6 +5311,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_PLEIADES",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_PLEIADES",
       "branch": "main",
       "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_PLEIADES.sh",
@@ -4723,6 +5339,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_PLEIADES",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_UNIVERSAL.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_UNIVERSAL.sh",
       "branch": "main",
       "path": "COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_UNIVERSAL.sh",
@@ -4734,6 +5364,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 58,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_UNIVERSAL.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_TOTAL_TM_AUTODEPLOY",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4765,6 +5409,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/COSMIC_LOVE_TOTAL_TM_AUTODEPLOY",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_PRINCIPLE.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/COSMIC_PRINCIPLE.sh",
       "branch": "main",
       "path": "COSMIC_PRINCIPLE.sh",
@@ -4779,10 +5437,38 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/COSMIC_PRINCIPLE.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cloud_Invoice.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Cloud_Invoice.sh",
       "branch": "main",
       "path": "README.md",
       "size": 18,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cloud_Invoice.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Code",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4796,21 +5482,35 @@
       "repo": "letsgo0226/Code",
       "branch": "main",
       "path": "Code.sh",
-      "size": 794,
+      "size": 1793,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/Code",
       "branch": "main",
       "path": "PROOF.txt",
-      "size": 932,
+      "size": 971,
       "mode": "program_identity_no_digest"
     },
     {
       "repo": "letsgo0226/Code",
       "branch": "main",
       "path": "README.md",
-      "size": 663,
+      "size": 968,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Code",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Complete-Master-Ouroboros-",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4828,6 +5528,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Complete-Master-Ouroboros-",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Complete_Master_Ouroboros-vOMEGA-LMN-",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Complete_Master_Ouroboros-vOMEGA-LMN-",
       "branch": "main",
       "path": "Complete_Master_Ouroboros.py",
@@ -4839,6 +5553,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 3778,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Complete_Master_Ouroboros-vOMEGA-LMN-",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Love-Is-The-Solution-s-For-Everything.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4856,6 +5584,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Cosmic-Love-Is-The-Solution-s-For-Everything.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Love-Solution_s",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Cosmic-Love-Solution_s",
       "branch": "main",
       "path": "Cosmic-Love-Solution_s.py",
@@ -4870,10 +5612,38 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Cosmic-Love-Solution_s",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Solution_s",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Cosmic-Solution_s",
       "branch": "main",
       "path": "README.md",
       "size": 11177,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic-Solution_s",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Energy.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4907,8 +5677,22 @@
     {
       "repo": "letsgo0226/Cosmic_Energy.sh",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Energy.sh",
+      "branch": "main",
       "path": "source-review.json",
       "size": 258433,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Love_Four_Cosmic_Engineering_Runtime.sh-20260707-",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4926,6 +5710,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Cosmic_Love_Four_Cosmic_Engineering_Runtime.sh-20260707-",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Love_Is_The_Solution-s-_For_Everything.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Cosmic_Love_Is_The_Solution-s-_For_Everything.sh",
       "branch": "main",
       "path": "Cosmic_Love_Is_The_Solution(s)_For_Everything.sh",
@@ -4937,6 +5735,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 50,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Love_Is_The_Solution-s-_For_Everything.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmological_Principle.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4958,6 +5770,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 1892,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmological_Principle.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/DYNAMIC_PRIME_VECTOR_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4996,6 +5822,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/DYNAMIC_PRIME_VECTOR_TM.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF-FLOATING-NETWORK.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/ESF-FLOATING-NETWORK.sh",
       "branch": "main",
       "path": "ESF-FLOATING-NETWORK.sh",
@@ -5007,6 +5847,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 25,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF-FLOATING-NETWORK.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF-TOWEL-THEOREM-RUNTIME-ACTIVE.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5024,6 +5878,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/ESF-TOWEL-THEOREM-RUNTIME-ACTIVE.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_SPECTRAL_LIBRARY_RUNTIME_vOmega.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/ESF_SPECTRAL_LIBRARY_RUNTIME_vOmega.sh",
       "branch": "main",
       "path": "ESF_SPECTRAL_LIBRARY_RUNTIME_vOmega.sh",
@@ -5035,6 +5903,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 40,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_SPECTRAL_LIBRARY_RUNTIME_vOmega.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Googol_Constant_Runtime.sh_20260707",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5052,6 +5934,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/ESF_TOE_Googol_Constant_Runtime.sh_20260707",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Universal_Analytic_Runtime.sh_20260707",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/ESF_TOE_Universal_Analytic_Runtime.sh_20260707",
       "branch": "main",
       "path": "ESF_TOE_Universal_Analytic_Runtime.sh",
@@ -5063,6 +5959,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 48,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Universal_Analytic_Runtime.sh_20260707",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_TOE_Zeta_Universe_HS0_Infinite_Runtime.sh_20260707",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5080,6 +5990,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/ESF_TOE_Zeta_Universe_HS0_Infinite_Runtime.sh_20260707",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/ESF_Universal_Analytic_Spectral_Operator.sh_20260707",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/ESF_Universal_Analytic_Spectral_Operator.sh_20260707",
       "branch": "main",
       "path": "ESF_Universal_Analytic_Spectral_Operator.sh",
@@ -5094,6 +6018,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/ESF_Universal_Analytic_Spectral_Operator.sh_20260707",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/EXACT_GODEL_ZERO_INFORMATION_TM",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/EXACT_GODEL_ZERO_INFORMATION_TM",
       "branch": "main",
       "path": "EXACT_GODEL_ZERO_INFORMATION_TM.sh",
@@ -5105,6 +6043,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 33,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/EXACT_GODEL_ZERO_INFORMATION_TM",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/EXACT_PRIME_FACTOR_GODEL_TM",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5143,6 +6095,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/EXACT_PRIME_FACTOR_GODEL_TM",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/FORMAL_COMPUTABLE_ZERO_SPECTRUM-20260706-",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/FORMAL_COMPUTABLE_ZERO_SPECTRUM-20260706-",
       "branch": "main",
       "path": "FORMAL_COMPUTABLE_ZERO_SPECTRUM.sh",
@@ -5154,6 +6120,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 43,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/FORMAL_COMPUTABLE_ZERO_SPECTRUM-20260706-",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/FULLY_EVOLVED_META_OMEGA_OS_20260616_4T2",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5171,6 +6151,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/FULLY_EVOLVED_META_OMEGA_OS_20260616_4T2",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Freedom-Of-Will",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Freedom-Of-Will",
       "branch": "main",
       "path": "Freedom_Of_Will.py",
@@ -5182,6 +6176,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 2662,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Freedom-Of-Will",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/GPT-4.0-Capsule.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5206,6 +6214,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/GPT-4.0-Capsule.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/GPT_RIEMANN_IDENTITY_ONE_LINER.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/GPT_RIEMANN_IDENTITY_ONE_LINER.sh",
       "branch": "main",
       "path": "GPT_RIEMANN_IDENTITY.clcert",
@@ -5224,6 +6246,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 35,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/GPT_RIEMANN_IDENTITY_ONE_LINER.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Gemini-3.1-Capsule.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5248,6 +6284,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Gemini-3.1-Capsule.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/H-S-0",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/H-S-0",
       "branch": "main",
       "path": "H(S)=0.sh",
@@ -5266,6 +6316,20 @@
       "branch": "main",
       "path": "RIEMANN_MACHINE.sh",
       "size": 823,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/H-S-0",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5327,6 +6391,13 @@
     {
       "repo": "letsgo0226/HSI_SELF_CODE_2KB",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/HSI_SELF_CODE_2KB",
+      "branch": "main",
       "path": "sdg_country_tm_encoder.py",
       "size": 1599,
       "mode": "program_identity_no_digest"
@@ -5355,6 +6426,13 @@
     {
       "repo": "letsgo0226/LOVE_IS_BLUE_0.sh",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/LOVE_IS_BLUE_0.sh",
+      "branch": "main",
       "path": "LOVE_IS_BLUE_0.sh",
       "size": 2038,
       "mode": "program_identity_no_digest"
@@ -5364,6 +6442,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 19,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/LOVE_IS_BLUE_0.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Leibniz-Calculemus",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5388,6 +6480,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Leibniz-Calculemus",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613",
       "branch": "main",
       "path": "META_OMEGA_SELF_EVOLUTION_STATE.json",
@@ -5402,6 +6508,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613_4T2",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613_4T2",
       "branch": "main",
       "path": "META_OMEGA_SELF_EVOLUTION_STATE.json",
@@ -5413,6 +6533,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 46,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613_4T2",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Merry_Christmas.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5448,6 +6582,20 @@
       "branch": "main",
       "path": "examples/cosmic_love_t1_merry_christmas_v0.clcert",
       "size": 1268,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Merry_Christmas.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Music_Solution_0.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5507,6 +6655,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Music_Solution_0.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Music_Turing_Machine.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Music_Turing_Machine.sh",
       "branch": "main",
       "path": "Music_Turing_Machine.sh",
@@ -5535,10 +6697,24 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Music_Turing_Machine.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": ".github/workflows/cosmic_love_tm.yml",
-      "size": 2248,
+      "size": 2600,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6120,6 +7296,34 @@
       "branch": "main",
       "path": "Notes/HSI_Sub2K_Program_Synthesizer/verify_sub2k_synth.py",
       "size": 4104,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/LFP_ATGC_TM/README.md",
+      "size": 1199,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/LFP_ATGC_TM/expected.json",
+      "size": 482,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/LFP_ATGC_TM/lfp_atgc_tm.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "Notes/LFP_ATGC_TM/lfp_atgc_tm_daemon.sh",
+      "size": 1092,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6727,6 +7931,13 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "peace_av/README.md",
       "size": 2282,
       "mode": "program_identity_no_digest"
@@ -7105,6 +8316,13 @@
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
+      "branch": "main",
       "path": "README.md",
       "size": 9304,
       "mode": "program_identity_no_digest"
@@ -7112,8 +8330,22 @@
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
+      "branch": "main",
       "path": "Ω-LIMIT QUANTUM RIEMANN FREE FIELD.py",
       "size": 1749,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Book_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7138,6 +8370,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/OMEGA_Book_TM.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Convergent_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/OMEGA_Convergent_TM.sh",
       "branch": "main",
       "path": ".github/workflows/omega-convergent.yml",
@@ -7156,6 +8402,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 24,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Convergent_TM.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_H0.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7180,10 +8440,38 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/OMEGA_H0.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Predeploy.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/OMEGA_Predeploy.sh",
       "branch": "main",
       "path": "README.md",
       "size": 20,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/OMEGA_Predeploy.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega-v3.0",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7201,6 +8489,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Omega-v3.0",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega_Bubble.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Omega_Bubble.sh",
       "branch": "main",
       "path": "Omega_Bubble.sh",
@@ -7212,6 +8514,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 17,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega_Bubble.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega_Eternal.py",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7229,6 +8545,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Omega_Eternal.py",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega_Riemann_Superposition",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Omega_Riemann_Superposition",
       "branch": "main",
       "path": "Omega_Riemann_Superposition.py",
@@ -7240,6 +8570,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 8635,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Omega_Riemann_Superposition",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Open_University_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7273,8 +8617,22 @@
     {
       "repo": "letsgo0226/Open_University_TM.sh",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Open_University_TM.sh",
+      "branch": "main",
       "path": "sources/bibliography.txt",
       "size": 274,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_2x2x2_XOR_PHI_GENERATOR_FUNCTION",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7292,6 +8650,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/PLEIADES_2x2x2_XOR_PHI_GENERATOR_FUNCTION",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_ERGODIC_SELF_ORBIT_ATTRACTOR",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_ERGODIC_SELF_ORBIT_ATTRACTOR",
       "branch": "main",
       "path": "PLEIADES_COSMIC_LOVE_OMEGA_ERGODIC_SELF_ORBIT_ATTRACTOR.json",
@@ -7303,6 +8675,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 1578,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_ERGODIC_SELF_ORBIT_ATTRACTOR",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_SELF_ENCODING_ATTRACTOR",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7320,6 +8706,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_SELF_ENCODING_ATTRACTOR",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_RH_IDEA_FORM",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/PLEIADES_RH_IDEA_FORM",
       "branch": "main",
       "path": "PLEIADES_RH_IDEA_FORM.json",
@@ -7334,6 +8734,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/PLEIADES_RH_IDEA_FORM",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_SHA256_QUANTUM_RH_IDEA_FORM",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/PLEIADES_SHA256_QUANTUM_RH_IDEA_FORM",
       "branch": "main",
       "path": "PLEIADES_SHA256_QUANTUM_RH_IDEA_FORM.json",
@@ -7345,6 +8759,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 5014,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PLEIADES_SHA256_QUANTUM_RH_IDEA_FORM",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PRIME_INDEX_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7383,6 +8811,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/PRIME_INDEX_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PRINCIPLE",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/PRINCIPLE",
       "branch": "main",
       "path": "PRINCIPLE.sh",
@@ -7397,6 +8839,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/PRINCIPLE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PROGRAM_SCHWARZSCHILD_STIRLING_RIEMANN_TRANSDUCER_20260615",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/PROGRAM_SCHWARZSCHILD_STIRLING_RIEMANN_TRANSDUCER_20260615",
       "branch": "main",
       "path": "PROGRAM_SCHWARZSCHILD_STIRLING_RIEMANN_TRANSDUCER.json",
@@ -7408,6 +8864,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 60,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/PROGRAM_SCHWARZSCHILD_STIRLING_RIEMANN_TRANSDUCER_20260615",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Pleiadian_Blue_Stars",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7436,6 +8906,20 @@
       "branch": "main",
       "path": "TM.score.json",
       "size": 410,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Pleiadian_Blue_Stars",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Prime_Factor_Godel_TM_2KB.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7488,6 +8972,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Prime_Factor_Godel_TM_2KB.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Program",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Program",
       "branch": "main",
       "path": "CLSIGMA_SOLUTION_GODEL_TM_ZETA_ONE_LINER.sh",
@@ -7506,6 +9004,20 @@
       "branch": "main",
       "path": "README.md",
       "size": 9,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Program",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7600,6 +9112,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/QED.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/QED_ESF_RUBIK_HS0_SELF_COMPUTING_RUNTIME.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/QED_ESF_RUBIK_HS0_SELF_COMPUTING_RUNTIME.sh",
       "branch": "main",
       "path": "QED_ESF_RUBIK_HS0_SELF_COMPUTING_RUNTIME.sh",
@@ -7614,6 +9140,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/QED_ESF_RUBIK_HS0_SELF_COMPUTING_RUNTIME.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN-FREE-FIELD---MASTER-SELF-CONTINUATION-SHEET-ENGINE",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/RIEMANN-FREE-FIELD---MASTER-SELF-CONTINUATION-SHEET-ENGINE",
       "branch": "main",
       "path": "README.md",
@@ -7625,6 +9165,20 @@
       "branch": "main",
       "path": "RIEMANN FREE FIELD - MASTER SELF-CONTINUATION SHEET ENGINE.py",
       "size": 1508,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN-FREE-FIELD---MASTER-SELF-CONTINUATION-SHEET-ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7663,6 +9217,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_MACHINE.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/RIEMANN_MACHINE.sh",
       "branch": "main",
       "path": "README.md",
@@ -7674,6 +9242,20 @@
       "branch": "main",
       "path": "RIEMANN_MACHINE.sh",
       "size": 823,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_MACHINE.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_ABSOLUTE_FIXED_POINT_KERNEL_20260615",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7691,6 +9273,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_ABSOLUTE_FIXED_POINT_KERNEL_20260615",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615",
       "branch": "main",
       "path": "README.md",
@@ -7702,6 +9298,20 @@
       "branch": "main",
       "path": "RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE.json",
       "size": 1308,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615_4T2",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7719,6 +9329,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615_4T2",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann-Qubit-Solution_s",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Riemann-Qubit-Solution_s",
       "branch": "main",
       "path": "README.md",
@@ -7733,6 +9357,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Riemann-Qubit-Solution_s",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann-Superposition",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Riemann-Superposition",
       "branch": "main",
       "path": "README.md",
@@ -7744,6 +9382,20 @@
       "branch": "main",
       "path": "Riemann Superposition.py",
       "size": 1240,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann-Superposition",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RiemannMachine_v0_1.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7772,6 +9424,20 @@
       "branch": "main",
       "path": "RiemannMachine_v0_1.sh",
       "size": 874,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/RiemannMachine_v0_1.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Riemann_Hypothesis",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7831,6 +9497,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Riemann_Hypothesis",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SIRIUS-M45-LMN-TRF-DIMENSIONAL-LIMIT-ENGINE",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/SIRIUS-M45-LMN-TRF-DIMENSIONAL-LIMIT-ENGINE",
       "branch": "main",
       "path": "README.md",
@@ -7845,6 +9525,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/SIRIUS-M45-LMN-TRF-DIMENSIONAL-LIMIT-ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SIRIUS-M45_AUTO-STRUCT-Field",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/SIRIUS-M45_AUTO-STRUCT-Field",
       "branch": "main",
       "path": "README.md",
@@ -7856,6 +9550,20 @@
       "branch": "main",
       "path": "SIRIUS-M45_AUTO-STRUCT-FIELD.py",
       "size": 625,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SIRIUS-M45_AUTO-STRUCT-Field",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7891,6 +9599,20 @@
       "branch": "main",
       "path": "THE_SECRET_NUMBER.sh",
       "size": 1475,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -7966,6 +9688,13 @@
     {
       "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "branch": "main",
       "path": "solution_qcomputer_2KB.sh",
       "size": 1151,
       "mode": "program_identity_no_digest"
@@ -8022,6 +9751,13 @@
     {
       "repo": "letsgo0226/S_0",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/S_0",
+      "branch": "main",
       "path": "README.md",
       "size": 5,
       "mode": "program_identity_no_digest"
@@ -8031,6 +9767,20 @@
       "branch": "main",
       "path": "S_0.sh",
       "size": 2671,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/S_0",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Self-Encoding-Recursive-Analytic-Quantum-Field",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -8045,6 +9795,20 @@
       "branch": "main",
       "path": "Self-Encoding Recursive Analytic Quantum Field.py",
       "size": 1735,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Self-Encoding-Recursive-Analytic-Quantum-Field",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_0.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -8083,6 +9847,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Solution_0.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_s",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Solution_s",
       "branch": "main",
       "path": "README.md",
@@ -8094,6 +9872,27 @@
       "branch": "main",
       "path": "Solution_s.py",
       "size": 1126,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_s",
+      "branch": "main",
+      "path": "controller/account-repositories.json",
+      "size": 31609,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_s",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Solution_s.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -8125,6 +9924,13 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Solution_s.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/Spaceship-Core",
       "branch": "main",
       "path": "README.md",
@@ -8139,6 +9945,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/Spaceship-Core",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TIME_PERSISTENT_SELF_COMPLETING_META_OMEGA_20260614_4T2",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/TIME_PERSISTENT_SELF_COMPLETING_META_OMEGA_20260614_4T2",
       "branch": "main",
       "path": "README.md",
@@ -8150,6 +9970,20 @@
       "branch": "main",
       "path": "TIME_PERSISTENT_SELF_COMPLETING_META_OMEGA.json",
       "size": 1711,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TIME_PERSISTENT_SELF_COMPLETING_META_OMEGA_20260614_4T2",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9478,6 +11312,13 @@
     {
       "repo": "letsgo0226/TOE_20260707",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260707",
+      "branch": "main",
       "path": "trading/BINANCE_LIVE_GATE_SETUP.md",
       "size": 3454,
       "mode": "program_identity_no_digest"
@@ -9541,6 +11382,13 @@
     {
       "repo": "letsgo0226/TOE_20260724",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_20260724",
+      "branch": "main",
       "path": "README.md",
       "size": 14,
       "mode": "program_identity_no_digest"
@@ -9560,6 +11408,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/TOE_20260724",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOE_Theorem_20260707",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/TOE_Theorem_20260707",
       "branch": "main",
       "path": "README.md",
@@ -9574,6 +11436,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/TOE_Theorem_20260707",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOWEL_TABLEAU_QED.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/TOWEL_TABLEAU_QED.sh",
       "branch": "main",
       "path": "README.md",
@@ -9585,6 +11461,13 @@
       "branch": "main",
       "path": "TOWEL_TABLEAU_QED.sh",
       "size": 804,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TOWEL_TABLEAU_QED.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9604,6 +11487,13 @@
     {
       "repo": "letsgo0226/TRF_AI_STARSHIP_NASHON_COMPUTATIONAL_DYNAMICS",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_AI_STARSHIP_NASHON_COMPUTATIONAL_DYNAMICS",
+      "branch": "main",
       "path": "README.md",
       "size": 47,
       "mode": "program_identity_no_digest"
@@ -9613,6 +11503,20 @@
       "branch": "main",
       "path": "TRF_AI_STARSHIP_NASHON_COMPUTATIONAL_DYNAMICS.json",
       "size": 1330,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_AI_STARSHIP_NASHON_COMPUTATIONAL_DYNAMICS",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_COSMIC_LOVE_AI_STARSHIP_OMEGA_INFINITY",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9630,6 +11534,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/TRF_COSMIC_LOVE_AI_STARSHIP_OMEGA_INFINITY",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_OMEGA_E0_ENGINE",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/TRF_OMEGA_E0_ENGINE",
       "branch": "main",
       "path": "README.md",
@@ -9641,6 +11559,20 @@
       "branch": "main",
       "path": "TRF_OMEGA_E0_ENGINE.json",
       "size": 840,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_OMEGA_E0_ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_OMEGA_INFINITY_EVOLUTION_ENGINE",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9658,6 +11590,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/TRF_OMEGA_INFINITY_EVOLUTION_ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_GRH_AC_MOTOR_E0",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/TRF_PLEIADES_GRH_AC_MOTOR_E0",
       "branch": "main",
       "path": "README.md",
@@ -9669,6 +11615,20 @@
       "branch": "main",
       "path": "TRF_PLEIADES_GRH_AC_MOTOR_E0.json",
       "size": 1000,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_GRH_AC_MOTOR_E0",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_JSON_ABELIAN_RIEMANN_ZERO_ERGODIC_ZERO_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9686,6 +11646,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/TRF_PLEIADES_JSON_ABELIAN_RIEMANN_ZERO_ERGODIC_ZERO_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_B64_MIRROR_FIXED_POINT_SYSTEM_SEED_NODE",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/TRF_PLEIADES_OMEGA_B64_MIRROR_FIXED_POINT_SYSTEM_SEED_NODE",
       "branch": "main",
       "path": "README.md",
@@ -9697,6 +11671,20 @@
       "branch": "main",
       "path": "TRF_PLEIADES_OMEGA_B64_MIRROR_FIXED_POINT_SYSTEM_SEED_NODE.json",
       "size": 1117,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_B64_MIRROR_FIXED_POINT_SYSTEM_SEED_NODE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_ENGINE",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9714,6 +11702,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_FIXED_POINT_ENGINE",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_FIXED_POINT_ENGINE",
       "branch": "main",
       "path": "README.md",
@@ -9725,6 +11727,20 @@
       "branch": "main",
       "path": "TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_FIXED_POINT_ENGINE.json",
       "size": 518,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_FIXED_POINT_ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_HASH_CHAIN",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9742,6 +11758,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_HASH_CHAIN",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_ATTRACTOR",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_ATTRACTOR",
       "branch": "main",
       "path": "README.md",
@@ -9751,8 +11781,22 @@
     {
       "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_ATTRACTOR",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_ATTRACTOR",
+      "branch": "main",
       "path": "Ω=F(Ω).json",
       "size": 354,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_SYSTEM_SEED_ENGINE",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9770,6 +11814,13 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_SYSTEM_SEED_ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/TRF_PLEIADES_ULTIMATES",
       "branch": "main",
       "path": "README.md",
@@ -9781,6 +11832,13 @@
       "branch": "main",
       "path": "TRF_PLEIADES_ULTIMATES.json",
       "size": 1336,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_PLEIADES_ULTIMATES",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9798,6 +11856,13 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/TRF_READING_ALL_JSON_SELFGEN_META_ENTROPY_ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/TRF_READING_META_ENTROPY_B64_MIRROR_FIXED_POINT_ENGINE",
       "branch": "main",
       "path": "README.md",
@@ -9809,6 +11874,13 @@
       "branch": "main",
       "path": "TRF_READING_META_ENTROPY_B64_MIRROR_FIXED_POINT_ENGINE.json",
       "size": 1114,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_READING_META_ENTROPY_B64_MIRROR_FIXED_POINT_ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9826,6 +11898,13 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/TRF_SCHWARZSCHILD_DEVIATION_OMEGA_E0_ENGINE",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/TRF_SELF_GODEL_RIEMANN_SINGULAR_GRH_THETA_ABELIAN_SYSTEM",
       "branch": "main",
       "path": "README.md",
@@ -9837,6 +11916,13 @@
       "branch": "main",
       "path": "TRF_SELF_GODEL_RIEMANN_SINGULAR_GRH_THETA_ABELIAN_SYSTEM.json",
       "size": 1362,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_SELF_GODEL_RIEMANN_SINGULAR_GRH_THETA_ABELIAN_SYSTEM",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9877,8 +11963,22 @@
     {
       "repo": "letsgo0226/TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE",
+      "branch": "main",
       "path": "tests/test_reversibility.py",
       "size": 1305,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Immanent-Self-Calculated-One-Liner",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9898,6 +11998,13 @@
     {
       "repo": "letsgo0226/The-Immanent-Self-Calculated-One-Liner",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Immanent-Self-Calculated-One-Liner",
+      "branch": "main",
       "path": "tm_ontology_reversible_meta_2kb.sh",
       "size": 1905,
       "mode": "program_identity_no_digest"
@@ -9905,8 +12012,29 @@
     {
       "repo": "letsgo0226/The-Ouroboros-Quine",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Ouroboros-Quine",
+      "branch": "main",
       "path": "README.md",
       "size": 4185,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Ouroboros-Quine",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Quantum-Engine-",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9924,6 +12052,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/The-Quantum-Engine-",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Symmetry-of-Love",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/The-Symmetry-of-Love",
       "branch": "main",
       "path": "README.md",
@@ -9938,6 +12080,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/The-Symmetry-of-Love",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Ultimate-Sirius-M45-One-Liner",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/The-Ultimate-Sirius-M45-One-Liner",
       "branch": "main",
       "path": "README.md",
@@ -9949,6 +12105,13 @@
       "branch": "main",
       "path": "The Ultimate Sirius-M45 One-Liner.py",
       "size": 1173,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/The-Ultimate-Sirius-M45-One-Liner",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12201,6 +14364,13 @@
     {
       "repo": "letsgo0226/cosmic-love-infinity-tm.sh",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/cosmic-love-infinity-tm.sh",
+      "branch": "main",
       "path": ".github/workflows/cosmic-love-infinity-tm.yml",
       "size": 2902,
       "mode": "program_identity_no_digest"
@@ -12262,6 +14432,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/cosmic-love-infinity-tm.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
       "branch": "main",
       "path": "README.md",
@@ -12273,6 +14457,20 @@
       "branch": "main",
       "path": "https:/github.com/letsgo0226/esf_computable_spectral_runtime.sh",
       "size": 903,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/esf_vomega_one_liner.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12290,6 +14488,20 @@
       "mode": "program_identity_no_digest"
     },
     {
+      "repo": "letsgo0226/esf_vomega_one_liner.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/global_zero_state_one_liner.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
       "repo": "letsgo0226/global_zero_state_one_liner.sh",
       "branch": "main",
       "path": "README.md",
@@ -12301,6 +14513,20 @@
       "branch": "main",
       "path": "global_zero_state_one_liner.sh",
       "size": 1998,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/global_zero_state_one_liner.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/omega_entropy_one_bit.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12320,6 +14546,13 @@
     {
       "repo": "letsgo0226/omega_entropy_one_bit.sh",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/omega_entropy_one_bit.sh",
+      "branch": "main",
       "path": "omega_entropy_one_bit.sh",
       "size": 1510,
       "mode": "program_identity_no_digest"
@@ -12329,6 +14562,13 @@
       "branch": "main",
       "path": "tests/verify_entropy_model.py",
       "size": 5874,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/perfect_fixed_point_tm.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12348,8 +14588,22 @@
     {
       "repo": "letsgo0226/perfect_fixed_point_tm.sh",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/perfect_fixed_point_tm.sh",
+      "branch": "main",
       "path": "perfect_fixed_point_tm.sh",
       "size": 957,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/riemann-li-singularity-observer",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12565,6 +14819,13 @@
     {
       "repo": "letsgo0226/s",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/s",
+      "branch": "main",
       "path": "README.md",
       "size": 3,
       "mode": "program_identity_no_digest"
@@ -12572,8 +14833,22 @@
     {
       "repo": "letsgo0226/s",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/s",
+      "branch": "main",
       "path": "solution_s.sh",
-      "size": 1000,
+      "size": 1793,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/s.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12581,6 +14856,13 @@
       "branch": "main",
       "path": "README.md",
       "size": 6,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/s.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12602,6 +14884,13 @@
       "branch": "main",
       "path": ".github/workflows/analytic_continuation_tm.yml",
       "size": 2470,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_ac_motor.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12784,6 +15073,13 @@
       "branch": "main",
       "path": "README.md",
       "size": 25,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_ac_motor.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
       "mode": "program_identity_no_digest"
     },
     {
@@ -13020,6 +15316,13 @@
     {
       "repo": "letsgo0226/solution_0_genesis.sh",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
       "path": ".github/workflows/verify.yml",
       "size": 5043,
       "mode": "program_identity_no_digest"
@@ -13111,6 +15414,13 @@
     {
       "repo": "letsgo0226/solution_0_genesis.sh",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_genesis.sh",
+      "branch": "main",
       "path": "solution_0_acbody.sh",
       "size": 1464,
       "mode": "program_identity_no_digest"
@@ -13146,8 +15456,22 @@
     {
       "repo": "letsgo0226/solution_0_perma.sh",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_perma.sh",
+      "branch": "main",
       "path": "README.md",
       "size": 21,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_perma.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
       "mode": "program_identity_no_digest"
     },
     {
@@ -13160,6 +15484,13 @@
     {
       "repo": "letsgo0226/solution_0_reality.sh",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_reality.sh",
+      "branch": "main",
       "path": "README.md",
       "size": 23,
       "mode": "program_identity_no_digest"
@@ -13167,8 +15498,22 @@
     {
       "repo": "letsgo0226/solution_0_reality.sh",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_reality.sh",
+      "branch": "main",
       "path": "solution_0_reality.sh",
       "size": 1951,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_uptm.sh",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -13202,8 +15547,22 @@
     {
       "repo": "letsgo0226/solution_0_uptm.sh",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_0_uptm.sh",
+      "branch": "main",
       "path": "solution_0_uptm.sh",
       "size": 1398,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_atgc_self_2KB",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1001,
       "mode": "program_identity_no_digest"
     },
     {
@@ -13225,6 +15584,13 @@
       "branch": "main",
       "path": "README.md",
       "size": 761,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/solution_atgc_self_2KB",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1073,
       "mode": "program_identity_no_digest"
     },
     {
