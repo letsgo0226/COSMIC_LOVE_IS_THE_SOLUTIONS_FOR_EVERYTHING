@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 174,
-  "program_count": 2299,
+  "program_count": 2308,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -238,21 +238,21 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 372
+      "size": 436
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 90
+      "size": 93
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 1303
+      "size": 1349
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -3605,6 +3605,27 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261017T155405Z.json",
+      "size": 60477,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261017T173655Z.json",
+      "size": 60476,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261017T194934Z.json",
+      "size": 60475,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/CLOSED_LOOP_20261013T021018Z.json",
       "size": 12831,
       "mode": "program_identity_no_digest"
@@ -4270,8 +4291,29 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261017T153951Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261017T173651Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261017T194928Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/LATEST_ACCOUNT_TM_RUN.json",
-      "size": 60477,
+      "size": 60475,
       "mode": "program_identity_no_digest"
     },
     {
@@ -4614,6 +4656,20 @@
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
       "path": "certificates/RESIDENT_AUTO_DEPLOY_20261017T152656Z.json",
+      "size": 1730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261017T173650Z.json",
+      "size": 1730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261017T194927Z.json",
       "size": 1730,
       "mode": "program_identity_no_digest"
     },
@@ -5012,6 +5068,13 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
       "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261017T201614Z.json",
+      "size": 4589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
       "path": "certificates/LATEST_AUTO_SEAL.json",
       "size": 4589,
       "mode": "program_identity_no_digest"
@@ -5202,7 +5265,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 495602,
+      "size": 498557,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5216,7 +5279,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1915,
+      "size": 1916,
       "mode": "program_identity_no_digest"
     },
     {
