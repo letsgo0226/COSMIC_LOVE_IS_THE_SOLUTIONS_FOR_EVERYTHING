@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 176,
-  "program_count": 2528,
+  "program_count": 2547,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -238,7 +238,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 275
+      "size": 349
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
@@ -252,7 +252,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2095
+      "size": 2143
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -378,7 +378,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 7
+      "size": 18
     },
     {
       "repo": "letsgo0226/Cosmological_Principle.sh",
@@ -567,7 +567,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 64877
+      "size": 47067
     },
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
@@ -4004,6 +4004,20 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261022T051755Z.json",
+      "size": 61063,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261022T080543Z.json",
+      "size": 61063,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/CLOSED_LOOP_20261013T021018Z.json",
       "size": 12831,
       "mode": "program_identity_no_digest"
@@ -5236,8 +5250,22 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261022T045559Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261022T080537Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/LATEST_ACCOUNT_TM_RUN.json",
-      "size": 61062,
+      "size": 61063,
       "mode": "program_identity_no_digest"
     },
     {
@@ -5852,6 +5880,13 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261022T080536Z.json",
+      "size": 1730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/STATUS.md",
       "size": 240,
       "mode": "program_identity_no_digest"
@@ -6363,6 +6398,13 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
       "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261022T112008Z.json",
+      "size": 4589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
       "path": "certificates/LATEST_AUTO_SEAL.json",
       "size": 4589,
       "mode": "program_identity_no_digest"
@@ -6553,7 +6595,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 547914,
+      "size": 551173,
       "mode": "program_identity_no_digest"
     },
     {
@@ -6567,7 +6609,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1915,
+      "size": 1914,
       "mode": "program_identity_no_digest"
     },
     {
@@ -8295,6 +8337,27 @@
     {
       "repo": "letsgo0226/Cosmic_Rosetta_Stone",
       "branch": "main",
+      "path": ".github/workflows/rosetta777-pages.yml",
+      "size": 2525,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "AI_ACCESS.md",
+      "size": 3110,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "GITHUB_PAGES_SETUP.md",
+      "size": 3372,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
       "path": "README.md",
       "size": 22,
       "mode": "program_identity_no_digest"
@@ -8309,6 +8372,13 @@
     {
       "repo": "letsgo0226/Cosmic_Rosetta_Stone",
       "branch": "main",
+      "path": "examples/read_public.py",
+      "size": 3978,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
       "path": "lfp_atgc_tm_2kb.sh",
       "size": 1293,
       "mode": "program_identity_no_digest"
@@ -8318,6 +8388,48 @@
       "branch": "main",
       "path": "rosetta777_rosetta_plain_2kb.sh",
       "size": 2045,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "scripts/build_pages.py",
+      "size": 13014,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "site/data/index.schema.json",
+      "size": 2708,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "site/index.html",
+      "size": 3854,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "site/llms.txt",
+      "size": 2389,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "tests/test_ai_access.py",
+      "size": 3790,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "tests/test_pages.py",
+      "size": 10958,
       "mode": "program_identity_no_digest"
     },
     {
@@ -10325,6 +10437,27 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/03_Love_如何閱讀生命/03_愛與最高實現/dossier.md",
+      "size": 15239,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/03_Love_如何閱讀生命/03_愛與最高實現/manifest.json",
+      "size": 48235,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/03_Love_如何閱讀生命/03_愛與最高實現/tm_trace.json",
+      "size": 5900,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "books/reading-trilogy/open-corpus/03_Love_如何閱讀生命/07_反對意見/dossier.md",
       "size": 15227,
       "mode": "program_identity_no_digest"
@@ -10396,7 +10529,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "books/reading-trilogy/open-corpus/state.json",
-      "size": 3071,
+      "size": 3215,
       "mode": "program_identity_no_digest"
     },
     {
