@@ -7,7 +7,7 @@
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
   "repo_count": 176,
-  "program_count": 2730,
+  "program_count": 2748,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -238,7 +238,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 735
+      "size": 836
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
@@ -252,7 +252,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2875
+      "size": 2924
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -567,7 +567,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 47143
+      "size": 67542
     },
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
@@ -4347,6 +4347,27 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261026T051327Z.json",
+      "size": 61063,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261026T081528Z.json",
+      "size": 61063,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261026T124841Z.json",
+      "size": 61063,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/CLOSED_LOOP_20261013T021018Z.json",
       "size": 12831,
       "mode": "program_identity_no_digest"
@@ -4677,6 +4698,13 @@
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
       "path": "certificates/DAEMON_CYCLE_20261026T043428Z.json",
+      "size": 2901,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/DAEMON_CYCLE_20261026T124841Z.json",
       "size": 2901,
       "mode": "program_identity_no_digest"
     },
@@ -6076,6 +6104,41 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261026T045416Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261026T081522Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261026T124834Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261026T124835Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261026T131119Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/LATEST_ACCOUNT_TM_RUN.json",
       "size": 61063,
       "mode": "program_identity_no_digest"
@@ -6923,6 +6986,20 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261026T081521Z.json",
+      "size": 1730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261026T124834Z.json",
+      "size": 1730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/STATUS.md",
       "size": 240,
       "mode": "program_identity_no_digest"
@@ -7546,6 +7623,13 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
       "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261026T122637Z.json",
+      "size": 4589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
       "path": "certificates/LATEST_AUTO_SEAL.json",
       "size": 4589,
       "mode": "program_identity_no_digest"
@@ -7736,7 +7820,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 594344,
+      "size": 597603,
       "mode": "program_identity_no_digest"
     },
     {
@@ -11508,6 +11592,27 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/01_Caduceus_如何閱讀一本書/04_Caduceus_與理性/dossier.md",
+      "size": 15306,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/01_Caduceus_如何閱讀一本書/04_Caduceus_與理性/manifest.json",
+      "size": 48427,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "books/reading-trilogy/open-corpus/01_Caduceus_如何閱讀一本書/04_Caduceus_與理性/tm_trace.json",
+      "size": 5897,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "books/reading-trilogy/open-corpus/01_Caduceus_如何閱讀一本書/05_文本與理解/dossier.md",
       "size": 15320,
       "mode": "program_identity_no_digest"
@@ -11810,7 +11915,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "books/reading-trilogy/open-corpus/state.json",
-      "size": 3676,
+      "size": 3834,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12608,7 +12713,7 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "影音/index.json",
-      "size": 1141,
+      "size": 1411,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12692,6 +12797,27 @@
       "repo": "letsgo0226/Notes",
       "branch": "main",
       "path": "影音/runs/39210307071/transcript.en.md",
+      "size": 14610,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "影音/runs/40281175126/correspondence.json",
+      "size": 29312,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "影音/runs/40281175126/manifest.json",
+      "size": 1372,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
+      "path": "影音/runs/40281175126/transcript.en.md",
       "size": 14610,
       "mode": "program_identity_no_digest"
     },
