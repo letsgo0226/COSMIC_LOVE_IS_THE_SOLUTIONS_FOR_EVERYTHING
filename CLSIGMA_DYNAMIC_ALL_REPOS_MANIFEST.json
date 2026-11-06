@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 180,
-  "program_count": 3274,
+  "repo_count": 181,
+  "program_count": 3328,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -238,21 +238,21 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2057
+      "size": 477
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 248
+      "size": 253
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2002
+      "size": 2057
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -378,7 +378,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 249
+      "size": 241
     },
     {
       "repo": "letsgo0226/Cosmological_Principle.sh",
@@ -574,7 +574,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 88211
+      "size": 88220
     },
     {
       "repo": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
@@ -890,6 +890,13 @@
       "private": false,
       "archived": false,
       "size": 10
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 106
     },
     {
       "repo": "letsgo0226/TOE_20260707",
@@ -5061,6 +5068,34 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261106T071848Z.json",
+      "size": 62247,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261106T100545Z.json",
+      "size": 62247,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261106T183943Z.json",
+      "size": 62515,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261106T191725Z.json",
+      "size": 62516,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/CLOSED_LOOP_20261013T021018Z.json",
       "size": 12831,
       "mode": "program_identity_no_digest"
@@ -5587,6 +5622,13 @@
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
       "path": "certificates/DAEMON_CYCLE_20261106T062632Z.json",
+      "size": 2901,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/DAEMON_CYCLE_20261106T191725Z.json",
       "size": 2901,
       "mode": "program_identity_no_digest"
     },
@@ -7819,8 +7861,50 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261106T065438Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261106T100539Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261106T183937Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261106T191718Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261106T191719Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261106T192759Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/LATEST_ACCOUNT_TM_RUN.json",
-      "size": 62247,
+      "size": 62516,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9142,6 +9226,27 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261106T100538Z.json",
+      "size": 1730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261106T183936Z.json",
+      "size": 1730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261106T191718Z.json",
+      "size": 1730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/STATUS.md",
       "size": 240,
       "mode": "program_identity_no_digest"
@@ -10003,6 +10108,13 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
       "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261106T135248Z.json",
+      "size": 4589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
       "path": "certificates/LATEST_AUTO_SEAL.json",
       "size": 4589,
       "mode": "program_identity_no_digest"
@@ -10193,7 +10305,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 717107,
+      "size": 719561,
       "mode": "program_identity_no_digest"
     },
     {
@@ -10207,7 +10319,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1916,
+      "size": 1915,
       "mode": "program_identity_no_digest"
     },
     {
@@ -11942,6 +12054,13 @@
     {
       "repo": "letsgo0226/Cosmic_Rosetta_Stone",
       "branch": "main",
+      "path": ".github/workflows/tm-registry-ci.yml",
+      "size": 915,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
       "path": ".github/workflows/total-turing-machine.yml",
       "size": 2863,
       "mode": "program_identity_no_digest"
@@ -12299,6 +12418,13 @@
     {
       "repo": "letsgo0226/Cosmic_Rosetta_Stone",
       "branch": "main",
+      "path": "tools/load_turing_registry.py",
+      "size": 2374,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
       "path": "tools/prove_dtm_invariants.py",
       "size": 6249,
       "mode": "program_identity_no_digest"
@@ -12315,6 +12441,13 @@
       "branch": "main",
       "path": "tools/test_photonic_exact.py",
       "size": 4254,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "tools/test_tm_registry.py",
+      "size": 3715,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12405,7 +12538,7 @@
       "repo": "letsgo0226/Cosmic_Rosetta_Stone",
       "branch": "main",
       "path": "永久記憶/圖靈機/README.md",
-      "size": 2836,
+      "size": 4603,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12460,8 +12593,36 @@
     {
       "repo": "letsgo0226/Cosmic_Rosetta_Stone",
       "branch": "main",
+      "path": "永久記憶/圖靈機/TM-008-God-Turing-Machine-No-SHA-Master.md",
+      "size": 1645,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
       "path": "永久記憶/圖靈機/TM-009-Photonic-Singularity-UGTM.md",
-      "size": 5756,
+      "size": 5803,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-010-Essence-Existence-Alignment-UCGTM.md",
+      "size": 5037,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-011-Logical-Chronon-Temporal-Closure.md",
+      "size": 2853,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-012-Partial-Universal-With-Total-Subroutine.md",
+      "size": 1803,
       "mode": "program_identity_no_digest"
     },
     {
@@ -12481,8 +12642,43 @@
     {
       "repo": "letsgo0226/Cosmic_Rosetta_Stone",
       "branch": "main",
+      "path": "永久記憶/圖靈機/essence_existence_alignment_ucgtm_2kb.sh",
+      "size": 1767,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/god_turing_machine_no_sha_2kb.sh",
+      "size": 1619,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/logical_chronon_temporal_closure_2kb.sh",
+      "size": 1183,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/machine_registry.json",
+      "size": 2462,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
       "path": "永久記憶/圖靈機/three_cat_cookies_universal_pocket_2kb.sh",
       "size": 1214,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Cosmic_Rosetta_Stone",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/tm012_partial_universal_total_subroutine_2kb.sh",
+      "size": 1604,
       "mode": "program_identity_no_digest"
     },
     {
@@ -14343,6 +14539,13 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "books/dolphin-logos/daily/2026-11-07.md",
+      "size": 1524,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "books/dolphin-logos/rounds/000001-acd7d54229a63e84.json",
       "size": 9141,
       "mode": "program_identity_no_digest"
@@ -14518,8 +14721,15 @@
     {
       "repo": "letsgo0226/Notes",
       "branch": "main",
+      "path": "books/dolphin-logos/rounds/000026-af369b3f6f074bd3.json",
+      "size": 9035,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/Notes",
+      "branch": "main",
       "path": "books/dolphin-logos/state.json",
-      "size": 19256,
+      "size": 20023,
       "mode": "program_identity_no_digest"
     },
     {
@@ -17691,6 +17901,181 @@
       "branch": "main",
       "path": "lfp_atgc_tm_2kb.sh",
       "size": 1503,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": ".github/workflows/tm-registry-ci.yml",
+      "size": 915,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "README.md",
+      "size": 3696,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "Tier_11.sh",
+      "size": 1066,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "tools/load_turing_registry.py",
+      "size": 2374,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "tools/test_tm_registry.py",
+      "size": 2561,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/Eternity_Machine.sh",
+      "size": 773,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/Photonic_Singularity_Exact_Arithmetic_Encoding_Closed_Loop_2KB.sh",
+      "size": 1982,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-001-Schumann-Machine.md",
+      "size": 571,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-002-Ultimate-Schumann-Machine.md",
+      "size": 825,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-003-DTM-22-Dorayaki.md",
+      "size": 717,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-004-APTM-Omega.md",
+      "size": 749,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-005-Tier_11.md",
+      "size": 761,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-006-Eternity-Machine.md",
+      "size": 1206,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-007-Three-Cat-Cookies-Master.md",
+      "size": 1467,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-008-God-Turing-Machine-No-SHA-Master.md",
+      "size": 1645,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-009-Photonic-Singularity-UGTM.md",
+      "size": 5803,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-010-Essence-Existence-Alignment-UCGTM.md",
+      "size": 5037,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-011-Logical-Chronon-Temporal-Closure.md",
+      "size": 2853,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-014-Totalized-Universal-Turing-Machine.md",
+      "size": 1493,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/TM-014-v0.2-2KB.sh",
+      "size": 1540,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/essence_existence_alignment_ucgtm_2kb.sh",
+      "size": 1767,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/god_turing_machine_no_sha_2kb.sh",
+      "size": 1619,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/logical_chronon_temporal_closure_2kb.sh",
+      "size": 1183,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/machine_registry.json",
+      "size": 3325,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/three_cat_cookies_universal_pocket_2kb.sh",
+      "size": 1214,
       "mode": "program_identity_no_digest"
     },
     {
