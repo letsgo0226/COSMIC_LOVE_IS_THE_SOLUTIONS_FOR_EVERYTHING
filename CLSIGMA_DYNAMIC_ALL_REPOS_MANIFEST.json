@@ -6,8 +6,8 @@
   "numeric_basis": "derived_after_canonical_encoding",
   "owner": "letsgo0226",
   "mode": "dynamic_github_account_program_identity_go",
-  "repo_count": 181,
-  "program_count": 3328,
+  "repo_count": 182,
+  "program_count": 3354,
   "repo_nodes": [
     {
       "repo": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
@@ -238,21 +238,21 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 477
+      "size": 680
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 253
+      "size": 264
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 2057
+      "size": 2114
     },
     {
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
@@ -896,7 +896,7 @@
       "default_branch": "main",
       "private": false,
       "archived": false,
-      "size": 106
+      "size": 81
     },
     {
       "repo": "letsgo0226/TOE_20260707",
@@ -1121,6 +1121,13 @@
       "private": false,
       "archived": false,
       "size": 15
+    },
+    {
+      "repo": "letsgo0226/UTM-PLEIADES",
+      "default_branch": "main",
+      "private": false,
+      "archived": false,
+      "size": 5
     },
     {
       "repo": "letsgo0226/UTM.sh",
@@ -5096,6 +5103,27 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261106T193919Z.json",
+      "size": 62516,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261107T003014Z.json",
+      "size": 62797,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/ACCOUNT_TM_RUN_20261107T054843Z.json",
+      "size": 62796,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/CLOSED_LOOP_20261013T021018Z.json",
       "size": 12831,
       "mode": "program_identity_no_digest"
@@ -5629,6 +5657,13 @@
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
       "path": "certificates/DAEMON_CYCLE_20261106T191725Z.json",
+      "size": 2901,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/DAEMON_CYCLE_20261107T054843Z.json",
       "size": 2901,
       "mode": "program_identity_no_digest"
     },
@@ -7903,8 +7938,29 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261107T003008Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261107T054836Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/HARDWARE_VM_LOOP_20261107T054837Z.json",
+      "size": 5629,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/LATEST_ACCOUNT_TM_RUN.json",
-      "size": 62516,
+      "size": 62796,
       "mode": "program_identity_no_digest"
     },
     {
@@ -9247,6 +9303,20 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
       "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261107T003007Z.json",
+      "size": 1730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
+      "path": "certificates/RESIDENT_AUTO_DEPLOY_20261107T054836Z.json",
+      "size": 1730,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "branch": "main",
       "path": "certificates/STATUS.md",
       "size": 240,
       "mode": "program_identity_no_digest"
@@ -10115,6 +10185,20 @@
     {
       "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
       "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261106T224754Z.json",
+      "size": 4589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
+      "path": "certificates/AUTO_SEAL_20261107T050219Z.json",
+      "size": 4589,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "branch": "main",
       "path": "certificates/LATEST_AUTO_SEAL.json",
       "size": 4589,
       "mode": "program_identity_no_digest"
@@ -10305,7 +10389,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
-      "size": 719561,
+      "size": 731303,
       "mode": "program_identity_no_digest"
     },
     {
@@ -10319,7 +10403,7 @@
       "repo": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
       "branch": "main",
       "path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
-      "size": 1915,
+      "size": 1914,
       "mode": "program_identity_no_digest"
     },
     {
@@ -17906,6 +17990,13 @@
     {
       "repo": "letsgo0226/TM-000",
       "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1286,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
       "path": ".github/workflows/tm-registry-ci.yml",
       "size": 915,
       "mode": "program_identity_no_digest"
@@ -17913,8 +18004,22 @@
     {
       "repo": "letsgo0226/TM-000",
       "branch": "main",
+      "path": ".github/workflows/utm-pleiades-safety.yml",
+      "size": 712,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": ".github/workflows/utm-pleiades-staging-dryrun.yml",
+      "size": 563,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
       "path": "README.md",
-      "size": 3696,
+      "size": 4397,
       "mode": "program_identity_no_digest"
     },
     {
@@ -17927,6 +18032,13 @@
     {
       "repo": "letsgo0226/TM-000",
       "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1503,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
       "path": "tools/load_turing_registry.py",
       "size": 2374,
       "mode": "program_identity_no_digest"
@@ -17934,8 +18046,22 @@
     {
       "repo": "letsgo0226/TM-000",
       "branch": "main",
+      "path": "tools/staging_dryrun.py",
+      "size": 1612,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
       "path": "tools/test_tm_registry.py",
-      "size": 2561,
+      "size": 2652,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "tools/test_utm_pleiades_ci.py",
+      "size": 1887,
       "mode": "program_identity_no_digest"
     },
     {
@@ -18046,6 +18172,41 @@
     {
       "repo": "letsgo0226/TM-000",
       "branch": "main",
+      "path": "永久記憶/圖靈機/UTM-PLEIADES-staging-dryrun.md",
+      "size": 759,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/UTM-PLEIADES-v0.1-one-liner.sh",
+      "size": 1422,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/UTM-PLEIADES-v0.1.md",
+      "size": 951,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/UTM-PLEIADES-v0.2-plaintext-one-liner.sh",
+      "size": 2039,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
+      "path": "永久記憶/圖靈機/UTM-PLEIADES-v0.2-plaintext.md",
+      "size": 1082,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/TM-000",
+      "branch": "main",
       "path": "永久記憶/圖靈機/essence_existence_alignment_ucgtm_2kb.sh",
       "size": 1767,
       "mode": "program_identity_no_digest"
@@ -18068,7 +18229,7 @@
       "repo": "letsgo0226/TM-000",
       "branch": "main",
       "path": "永久記憶/圖靈機/machine_registry.json",
-      "size": 3325,
+      "size": 4276,
       "mode": "program_identity_no_digest"
     },
     {
@@ -20523,6 +20684,34 @@
     },
     {
       "repo": "letsgo0226/UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
+      "branch": "main",
+      "path": "lfp_atgc_tm_2kb.sh",
+      "size": 1503,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM-PLEIADES",
+      "branch": "main",
+      "path": ".github/workflows/atgc-managed.yml",
+      "size": 1286,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM-PLEIADES",
+      "branch": "main",
+      "path": "README.md",
+      "size": 14,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM-PLEIADES",
+      "branch": "main",
+      "path": "UTM-PLEIADES.sh",
+      "size": 2039,
+      "mode": "program_identity_no_digest"
+    },
+    {
+      "repo": "letsgo0226/UTM-PLEIADES",
       "branch": "main",
       "path": "lfp_atgc_tm_2kb.sh",
       "size": 1503,
