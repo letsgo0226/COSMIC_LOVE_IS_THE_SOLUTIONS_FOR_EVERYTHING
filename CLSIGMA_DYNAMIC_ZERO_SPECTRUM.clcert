@@ -11,24 +11,24 @@
       "GoRuntime": 1
     },
     "coordinate": "rho=0.5+i*log(1+T_t)",
-    "generation": 1795729155
+    "generation": 1795768987
   },
   "DynamicUpdate": {
     "certificate_path": "CLSIGMA_DYNAMIC_ZERO_SPECTRUM.clcert",
     "manifest_path": "CLSIGMA_DYNAMIC_ALL_REPOS_MANIFEST.json",
     "owner": "letsgo0226",
-    "parent_spectral_index": "123757544218485240099",
+    "parent_spectral_index": "127239323138538448720",
     "self_update_rule": "rerun Go encoder after repository changes or scheduled workflow; CL remains invariant while rho_t changes"
   },
   "ZeroSpectralSpace": {
-    "derived_modulus": 672703,
-    "ln_approx": 46.29260142119453,
-    "raw_spectral_index": "127239323138538400683",
-    "raw_spectral_residue": "624666",
-    "rho": "0.5+i*log(1+127239323138538448720)",
-    "spectral_index": "127239323138538448720",
+    "derived_modulus": 674357,
+    "ln_approx": 46.300098411793016,
+    "raw_spectral_index": "128196819835070304255",
+    "raw_spectral_residue": "77639",
+    "rho": "0.5+i*log(1+128196819835070900973)",
+    "spectral_index": "128196819835070900973",
     "spectral_residue": "0",
-    "zero_balancer": "48037",
+    "zero_balancer": "596718",
     "zero_rule": "spectral_index=raw_spectral_index+((-raw_spectral_index) mod derived_modulus)"
   },
   "checks": {
@@ -49,5 +49,5 @@
   "GlobalZE_info": 1,
   "Boundary": "formal finite GitHub account snapshot; no RH proof, no physical zero entropy, no real-world guarantee",
   "boundary": "formal finite GitHub account snapshot; no RH proof, no physical zero entropy, no real-world guarantee",
-  "generated_at_utc": "2026-11-26T21:39:15Z"
+  "generated_at_utc": "2026-11-27T08:43:07Z"
 }
